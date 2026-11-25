@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-11-22T16:44:43.603Z",
+  "menus": [
+    {
+      "id": "menu-account",
+      "route": "Global Sidebar Bottom",
+      "items": [
+        "Workspace selector (My Workspace · Free)",
+        "Settings",
+        "Switch workspace",
+        "Help",
+        "Log out"
+      ]
+    },
+    {
+      "id": "menu-video-agent-ratio",
+      "route": "/home/video-agent",
+      "items": [
+        "Auto (Chooses the best orientation for your video.)",
+        "Portrait (Best for TikTok, Reels, and Shorts.)",
+        "Landscape (Best for YouTube, presentations, and websites.)"
+      ]
+    },
+    {
+      "id": "menu-video-agent-autopilot",
+      "route": "/home/video-agent",
+      "items": [
+        "Plan (Review and edit the plan before generating)",
+        "Auto-pilot (Generates video without extra steps)"
+      ]
+    },
+    {
+      "id": "menu-composer-avatar-v",
+      "route": "/home/photo-to-video",
+      "items": [
+        "Avatar V (Preview - Latest generation)",
+        "Avatar IV (Previous generation)",
+        "Avatar III (Legacy engine for older avatars)"
+      ]
+    },
+    {
+      "id": "menu-composer-ratio",
+      "route": "/home/photo-to-video",
+      "items": [
+        "Orientation: Portrait",
+        "Orientation: Landscape"
+      ]
+    },
+    {
+      "id": "menu-composer-resolution",
+      "route": "/home/photo-to-video",
+      "items": [
+        "Resolution: 720p",
+        "Resolution: 1080p"
+      ]
+    },
+    {
+      "id": "menu-voices-languages",
+      "route": "/avatar/voices",
+      "items": [
+        "All languages",
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Hindi",
+        "Portuguese",
+        "Japanese",
+        "Korean"
+      ]
+    },
+    {
+      "id": "menu-voices-genders",
+      "route": "/avatar/voices",
+      "items": [
+        "All genders",
+        "Female",
+        "Male"
+      ]
+    },
+    {
+      "id": "menu-voices-filters",
+      "route": "/avatar/voices",
+      "items": [
+        "Use cases: Ads, E-learning, Gaming, Audiobook, Documentary",
+        "Voice age: Young, Mature, Old"
+      ]
+    },
+    {
+      "id": "menu-voices-row-actions",
+      "route": "/avatar/voices",
+      "items": [
+        "Get Voice ID",
+        "Improve this voice",
+        "Add to Avatar"
+      ]
+    }
+  ]
+}

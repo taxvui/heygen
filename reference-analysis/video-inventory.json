@@ -1,0 +1,26 @@
+[
+  {
+    "category": "videos",
+    "localPath": "public/heygen-assets/videos/prompt-builder-hub.mp4",
+    "url": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/hub.mp4",
+    "type": "video/mp4",
+    "description": "Video Agent Format Preview MP4",
+    "status": "DOWNLOADED",
+    "bytes": 4875101,
+    "sha256": "1d5dadad2ebc8ccfaaf7a2c4a2f2570a7444484b623543a1914a3971bc21d81d",
+    "publicUrl": "/heygen-assets/videos/prompt-builder-hub.mp4",
+    "downloadedAt": "2026-11-22T13:41:38.637Z"
+  },
+  {
+    "category": "videos",
+    "localPath": "public/heygen-assets/videos/avatar-preview-talk.mp4",
+    "url": "https://files2.heygen.ai/avatar/v3/025975fe53df4ae3bcb08e98ef7ce01c_38970/preview_video_talk_12.mp4",
+    "type": "video/mp4",
+    "description": "Avatar Talking Preview Video MP4",
+    "status": "DOWNLOADED",
+    "bytes": 974800,
+    "sha256": "8d0774cb97176d0fcae86be48d2fc0b7373fe06529d207b68787429c29d85c84",
+    "publicUrl": "/heygen-assets/videos/avatar-preview-talk.mp4",
+    "downloadedAt": "2026-11-22T13:41:38.671Z"
+  }
+]

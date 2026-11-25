@@ -1,0 +1,874 @@
+{
+  "generatedAt": "2026-11-22T16:44:43.603Z",
+  "totalObservedPublicAvatars": 33,
+  "categories": [
+    "All",
+    "Professional",
+    "Lifestyle",
+    "UGC",
+    "Community",
+    "Favorites"
+  ],
+  "publicAvatars": [
+    {
+      "id": "pub-annie",
+      "name": "Annie",
+      "isNew": false,
+      "looksCount": 57,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-annie-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-sawyer-look1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-sawyer-look2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/avatar/v3/262658a5bb3346e38b68c623019fd5b2_55470/preview_target.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/5d5a9a07c612460d882861e0e8931564_54040/preview_target.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/561ec5deb3f74a27b6b12fd8a6a2f76e_56970/preview_target.webp"
+      ]
+    },
+    {
+      "id": "pub-marieke",
+      "name": "Marieke",
+      "isNew": true,
+      "looksCount": 24,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-marieke-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-marieke-look1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-marieke-look2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Marieke/lookpack/stills/Warm_Autumn_4.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Marieke/lookpack/stills/Modern_Corporate_2.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Marieke/paos/angles/Kitchen_1.jpg"
+      ]
+    },
+    {
+      "id": "pub-sawyer",
+      "name": "Sawyer",
+      "isNew": false,
+      "looksCount": 18,
+      "category": "Lifestyle",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-brianna-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-kurt-look2.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-brianna-main.png",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/b5954effb53b4e7c95075e8b6923cb08/original.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/c2431fc0c6fb44809f48e7db6390e7de/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/d2ac71052b764c93a49a9e53537f6d29/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-cora",
+      "name": "Cora",
+      "isNew": true,
+      "looksCount": 22,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-cora-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-cora-look1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-cora-look2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Cora/lookpack/angles/Presenter_4.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Cora/paos/angles/office73_p3_a3.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Cora/paos/angles/livingroom79_p2_a2.jpg"
+      ]
+    },
+    {
+      "id": "pub-brianna",
+      "name": "Brianna",
+      "isNew": false,
+      "looksCount": 16,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-sawyer-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-annie-look1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-annie-look2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/9080303643e84f1eaf34f2926065ae49/original.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/50965e4d1dc6491a9e6fdbe1ee0d260b/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/030834e167464549aa999c359bef6558/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-kurt",
+      "name": "Kurt",
+      "isNew": false,
+      "looksCount": 19,
+      "category": "Lifestyle",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-kurt-look1.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-kurt-look1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-kurt-look1.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/b5f56a2c536f4bdcaebb0a1b21aa727c/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/5a5ddd0a915143d7827292148567f2d5/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/f312436050b547548b695af1c869a091/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-livia",
+      "name": "Livia",
+      "isNew": true,
+      "looksCount": 25,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-livia-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-livia-look1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-livia-main.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Livia/paos/angles/Office_11.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Livia/paos/angles/Office_12.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Livia/paos/angles/Livingroom_1.jpg"
+      ]
+    },
+    {
+      "id": "pub-elio",
+      "name": "Elio",
+      "isNew": false,
+      "looksCount": 15,
+      "category": "Professional",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-elio-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-elio-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-elio-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/ed4b173974264ce7a620f3ed1d0e0b59/original.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/fd1cb8f8bd1a4a44b3a2bcdc02b317fd/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/97c9a6e671ad42a7a80fa074f1bd3347/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-teresa",
+      "name": "Teresa",
+      "isNew": false,
+      "looksCount": 14,
+      "category": "Lifestyle",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-teresa-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-teresa-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-teresa-sub1.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/cce888c0a3ae45d090dd2f4c8c925dfe/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/ba2b72b93034431798c0311c4ead1e39/0e4a5c5f0e0e45d3aa7cdf342ab7f10b.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/a9418edec2314cfb8b5c3c68b0becc13/4a15df2895fc4a2f98de07415916c61d.WEBP"
+      ]
+    },
+    {
+      "id": "pub-pamela",
+      "name": "Pamela",
+      "isNew": false,
+      "looksCount": 18,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-pamela-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-pamela-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-pamela-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/b3af4a1565944f57863d37710a748343/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/77b8d6552c2a424db41420fea6988867/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/7972f430376041f19f7b8dc2625cde33/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-kendra",
+      "name": "Kendra",
+      "isNew": false,
+      "looksCount": 16,
+      "category": "UGC",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-kendra-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-kendra-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-kendra-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/144a20a42afb426ea8fe254953b9163c/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/6eada64127a743519479e0aabce1a21d/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/3009279aa76246a4ae213e4ef1f020d6/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-julie",
+      "name": "Julie",
+      "isNew": true,
+      "looksCount": 15,
+      "category": "Lifestyle",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-julie-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-julie-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-julie-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/talking_photo/f125e3600a8d4e80aa9ca68ac90c5240/b310ceb90cde4e50a611e40dd5a765c6.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/c02cb064c52440daa74bb861347b63c3/c9b817bc877a478183a9f6c6daad3a32.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/b356a59c60304f04a0849e5bac9a67c4/bb6c5580e90b443592e9501839459984.WEBP"
+      ]
+    },
+    {
+      "id": "pub-maren",
+      "name": "Maren",
+      "isNew": false,
+      "looksCount": 14,
+      "category": "UGC",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-maren-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-maren-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-maren-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/talking_photo/abf040581f6f41fdb2a90fe1fd379760/c058b63d7db946b5883762423348588c.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/c6c0daaec6054458b7262fad59ee76ef/4c257561ae3b47dda8b742c8b9409ef2.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/3cd21f0c57f54b188418c0f710c9540f/ff9c6eee72b346bcb3015f4e29329e41.WEBP"
+      ]
+    },
+    {
+      "id": "pub-imani",
+      "name": "Imani",
+      "isNew": false,
+      "looksCount": 17,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-imani-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-imani-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-imani-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/61b67e47603445faa8df48ca48209755/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/6dc3df6b71a4416c823fdf3a170b8c3b/24321cf11f0c4718bc0ceec423625db5.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/e768ad75e2ae467898320d6102a9ecfa/635d4ba3d2d04dbea1b16d239188c405.WEBP"
+      ]
+    },
+    {
+      "id": "pub-floyd",
+      "name": "Floyd",
+      "isNew": true,
+      "looksCount": 12,
+      "category": "Lifestyle",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-floyd-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-floyd-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-floyd-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/aaee1b2f807049d38c32af015d921999/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/4588ff8056c340d59c4bb7203a9ef8fe/1a2a0ff926b44fb7a85d9291fd28acc0.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/a5a8e97176ef4c88b4fb97582f5e5888/e58fd7e8472d4069980c4dbe07615649.WEBP"
+      ]
+    },
+    {
+      "id": "pub-rafi",
+      "name": "Rafi",
+      "isNew": true,
+      "looksCount": 20,
+      "category": "Professional",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-rafi-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-rafi-sub1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-rafi-sub2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Rafi/paos/angles/office108_p2_a4.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Rafi/paos/angles/office108_p3_a0.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Rafi/paos/angles/office92_p2_a0.jpg"
+      ]
+    },
+    {
+      "id": "pub-sienna",
+      "name": "Sienna",
+      "isNew": true,
+      "looksCount": 23,
+      "category": "Lifestyle",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-sienna-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-sienna-sub1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-sienna-sub2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Sienna/paos/angles/Livingroom_3.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Sienna/paos/angles/Livingroom_5.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Sienna/paos/angles/Office_1.jpg"
+      ]
+    },
+    {
+      "id": "pub-kacper",
+      "name": "Kacper",
+      "isNew": false,
+      "looksCount": 19,
+      "category": "Professional",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-kacper-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-kacper-sub1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-kacper-sub2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Kacper/lookpack/angles/Modern_Corporate_2.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Kacper/paos/angles/Kitchen_1.jpg",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Kacper/lookpack/angles/Presenter_4.jpg"
+      ]
+    },
+    {
+      "id": "pub-rhys",
+      "name": "Rhys",
+      "isNew": true,
+      "looksCount": 16,
+      "category": "UGC",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-rhys-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-rhys-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-rhys-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/fcd5781fa1554388aae31928892fcfc0/original.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/e8e10bc7658f410c9d2888c5cfcb63c2/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/65dbd686a9c24740924e29411a51af05/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-lorenzo",
+      "name": "Lorenzo",
+      "isNew": false,
+      "looksCount": 21,
+      "category": "Professional",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-lorenzo-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-lorenzo-sub1.png",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-lorenzo-sub2.png",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Lorenzo/angle_pack/healthcare_angle_2.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Lorenzo/angle_pack/professor_angle_5.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Lorenzo/first_frames/look_04.png"
+      ]
+    },
+    {
+      "id": "pub-terry",
+      "name": "Terry",
+      "isNew": false,
+      "looksCount": 15,
+      "category": "Community",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-terry-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-terry-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-terry-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/70b03e46da7949e1816c2bb27dc2bba9/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/3becceb5b04b48599d0f83dbd7ccf54d/half/2.2/raw_preview_image.webp",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/3665f990f6d14a3aac211dc0915bba8b/half/2.2/raw_preview_image.webp"
+      ]
+    },
+    {
+      "id": "pub-elora",
+      "name": "Elora",
+      "isNew": false,
+      "looksCount": 17,
+      "category": "Lifestyle",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-elora-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-elora-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-elora-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/f014d4a97a584681a33c085bd62ce888/original.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/31dce09f1ce8440fa603590d555bbe59/9b851494dd374e9c9dace79eac2d4f51.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/5ce7dd56eca242929896209214c8b584/58348b888dfa48a5bf27f31098daf842.WEBP"
+      ]
+    },
+    {
+      "id": "pub-darlene",
+      "name": "Darlene",
+      "isNew": false,
+      "looksCount": 14,
+      "category": "Community",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-darlene-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-darlene-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-darlene-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/talking_photo/aaacf543aff24284ad93145ddaab9f07/b846c5d0069e45bca687af7edd4f5377.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/02f35e4e86534e138c690267d7937f4d/2f2e7b534ebe4836bae7b788d2b69d50.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/fe02371553d6430fb7c48f9bce685ee4/60d6290421e54e499183108c0468ca06.WEBP"
+      ]
+    },
+    {
+      "id": "pub-margaret",
+      "name": "Margaret",
+      "isNew": true,
+      "looksCount": 18,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-margaret-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-margaret-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-margaret-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/178af15441fd497b84a43604bfad0139/original",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/8751d335f6d940e1b39acd87aeb27abd/d39e0a1e732a441a93a0606b7cc08396.WEBP",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/talking_photo/1e3922b8a2bf4a2b84f698b9bd7a01b3/fa7fd7219bf64252b06d71869f2578c3.WEBP"
+      ]
+    },
+    {
+      "id": "pub-olivier",
+      "name": "Olivier",
+      "isNew": true,
+      "looksCount": 22,
+      "category": "Professional",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-olivier-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-olivier-sub1.png",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-olivier-sub2.png",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Olivier/angle_pack/personal_development_coach_angle_1.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Olivier/angle_pack/professor_angle_2.png",
+        "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Olivier/angle_pack/lawyer_angle_5.png"
+      ]
+    },
+    {
+      "id": "pub-ailsa",
+      "name": "Ailsa",
+      "isNew": false,
+      "looksCount": 16,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-ailsa-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-ailsa-sub1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-ailsa-sub2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Ailsa/paos/angles/office56_p1_a1.jpg"
+      ]
+    },
+    {
+      "id": "pub-kyle",
+      "name": "Kyle",
+      "isNew": true,
+      "looksCount": 21,
+      "category": "Lifestyle",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-kyle-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-kyle-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-kyle-sub2.webp",
+      "remoteUrls": []
+    },
+    {
+      "id": "pub-tess",
+      "name": "Tess",
+      "isNew": true,
+      "looksCount": 15,
+      "category": "UGC",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-tess-main.webp",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-tess-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-tess-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/talking_photo/a7aff6e400c6479e9bf5b5c29390cb49/1b50404fcd0941afbcb6a0ebde2cac1f.WEBP"
+      ]
+    },
+    {
+      "id": "pub-yara",
+      "name": "Yara",
+      "isNew": true,
+      "looksCount": 19,
+      "category": "Professional",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-yara-main.png",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-yara-sub1.png",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-yara-sub2.png",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Yara/first_frames/look_05.png"
+      ]
+    },
+    {
+      "id": "pub-beatriz",
+      "name": "Beatriz",
+      "isNew": false,
+      "looksCount": 18,
+      "category": "Lifestyle",
+      "gender": "Female",
+      "heroImg": "/heygen-assets/thumbnails/avatar-beatriz-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-beatriz-sub1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-beatriz-sub2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Beatriz/paos/angles/livingroom75_p3_a1.jpg"
+      ]
+    },
+    {
+      "id": "pub-zayne",
+      "name": "Zayne",
+      "isNew": true,
+      "looksCount": 12,
+      "category": "UGC",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-zayne-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-zayne-sub1.webp",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-zayne-sub2.webp",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/temporary_user_photar/1babc0e9de004088b350040d12569c66/image.jpg"
+      ]
+    },
+    {
+      "id": "pub-elliot",
+      "name": "Elliot",
+      "isNew": true,
+      "looksCount": 20,
+      "category": "Professional",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-elliot-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-elliot-sub1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-elliot-sub2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Elliot/paos/angles/office60_p2_a1.jpg"
+      ]
+    },
+    {
+      "id": "pub-damian",
+      "name": "Damian",
+      "isNew": false,
+      "looksCount": 17,
+      "category": "Lifestyle",
+      "gender": "Male",
+      "heroImg": "/heygen-assets/thumbnails/avatar-damian-main.jpg",
+      "sideImg1": "/heygen-assets/thumbnails/avatar-damian-sub1.jpg",
+      "sideImg2": "/heygen-assets/thumbnails/avatar-damian-sub2.jpg",
+      "remoteUrls": [
+        "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Damian/paos/angles/kitchen58_p3_a1.jpg"
+      ]
+    }
+  ],
+  "annie57Looks": [
+    {
+      "id": "annie-look-01",
+      "title": "Annie in Tan Jacket",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/262658a5bb3346e38b68c623019fd5b2_55470/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-01.webp"
+    },
+    {
+      "id": "annie-look-02",
+      "title": "Annie in Blue Suit",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/5d5a9a07c612460d882861e0e8931564_54040/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-02.webp"
+    },
+    {
+      "id": "annie-look-03",
+      "title": "Annie in White Shirt",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/561ec5deb3f74a27b6b12fd8a6a2f76e_56970/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-03.webp"
+    },
+    {
+      "id": "annie-look-04",
+      "title": "Annie in Black V-neck Shirt",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/2ff430195ff74d8ba32d629246898304_56120/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-04.webp"
+    },
+    {
+      "id": "annie-look-05",
+      "title": "Annie in Pink Suit",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/a643fb413d7e460ea257d0f4c15d0179_56150/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-05.webp"
+    },
+    {
+      "id": "annie-look-06",
+      "title": "Annie in Brown Shirt",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/823b3e996c4b4244957f4d4326f74b35_53400/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-06.webp"
+    },
+    {
+      "id": "annie-look-07",
+      "title": "Annie in Grey Dress",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/5b476f692d1c488bab6c7aed3ef00823_54010/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-07.webp"
+    },
+    {
+      "id": "annie-look-08",
+      "title": "Annie in Light Blue",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/2f27d7394d1546ceb091516e188b869f_55510/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-08.webp"
+    },
+    {
+      "id": "annie-look-09",
+      "title": "Annie in Grey Jacket",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/b76b3d8f146c4a0ab7b2b865d87eb801_55500/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-09.webp"
+    },
+    {
+      "id": "annie-look-10",
+      "title": "Annie in Blue Casual",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/35a188d174c446859764803cd63d7332_55540/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-10.webp"
+    },
+    {
+      "id": "annie-look-11",
+      "title": "Annie in Black Shirt",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/f4b1d27d912f405a8abb2ace86cb67d6_56130/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-11.webp"
+    },
+    {
+      "id": "annie-look-12",
+      "title": "Annie in Blue Vest",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/5d8649146ffe4644858c56b3c63be17a_55490/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-12.webp"
+    },
+    {
+      "id": "annie-look-13",
+      "title": "Annie Lounge Standing Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/e621bd1f24c14305a2233e93a8c8715e_55970/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-13.webp"
+    },
+    {
+      "id": "annie-look-14",
+      "title": "Annie Lounge Standing Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/363e6f1f39b540b4adbfdae8ebda75ae_55960/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-14.webp"
+    },
+    {
+      "id": "annie-look-15",
+      "title": "Annie Sofa Sitting Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/3c6fc843d9eb4b4a83e6e15d4dd1414a_55970/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-15.webp"
+    },
+    {
+      "id": "annie-look-16",
+      "title": "Annie Sofa Sitting Front 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/7f2caecd8b8b4e5f94b1ee92fe697322_55960/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-16.webp"
+    },
+    {
+      "id": "annie-look-17",
+      "title": "Annie Sofa Sitting Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/96b055e7536f4d99b8c5f519fbad7179_55960/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-17.webp"
+    },
+    {
+      "id": "annie-look-18",
+      "title": "Annie Sofa Sitting Side 3",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/46bf2baf90bc4333a8a40d01f22e606d_56320/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-18.webp"
+    },
+    {
+      "id": "annie-look-19",
+      "title": "Annie Sofa Sitting Front 3",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/adcd9c28596f40389a926f2b7a4153d0_56310/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-19.webp"
+    },
+    {
+      "id": "annie-look-20",
+      "title": "Annie Sofa Sitting Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/c9f42d5a83d84ed6b3f42989f0ef20b4_56310/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-20.webp"
+    },
+    {
+      "id": "annie-look-21",
+      "title": "Annie Studio Pink Standing Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/30184bf113ce49bfac8cdf00c225046f_56060/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-21.webp"
+    },
+    {
+      "id": "annie-look-22",
+      "title": "Annie Studio Pink Standing Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/456807b0fc8e4f8da62760594118c2a6_56040/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-22.webp"
+    },
+    {
+      "id": "annie-look-23",
+      "title": "Annie Studio Pink Sitting Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/aa2a61c1d5834ece938375d412132580_56320/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-23.webp"
+    },
+    {
+      "id": "annie-look-24",
+      "title": "Annie Studio Pink Sitting Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/b56dba4dc8114414bc16d39d7aa051bc_56040/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-24.webp"
+    },
+    {
+      "id": "annie-look-25",
+      "title": "Annie Bar Standing Side 3",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/cbc71c5b9e754f809621b4d5706009ab_56100/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-25.webp"
+    },
+    {
+      "id": "annie-look-26",
+      "title": "Annie Bar Standing Front 3",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/56ecee33b1d144bbb4efa65f68dcbb03_56110/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-26.webp"
+    },
+    {
+      "id": "annie-look-27",
+      "title": "Annie Bar Standing Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/63948e2e772543deae18844327e27877_56100/preview_talk_3.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-27.webp"
+    },
+    {
+      "id": "annie-look-28",
+      "title": "Annie Bar Standing Front 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/6eeb8d4212d84bfdb968d00aba9960b2_56090/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-28.webp"
+    },
+    {
+      "id": "annie-look-29",
+      "title": "Annie Bar Standing Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/ba51441b61d445db8443c83f8a8d0d15_56100/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-29.webp"
+    },
+    {
+      "id": "annie-look-30",
+      "title": "Annie Bar Standing Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/d0a38df14afa46d8b25f7745331cdb89_56090/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-30.webp"
+    },
+    {
+      "id": "annie-look-31",
+      "title": "Annie Bar Sitting Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/b724e937b6af472689a91de64233a66b_56100/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-31.webp"
+    },
+    {
+      "id": "annie-look-32",
+      "title": "Annie Bar Sitting Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/7b244fd523ba4135b6a2a8ecaf19b510_56090/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-32.webp"
+    },
+    {
+      "id": "annie-look-33",
+      "title": "Annie Office Sitting Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/6bd64a550919413f8257aabfb74c22fb_56080/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-33.webp"
+    },
+    {
+      "id": "annie-look-34",
+      "title": "Annie Office Sitting Front 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/6f1c6120e79f48ed834be24a94b05931_56070/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-34.webp"
+    },
+    {
+      "id": "annie-look-35",
+      "title": "Annie Desk Sitting Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/a130a0f3225c4fdb91de800cd836b778_56080/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-35.webp"
+    },
+    {
+      "id": "annie-look-36",
+      "title": "Annie Desk Sitting Front 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/33d3475370b94bb7942dcbbdc445b03f_56070/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-36.webp"
+    },
+    {
+      "id": "annie-look-37",
+      "title": "Annie Casual Standing Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/39eeeab7f75e411a82a3185ee8ef3901_56050/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-37.webp"
+    },
+    {
+      "id": "annie-look-38",
+      "title": "Annie Casual Standing Front 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/8e1eb5dd8aa649b3a2736ad3ae63d6c8_56040/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-38.webp"
+    },
+    {
+      "id": "annie-look-39",
+      "title": "Annie Desk Sitting Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/ea08ae4933164707bc0e9b1536b28bc9_56050/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-39.webp"
+    },
+    {
+      "id": "annie-look-40",
+      "title": "Annie Desk Sitting Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/10c2cfbc1c1b4fa9a5fc08162b1709e2_56040/preview_talk_3.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-40.webp"
+    },
+    {
+      "id": "annie-look-41",
+      "title": "Annie Office Standing Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/ad51bc760ed54ab3bc2f3f8eccaf8e30_56030/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-41.webp"
+    },
+    {
+      "id": "annie-look-42",
+      "title": "Annie Office Standing Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/4166f08ed46f40fb87ca14b9ef48765d_56020/preview_talk_3.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-42.webp"
+    },
+    {
+      "id": "annie-look-43",
+      "title": "Annie Office Sitting Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/58d47dbbb5d7454dbda0f53bc34fd9ea_56030/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-43.webp"
+    },
+    {
+      "id": "annie-look-44",
+      "title": "Annie Office Sitting Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/b5272572b25143fbb1af3b874a03bdaf_56020/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-44.webp"
+    },
+    {
+      "id": "annie-look-45",
+      "title": "Annie Business Casual Standing Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/78f858c6cf2845bb9c31b3cea76b0e58_56030/preview_talk_3.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-45.webp"
+    },
+    {
+      "id": "annie-look-46",
+      "title": "Annie Business Casual Standing Front 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/59ab28f846a24d25b3e91a2a87222c4c_56020/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-46.webp"
+    },
+    {
+      "id": "annie-look-47",
+      "title": "Annie Business Casual Standing Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/e87a78fbcb074752a4a7770be54513b1_56030/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-47.webp"
+    },
+    {
+      "id": "annie-look-48",
+      "title": "Annie Business Casual Standing Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/d1777b1afdb8436cb3b3f0833c6ed492_56020/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-48.webp"
+    },
+    {
+      "id": "annie-look-49",
+      "title": "Annie Casual Sitting Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/2b1a099cf17a4bcaa09b14d2f9727485_55990/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-49.webp"
+    },
+    {
+      "id": "annie-look-50",
+      "title": "Annie Casual Sitting Front 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/1b06ffc57270417ba7da3dc24decd433_55980/preview_talk_1.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-50.webp"
+    },
+    {
+      "id": "annie-look-51",
+      "title": "Annie Casual Standing Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/c76fa4a2be354fccbb503909d32f1a64_55990/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-51.webp"
+    },
+    {
+      "id": "annie-look-52",
+      "title": "Annie Casual Standing Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/f5d3bb0f157d4f05b52828702f47230e_55980/preview_talk_2.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-52.webp"
+    },
+    {
+      "id": "annie-look-53",
+      "title": "Annie Casual Sitting Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/ce758a257b7f4be3a8c2cf37dbc9e5d7_55990/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-53.webp"
+    },
+    {
+      "id": "annie-look-54",
+      "title": "Annie Casual Sitting Front",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/782ffba0e0584bd6935e7e57d5f7e444_55980/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-54.webp"
+    },
+    {
+      "id": "annie-look-55",
+      "title": "Annie in Pink Suit + Gestures",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/d8973ef25fef41e4a51d07ac47494958/half/2.2/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-55.webp"
+    },
+    {
+      "id": "annie-look-56",
+      "title": "Annie in Pink Suit Side",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/b8e70028dd2344c586e7f8b73c7d5ea3/full/2.2/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-56.webp"
+    },
+    {
+      "id": "annie-look-57",
+      "title": "Annie in Pink Suit Side 2",
+      "remoteUrl": "https://dynamic.heygen.ai/tr:h-720,c-at_max/avatar/v3/3c1adf34313f42e0b0e304a4d00d5c7e/half/2.2/preview_target.webp",
+      "localImage": "/heygen-assets/thumbnails/annie-look-57.webp"
+    }
+  ],
+  "myAvatarsDeckPosters": [
+    "/heygen-assets/images/deck-back-1-poster.jpg",
+    "/heygen-assets/images/deck-back-2-poster.jpg",
+    "/heygen-assets/images/deck-front-poster.jpg",
+    "/heygen-assets/images/deck-back-3-poster.jpg"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-11-22T16:44:43.603Z",
+  "routeTabs": [
+    {
+      "route": "/home/video-agent",
+      "tabs": [
+        "For You (29 cards across 5 sections)",
+        "Personal Brand (6 cards)",
+        "Course & E-learning (6 cards)",
+        "Corporate Training (6 cards)",
+        "Creator Channels (6 cards)",
+        "Real Estate (5 cards)"
+      ]
+    },
+    {
+      "route": "/home/studio",
+      "tabs": [
+        "My Templates",
+        "Recommended",
+        "Training",
+        "Corporate",
+        "Marketing",
+        "Sales",
+        "Tutorials & Explainers",
+        "Real Estate",
+        "Finance",
+        "Learning & Development",
+        "Explainer Video"
+      ]
+    },
+    {
+      "route": "/home/photo-to-video",
+      "tabs": [
+        "Presenter",
+        "Cinematic"
+      ]
+    },
+    {
+      "route": "/avatar/my-avatars",
+      "tabs": [
+        "My Avatars",
+        "Public Avatars"
+      ]
+    },
+    {
+      "route": "/avatars/create/avatar-hub",
+      "tabs": [
+        "Root selection",
+        "Myself flow",
+        "A new character flow"
+      ]
+    },
+    {
+      "route": "/avatar/voices",
+      "tabs": [
+        "My voices",
+        "HeyGen library"
+      ]
+    },
+    {
+      "route": "/brand",
+      "tabs": [
+        "Brand Systems",
+        "Brand Glossary"
+      ]
+    },
+    {
+      "route": "/brand/new",
+      "tabs": [
+        "General",
+        "Personal Brand",
+        "Course & E-Learning",
+        "Corporate Training",
+        "Creator Channels",
+        "Real Estate"
+      ]
+    },
+    {
+      "route": "/apps",
+      "tabs": [
+        "All Apps",
+        "Create",
+        "Enhance",
+        "Edit",
+        "Interactive"
+      ]
+    },
+    {
+      "route": "/projects",
+      "tabs": [
+        "My Projects",
+        "Avatar Video",
+        "Agent",
+        "Translations",
+        "Apps",
+        "Assets"
+      ]
+    },
+    {
+      "route": "/developers/api",
+      "tabs": [
+        "Overview",
+        "Billing",
+        "Usage",
+        "Models",
+        "Webhook",
+        "Connections"
+      ]
+    }
+  ]
+}

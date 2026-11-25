@@ -1,0 +1,62 @@
+version: "3.9"
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: heygen-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: heygen-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres_local_password
+      POSTGRES_DB: heygen_platform
+    ports:
+      - "54322:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./supabase/migrations:/docker-entrypoint-initdb.d
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: heygen-web
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.example
+    environment:
+      REDIS_URL: redis://redis:6379
+      DATABASE_URL: postgresql://postgres:postgres_local_password@postgres:5432/heygen_platform
+    depends_on:
+      - redis
+      - postgres
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: heygen-worker
+    restart: unless-stopped
+    command: ["node", "scripts/run-worker.mjs"]
+    env_file:
+      - .env.example
+    environment:
+      REDIS_URL: redis://redis:6379
+      DATABASE_URL: postgresql://postgres:postgres_local_password@postgres:5432/heygen_platform
+    depends_on:
+      - redis
+      - postgres
+
+volumes:
+  redis_data:
+  pg_data:

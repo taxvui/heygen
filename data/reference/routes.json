@@ -1,0 +1,425 @@
+[
+  {
+    "id": "route-home",
+    "path": "/home",
+    "referenceUrl": "https://app.heygen.com/home",
+    "title": "HeyGen - Home",
+    "sidebarSection": "Home / Create",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Single-screen layout (no vertical overflow beyond 917px viewport)",
+    "pagination": "None (fixed 4-step account setup + 3x2 Video Prompts grid)",
+    "lazyLoading": "None",
+    "tabs": [],
+    "popupsTriggered": [
+      "popup-01-home-get-started (/avatars/create/avatar-hub)",
+      "popup-02-home-personalize (18 industry pills inline expansion)",
+      "popup-03-upgrade-plan",
+      "popup-04..11-workspace-settings",
+      "popup-12-ask-orby",
+      "popup-37-account-menu",
+      "popup-39-home-video-agent-prompt-modal (Ads & Promo, Educational Video, Expert Explainer, Tips & How-To, News Brief Video)"
+    ],
+    "outgoingLinks": [
+      "/avatars/create/avatar-hub",
+      "/apps/video-podcast-v2",
+      "/home/video-agent",
+      "/home/studio",
+      "/home/photo-to-video",
+      "/home/translate"
+    ]
+  },
+  {
+    "id": "route-home-video-agent",
+    "path": "/home/video-agent",
+    "referenceUrl": "https://app.heygen.com/home/video-agent",
+    "title": "HeyGen - Home (Video Agent)",
+    "sidebarSection": "Home / Create -> Video agent",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Scrollable main container: Top 2-column composer + Bottom 6-tab Template Gallery (29 cards across 5 category regions)",
+    "pagination": "None (all 29 cards rendered across 5 sections in For You tabpanel)",
+    "lazyLoading": "Scroll-triggered drawer items in Intros (27 video hooks) and Captions (75 HyperFrames styles)",
+    "tabs": [
+      "For You (29 cards across 5 sections)",
+      "Personal Brand (6 cards)",
+      "Course & E-learning (6 cards)",
+      "Corporate Training (6 cards)",
+      "Creator Channels (6 cards)",
+      "Real Estate (5 cards)"
+    ],
+    "popupsTriggered": [
+      "popup-13-video-agent-recreate",
+      "popup-14-video-agent-intros (27 intro templates)",
+      "popup-40-video-agent-captions (75 HyperFrames caption presets)",
+      "popup-41-video-agent-format (4 format cards with MP4 previews)",
+      "popup-42-video-agent-brand (Presets: Clearspace, Opal, Mat | Your brand systems)",
+      "popup-15-video-agent-avatar-pill",
+      "popup-16-video-agent-voice-pill",
+      "popup-17-video-agent-ratio-pill",
+      "popup-18-video-agent-autopilot"
+    ],
+    "outgoingLinks": [
+      "/apps/video-podcast-v2",
+      "/brand/new"
+    ]
+  },
+  {
+    "id": "route-home-studio",
+    "path": "/home/studio",
+    "aliases": [
+      "/apps/ai-studio",
+      "/apps/studio"
+    ],
+    "referenceUrl": "https://app.heygen.com/home/studio",
+    "title": "HeyGen - Home (Welcome to AI Studio)",
+    "sidebarSection": "Home / Create -> Scene by scene",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Scrollable main container: Get started (New video landscape/portrait) + Use a template (11 category tabs, 9 initial cards expanding via See More to 19+ cards)",
+    "pagination": "See More button expands template grid from 9 cards to 19+ cards",
+    "lazyLoading": "Dual-resolution template thumbnails (tr:h-600 and tr:h-1200)",
+    "tabs": [
+      "My Templates",
+      "Recommended",
+      "Training",
+      "Corporate",
+      "Marketing",
+      "Sales",
+      "Tutorials & Explainers",
+      "Real Estate",
+      "Finance",
+      "Learning & Development",
+      "Explainer Video"
+    ],
+    "popupsTriggered": [
+      "AI Studio 4-Zone Multi-Scene Editor Canvas"
+    ],
+    "outgoingLinks": [
+      "/home/studio?editor=1"
+    ]
+  },
+  {
+    "id": "route-home-photo-to-video",
+    "path": "/home/photo-to-video",
+    "aliases": [
+      "/home/single-scene",
+      "/apps/avatar-shots"
+    ],
+    "referenceUrl": "https://app.heygen.com/home/photo-to-video",
+    "title": "HeyGen - Home (Single scene)",
+    "sidebarSection": "Home / Create -> Single scene",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Top composer card (Presenter | Cinematic tabs) + Bottom Recent Creations section (All Projects link + empty state)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "tabs": [
+      "Presenter",
+      "Cinematic"
+    ],
+    "popupsTriggered": [
+      "popup-19-composer-avatar-slot",
+      "popup-20-composer-upload-record",
+      "popup-21-composer-avatar-v",
+      "popup-22-composer-motion",
+      "popup-23-composer-voice",
+      "popup-24-composer-ratio",
+      "popup-25-composer-resolution"
+    ],
+    "outgoingLinks": [
+      "/projects",
+      "/apps/creative-studio/video"
+    ]
+  },
+  {
+    "id": "route-home-translate",
+    "path": "/home/translate",
+    "aliases": [
+      "/apps/translate"
+    ],
+    "referenceUrl": "https://app.heygen.com/home/translate",
+    "title": "HeyGen - Home (Translate)",
+    "sidebarSection": "Home / Create -> Translate",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Centered single-screen card (Translate your videos in 175+ languages)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "tabs": [],
+    "popupsTriggered": [
+      "popup-43-translate-select-existing-project (Select an Existing Project dialog)"
+    ],
+    "outgoingLinks": []
+  },
+  {
+    "id": "route-avatar-my-avatars",
+    "path": "/avatar/my-avatars",
+    "referenceUrl": "https://app.heygen.com/avatar/my-avatars",
+    "title": "HeyGen - Avatar (My Avatars & Public Avatars)",
+    "sidebarSection": "Avatar -> Avatars",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "My Avatars tab: centered 4-card fan empty state. Public Avatars tab (?tab=public): scrollable 2-column Bento grid with 33+ public avatars (3 lookpack images each) + Grid/List toggle + 6 category pills",
+    "pagination": "Incremental scroll loads 33+ public avatar Bento cards",
+    "lazyLoading": "IntersectionObserver lazy image loading on Bento cards",
+    "tabs": [
+      "My Avatars",
+      "Public Avatars"
+    ],
+    "popupsTriggered": [
+      "popup-26-public-avatars-filters",
+      "popup-27-public-avatars-annie (/avatar/my-avatars/[id])",
+      "popup-35-avatars-new-avatar (/avatars/create/avatar-hub)"
+    ],
+    "outgoingLinks": [
+      "/avatars/create/avatar-hub",
+      "/avatar/my-avatars/annie"
+    ]
+  },
+  {
+    "id": "route-avatar-detail",
+    "path": "/avatar/my-avatars/[id]",
+    "referenceUrl": "https://app.heygen.com/avatar/my-avatars?tab=public",
+    "title": "HeyGen - Public Avatar Looks Profile (Annie - 57 looks)",
+    "sidebarSection": "Avatar -> Avatars -> Profile",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Scrollable 4-column grid of avatar looks",
+    "pagination": "None",
+    "lazyLoading": "Look thumbnail lazy loading",
+    "tabs": [],
+    "popupsTriggered": [],
+    "outgoingLinks": [
+      "/avatar/my-avatars?tab=public",
+      "/home/photo-to-video"
+    ]
+  },
+  {
+    "id": "route-avatars-create-hub",
+    "path": "/avatars/create/avatar-hub",
+    "referenceUrl": "https://app.heygen.com/avatars/create/avatar-hub",
+    "title": "HeyGen - AI Spokesperson Video Creator (Avatar Creation Hub)",
+    "sidebarSection": "Standalone full-screen wizard",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Full-screen centered step wizard: Step 1 (Who is this avatar of? Myself vs A new character) -> Step 2a (Myself: Appearance + Motion + Voice = Avatar) & Step 2b (A new character: Appearance + Voice = Avatar)",
+    "pagination": "Multi-step wizard",
+    "lazyLoading": "None",
+    "tabs": [
+      "Root selection",
+      "Myself flow",
+      "A new character flow"
+    ],
+    "popupsTriggered": [
+      "popup-01-home-get-started"
+    ],
+    "outgoingLinks": [
+      "/home",
+      "/avatar/my-avatars"
+    ]
+  },
+  {
+    "id": "route-avatar-voices",
+    "path": "/avatar/voices",
+    "referenceUrl": "https://app.heygen.com/avatar/voices",
+    "title": "HeyGen - Avatar (Voices)",
+    "sidebarSection": "Avatar -> Voices",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "3 top creation cards + My voices / HeyGen library tabs + filter bar + 29 voice rows + See More pagination button",
+    "pagination": "See More button loads additional voice batches beyond initial 29 voices",
+    "lazyLoading": "None",
+    "tabs": [
+      "My voices",
+      "HeyGen library"
+    ],
+    "popupsTriggered": [
+      "popup-28-voices-create",
+      "popup-29-voices-design",
+      "popup-30-voices-import",
+      "popup-31-voices-languages",
+      "popup-32-voices-genders",
+      "popup-33-voices-filters",
+      "popup-34-voices-row-menu"
+    ],
+    "outgoingLinks": []
+  },
+  {
+    "id": "route-brand",
+    "path": "/brand",
+    "referenceUrl": "https://app.heygen.com/brand",
+    "title": "HeyGen - Brand Kit (Brand Systems)",
+    "sidebarSection": "Brand -> Brand Systems",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Centered empty state (Keep every video on-brand + New Brand System button)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "tabs": [
+      "Brand Systems",
+      "Brand Glossary"
+    ],
+    "popupsTriggered": [
+      "popup-36-brand-new-system (/brand/new)"
+    ],
+    "outgoingLinks": [
+      "/brand/new"
+    ]
+  },
+  {
+    "id": "route-brand-new",
+    "path": "/brand/new",
+    "referenceUrl": "https://app.heygen.com/brand/new",
+    "title": "HeyGen - Brand Kit (New Brand System)",
+    "sidebarSection": "Brand -> Brand Systems -> New Brand System",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Top website URL importer + 6 category tabs (General, Personal Brand, Course & E-Learning, Corporate Training, Creator Channels, Real Estate) + 7 preset sections (Modern, Minimal, Bold, Elegant, Playful, Retro, Professional — 49 preset cards total) + inline preset preview bar",
+    "pagination": "None (all 49 presets grouped in 7 sections)",
+    "lazyLoading": "Preset cards render styled typographic previews",
+    "tabs": [
+      "General",
+      "Personal Brand",
+      "Course & E-Learning",
+      "Corporate Training",
+      "Creator Channels",
+      "Real Estate"
+    ],
+    "popupsTriggered": [
+      "Inline Brand Preset Preview Bar (Save this Brand System / Customize)"
+    ],
+    "outgoingLinks": [
+      "/brand"
+    ]
+  },
+  {
+    "id": "route-apps",
+    "path": "/apps",
+    "referenceUrl": "https://app.heygen.com/apps",
+    "title": "HeyGen - Apps (App Library)",
+    "sidebarSection": "Apps -> Home",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Scrollable main container: Prompt to Video hero + 5 category filter pills (All Apps, Create, Enhance, Edit, Interactive) + 3 featured cards + 3 categorized app sections (14 cards total)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "tabs": [
+      "All Apps",
+      "Create",
+      "Enhance",
+      "Edit",
+      "Interactive"
+    ],
+    "popupsTriggered": [
+      "popup-44-interactive-video-business-upgrade (Upgrade to HeyGen for Business modal)"
+    ],
+    "outgoingLinks": [
+      "/apps/video-agent",
+      "/apps/video-podcast-v2",
+      "/apps/creative-studio/video",
+      "/apps/ppt-to-video",
+      "/apps/avatar-shots?mode=cinematic",
+      "/apps/studio",
+      "/apps/business-card",
+      "/apps/upscale-video",
+      "/apps/speech-cleanup",
+      "/apps/instant-highlights",
+      "/apps/translate",
+      "/apps/batch-mode"
+    ]
+  },
+  {
+    "id": "route-apps-integrations",
+    "path": "/apps/integrations",
+    "referenceUrl": "https://app.heygen.com/apps/integrations",
+    "title": "HeyGen - Apps (Integrations)",
+    "sidebarSection": "Apps -> Integrations",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Scrollable 3-column grid of 20 partner integration cards (ChatGPT App through viaSocket)",
+    "pagination": "None (all 20 cards in single view)",
+    "lazyLoading": "None",
+    "tabs": [],
+    "popupsTriggered": [
+      "External partner marketplace popup / connection modal"
+    ],
+    "outgoingLinks": []
+  },
+  {
+    "id": "route-apps-video-podcast",
+    "path": "/apps/video-podcast-v2",
+    "referenceUrl": "https://app.heygen.com/apps/video-podcast-v2",
+    "title": "HeyGen - Apps (New Podcast)",
+    "sidebarSection": "Apps -> Video Podcast",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Scrollable dual-speaker podcast studio card (Host & Guest Marieke cards, Swap speakers, Host/Guest Language, Podcast Content, Attach a document, Suggest a topic, Use my own script, Quality 720p/1080p, Video Layout 16:9, Length 1 min, Scene Instructions, Generate Preview)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "tabs": [],
+    "popupsTriggered": [
+      "popup-15-video-agent-avatar-pill",
+      "popup-16-video-agent-voice-pill"
+    ],
+    "outgoingLinks": [
+      "/apps"
+    ]
+  },
+  {
+    "id": "route-apps-video-agent",
+    "path": "/apps/video-agent",
+    "referenceUrl": "https://app.heygen.com/apps/video-agent",
+    "title": "HeyGen - Apps (Video Agent)",
+    "sidebarSection": "Apps -> Video Agent",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Back to Apps breadcrumb + 2-column Video Agent composer + 3 bottom quick action cards (Photo to Video, Translate Video, Create Avatar)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "tabs": [],
+    "popupsTriggered": [],
+    "outgoingLinks": [
+      "/apps",
+      "/home/photo-to-video",
+      "/home/translate",
+      "/avatars/create/avatar-hub"
+    ]
+  },
+  {
+    "id": "route-projects",
+    "path": "/projects",
+    "aliases": [
+      "/projects/assets",
+      "/projects/avatar-videos",
+      "/projects/video-agent",
+      "/projects/translations",
+      "/projects/apps"
+    ],
+    "referenceUrl": "https://app.heygen.com/projects/assets",
+    "title": "HeyGen - Projects",
+    "sidebarSection": "Projects -> My Projects",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "6 filter tabs (My Projects, Avatar Video, Agent, Translations, Apps, Assets) + Search/Upload/Filter/View/Sort toolbar + project list or observed reference empty/retry state",
+    "pagination": "Cursor-based project items list",
+    "lazyLoading": "None",
+    "tabs": [
+      "My Projects",
+      "Avatar Video",
+      "Agent",
+      "Translations",
+      "Apps",
+      "Assets"
+    ],
+    "popupsTriggered": [
+      "New Folder modal"
+    ],
+    "outgoingLinks": []
+  },
+  {
+    "id": "route-developers-api",
+    "path": "/developers/api",
+    "referenceUrl": "https://app.heygen.com/developers/api",
+    "title": "HeyGen - Developers (Get started with the API)",
+    "sidebarSection": "Developers -> Overview",
+    "status": "VERIFIED_REFERENCE",
+    "scrollBehavior": "Top Playground Beta banner + 11 left sidebar items (Overview, Billing, Usage, Models, Webhook, Connections, API Doc, MCP, CLI, Skills, Changelog) + 3-step API onboarding cards ($15..$500 top-up presets, Generate API key, Set up auto-reload, All set / Skip)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "tabs": [
+      "Overview",
+      "Billing",
+      "Usage",
+      "Models",
+      "Webhook",
+      "Connections"
+    ],
+    "popupsTriggered": [],
+    "outgoingLinks": []
+  }
+]

@@ -1,0 +1,1942 @@
+{
+  "generatedAt": "2026-11-22T16:44:43.603Z",
+  "totalDialogs": null,
+  "v5Popups": [
+    {
+      "id": "popup-01-home-get-started",
+      "referenceRoute": "/home -> /avatars/create/avatar-hub",
+      "trigger": "Step 1 \"Get Started\" button under Create your Avatar",
+      "triggerSequence": [
+        "Navigate to /home",
+        "Click \"Get Started\" inside Step 1 card"
+      ],
+      "popupType": "Full-screen overlay / sub-route (/avatars/create/avatar-hub)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-01-home-get-started.png",
+      "localScreenshot": "tests/visual/popups/local/popup-01-home-get-started.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-01-home-get-started.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-01-home-get-started.png",
+      "structuralSimilarityPercentage": 96.78,
+      "pixelDiffPercentage": 3.22,
+      "domEvidence": "1354x917 full-screen container; heading \"Who is this avatar of?\"; 2 option cards: \"Myself\" (cyan viewfinder frame) & \"A new character\" (3-card fan); top-right close X button.",
+      "assets": [
+        "/heygen-assets/thumbnails/avatar-marieke-look2.webp",
+        "/heygen-assets/thumbnails/avatar-annie-look2.webp",
+        "/heygen-assets/thumbnails/avatar-kurt-main.webp"
+      ],
+      "observedInteractions": [
+        "Click Myself -> Opens Digital Twin Avatar & Likeness Consent flow",
+        "Click A new character -> Opens Character Avatar creation flow",
+        "Click top-right X -> Returns to returnTo route (/home)"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-02-home-personalize",
+      "referenceRoute": "/home",
+      "trigger": "\"Personalize\" link at top-right of Video Prompts section",
+      "triggerSequence": [
+        "Navigate to /home",
+        "Click \"Personalize\""
+      ],
+      "popupType": "Inline gradient expansion panel inside Video Prompts",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-02-home-personalize.png",
+      "localScreenshot": "tests/visual/popups/local/popup-02-home-personalize.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-02-home-personalize.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-02-home-personalize.png",
+      "structuralSimilarityPercentage": 95.77,
+      "pixelDiffPercentage": 4.23,
+      "domEvidence": "971x568px inline violet-blue-aqua gradient container; heading \"What kind of work do you do?\"; top-right close X button; 18 frosted glass industry pill buttons in 3-column grid.",
+      "assets": [],
+      "observedInteractions": [
+        "Click any of the 18 industry pills -> Personalizes Video Prompts feed",
+        "Click top-right X -> Collapses inline card back to 3x2 Video Prompts grid"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-03-upgrade-plan",
+      "referenceRoute": "/home",
+      "trigger": "Bottom-left Gold Diamond ring button / \"Upgrade Plan\" menu item",
+      "triggerSequence": [
+        "Navigate to /home",
+        "Click bottom-left Gold Diamond ring button"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 1000x848px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-03-upgrade-plan.png",
+      "localScreenshot": "tests/visual/popups/local/popup-03-upgrade-plan.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-03-upgrade-plan.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-03-upgrade-plan.png",
+      "structuralSimilarityPercentage": 83.07,
+      "pixelDiffPercentage": 16.93,
+      "domEvidence": "role=\"dialog\"; heading \"Pick your plan\"; Individual | Business segmented tabs; Monthly / Annual (2 Months Free) toggle; \"Looking for API plans?\" link; 3 plan columns: Free ($0, Current Plan), Creator ($29/mo, Get Started), Pro (Most Popular, $49/mo, 1,000 credits dropdown, Pro only features box); \"See full comparison >\" footer.",
+      "assets": [],
+      "observedInteractions": [
+        "Toggle Individual / Business and Monthly / Annual",
+        "Select Pro credit tier dropdown (1,000 / 2,000 / 5,000 credits)",
+        "Click Get Started -> POST /api/billing updates subscription plan & credits"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-04-settings-preferences",
+      "referenceRoute": "/home?nav=Preferences",
+      "trigger": "Settings Modal -> \"Preferences\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"Preferences\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-04-settings-preferences.png",
+      "localScreenshot": "tests/visual/popups/local/popup-04-settings-preferences.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-04-settings-preferences.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-04-settings-preferences.png",
+      "structuralSimilarityPercentage": 73.68,
+      "pixelDiffPercentage": 26.32,
+      "domEvidence": "Heading \"Preferences\"; Language selector (\"US English\"); Appearance 3 visual preview cards: Light, Auto (cyan active border), Dark.",
+      "assets": [],
+      "observedInteractions": [
+        "Select Light / Auto / Dark theme card",
+        "Select UI language"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-05-settings-personalization",
+      "referenceRoute": "/home?nav=Personalization",
+      "trigger": "Settings Modal -> \"Personalization\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"Personalization\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-05-settings-personalization.png",
+      "localScreenshot": "tests/visual/popups/local/popup-05-settings-personalization.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-05-settings-personalization.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-05-settings-personalization.png",
+      "structuralSimilarityPercentage": 75.04,
+      "pixelDiffPercentage": 24.96,
+      "domEvidence": "Heading \"Personalization\"; underline tabs Profile | Memory; empty state \"No profile yet — Complete a quick survey to personalize your HeyGen experience.\" + \"Take survey\" charcoal pill button.",
+      "assets": [],
+      "observedInteractions": [
+        "Switch Profile / Memory sub-tabs",
+        "Click \"Take survey\""
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-06-settings-shared-avatars",
+      "referenceRoute": "/home?nav=Shared%20avatars",
+      "trigger": "Settings Modal -> \"Shared avatars\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"Shared avatars\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-06-settings-shared-avatars.png",
+      "localScreenshot": "tests/visual/popups/local/popup-06-settings-shared-avatars.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-06-settings-shared-avatars.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-06-settings-shared-avatars.png",
+      "structuralSimilarityPercentage": 75.46,
+      "pixelDiffPercentage": 24.54,
+      "domEvidence": "Heading \"Shared avatars\"; underline tabs My Avatars | Shared with Me; workspace shared avatar state.",
+      "assets": [],
+      "observedInteractions": [
+        "Switch My Avatars / Shared with Me sub-tabs"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-07-settings-general",
+      "referenceRoute": "/home?nav=Admin",
+      "trigger": "Settings Modal -> \"General\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"General\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-07-settings-general.png",
+      "localScreenshot": "tests/visual/popups/local/popup-07-settings-general.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-07-settings-general.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-07-settings-general.png",
+      "structuralSimilarityPercentage": 74.4,
+      "pixelDiffPercentage": 25.6,
+      "domEvidence": "Heading \"General\"; Workspace Image (64x64px cyan \"DS\" circle + \"Upload photo\" pill + \"Pick a photo up to 2MB.\"); Workspace Name input (\"Default Space\"); Workspace Description textarea; Video Distribution section with \"Enforce AI-Assisted Watermark for all videos\" toggle switch.",
+      "assets": [],
+      "observedInteractions": [
+        "Edit Workspace Name -> PATCH /api/workspace",
+        "Toggle Enforce AI-Assisted Watermark switch"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-08-settings-plan-billing",
+      "referenceRoute": "/home?nav=Plan%20%26%20Billing",
+      "trigger": "Settings Modal -> \"Plan & Billing\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"Plan & Billing\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-08-settings-plan-billing.png",
+      "localScreenshot": "tests/visual/popups/local/popup-08-settings-plan-billing.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-08-settings-plan-billing.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-08-settings-plan-billing.png",
+      "structuralSimilarityPercentage": 75.31,
+      "pixelDiffPercentage": 24.69,
+      "domEvidence": "Heading \"Plan & Billing\"; \"Your Plan\"; gradient-bordered Free plan card (\"Free\", \"Upgrade your plan today to get more video generations, 1080p exports, and longer videos (up to 5 minutes).\") + white \"[💎 Upgrade]\" pill button.",
+      "assets": [],
+      "observedInteractions": [
+        "Click \"Upgrade\" pill -> Opens Pick your plan modal"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-09-settings-usage-history",
+      "referenceRoute": "/home?nav=Usage%20%26%20History",
+      "trigger": "Settings Modal -> \"Usage & History\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"Usage & History\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-09-settings-usage-history.png",
+      "localScreenshot": "tests/visual/popups/local/popup-09-settings-usage-history.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-09-settings-usage-history.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-09-settings-usage-history.png",
+      "structuralSimilarityPercentage": 75.65,
+      "pixelDiffPercentage": 24.35,
+      "domEvidence": "Heading \"Usage & History\"; \"History\" + \"Download\" button; table header (Project | Credits); \"No video history to show!\" state.",
+      "assets": [],
+      "observedInteractions": [
+        "Click \"Download\" -> Exports usage CSV"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-10-settings-security",
+      "referenceRoute": "/home?nav=Security",
+      "trigger": "Settings Modal -> \"Security\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"Security\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-10-settings-security.png",
+      "localScreenshot": "tests/visual/popups/local/popup-10-settings-security.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-10-settings-security.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-10-settings-security.png",
+      "structuralSimilarityPercentage": 74.18,
+      "pixelDiffPercentage": 25.82,
+      "domEvidence": "Heading \"Security\"; \"Enable SSO and two-factor authentication\" card + \"Upgrade plan\" charcoal pill button.",
+      "assets": [],
+      "observedInteractions": [
+        "Click \"Upgrade plan\" -> Opens Pick your plan modal"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-11-settings-connections",
+      "referenceRoute": "/home?nav=Connections",
+      "trigger": "Settings Modal -> \"Connections\" left rail tab",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\"",
+        "Click \"Connections\" tab"
+      ],
+      "popupType": "Modal dialog tab state ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-11-settings-connections.png",
+      "localScreenshot": "tests/visual/popups/local/popup-11-settings-connections.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-11-settings-connections.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-11-settings-connections.png",
+      "structuralSimilarityPercentage": 73.87,
+      "pixelDiffPercentage": 26.13,
+      "domEvidence": "Heading \"Connections\"; 2x2 grid of 4 integration cards with dark \"Connect\" buttons: Slack, YouTube, LinkedIn Verified ..., Google Drive.",
+      "assets": [],
+      "observedInteractions": [
+        "Click \"Connect\" on Slack / YouTube / LinkedIn / Google Drive"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-12-ask-orby",
+      "referenceRoute": "/home/video-agent",
+      "trigger": "Top-right \"Ask Orby\" floating pill button",
+      "triggerSequence": [
+        "Navigate to /home/video-agent",
+        "Click \"Ask Orby\" top-right pill"
+      ],
+      "popupType": "Right-docked floating assistant panel ([role=\"region\"], 370x899px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-12-ask-orby.png",
+      "localScreenshot": "tests/visual/popups/local/popup-12-ask-orby.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-12-ask-orby.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-12-ask-orby.png",
+      "structuralSimilarityPercentage": 83.53,
+      "pixelDiffPercentage": 16.47,
+      "domEvidence": "Right-side panel; top bar: + (New chat), [Chat | Updates] segmented toggle, X (Close); center Orby bot icon with green dot + \"Hi there, how can I help?\"; 5 arrow prompt buttons (What can HeyGen do?, Create my first video, Create my avatar, Which tool should I use for my video?, See more); bottom \"What are you looking for?\" input + mic + send button.",
+      "assets": [],
+      "observedInteractions": [
+        "Click any suggested prompt or type query -> Interactive Orby response",
+        "Switch Chat / Updates tabs",
+        "Click X -> Closes Orby panel"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-13-video-agent-recreate",
+      "referenceRoute": "/home/video-agent",
+      "trigger": "\"+ Recreate\" card inside Add inspiration",
+      "triggerSequence": [
+        "Navigate to /home/video-agent",
+        "Click \"+ Recreate\" card"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 790x540px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-13-video-agent-recreate.png",
+      "localScreenshot": "tests/visual/popups/local/popup-13-video-agent-recreate.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-13-video-agent-recreate.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-13-video-agent-recreate.png",
+      "structuralSimilarityPercentage": 79.37,
+      "pixelDiffPercentage": 20.63,
+      "domEvidence": "Heading \"Unlock Recreate in Video Agent\"; Creator ($29/mo) & Pro (Most Popular $49/mo) radiogroup cards; 5 cyan checkmarks; \"Get Pro\" charcoal pill button; \"27 people just upgraded in the last 20 minutes\"; right-side split-screen video recreate-upsell-beige-v2.mp4 (Original vs Recreated).",
+      "assets": [
+        "/heygen-assets/videos/recreate-upsell-beige-v2.mp4"
+      ],
+      "observedInteractions": [
+        "Select Creator or Pro radio card",
+        "Click Get Pro -> Opens Upgrade Plan dialog",
+        "Click X -> Closes modal"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-14-video-agent-intros",
+      "referenceRoute": "/home/video-agent",
+      "trigger": "\"Intros (Explore)\" card inside Add inspiration",
+      "triggerSequence": [
+        "Navigate to /home/video-agent",
+        "Click \"Intros\" card"
+      ],
+      "popupType": "Inline left-column inspiration drawer (col-span-3)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-14-video-agent-intros.png",
+      "localScreenshot": "tests/visual/popups/local/popup-14-video-agent-intros.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-14-video-agent-intros.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-14-video-agent-intros.png",
+      "structuralSimilarityPercentage": 89.73,
+      "pixelDiffPercentage": 10.27,
+      "domEvidence": "\"< Back\" pill button; heading \"Intros\"; subtitle \"Choose how your video opens and sets the scene.\"; scrollable vertical stack of visual intro cards (TELEPROMPTER, MODERN FAMILY HOME, etc.).",
+      "assets": [
+        "/heygen-assets/images/prompt-tips-how-to.jpg",
+        "/heygen-assets/images/agent-internal-update.jpg"
+      ],
+      "observedInteractions": [
+        "Click an intro preset card -> Applies preset to Video Agent",
+        "Click \"< Back\" -> Collapses back to 5-card Add inspiration grid"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-15-video-agent-avatar-pill",
+      "referenceRoute": "/home/video-agent",
+      "trigger": "\"[👤 Auto]\" pill inside Avatar and References",
+      "triggerSequence": [
+        "Navigate to /home/video-agent",
+        "Click \"[👤 Auto]\" pill"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 795x680px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-15-video-agent-avatar-pill.png",
+      "localScreenshot": "tests/visual/popups/local/popup-15-video-agent-avatar-pill.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-15-video-agent-avatar-pill.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-15-video-agent-avatar-pill.png",
+      "structuralSimilarityPercentage": 69.13,
+      "pixelDiffPercentage": 30.87,
+      "domEvidence": "Heading \"Choose Avatar\"; tabs My Avatars | Public Avatars; stacked 3-portrait card illustration + \"Create your first avatar\" + \"Create avatar\" charcoal button.",
+      "assets": [
+        "/heygen-assets/thumbnails/avatar-marieke-look1.webp"
+      ],
+      "observedInteractions": [
+        "Click \"Create avatar\" -> Navigates to /avatars/create/avatar-hub",
+        "Switch to Public Avatars tab -> Select any public avatar"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-16-video-agent-voice-pill",
+      "referenceRoute": "/home/video-agent",
+      "trigger": "\"[ılı Auto]\" pill inside Avatar and References",
+      "triggerSequence": [
+        "Navigate to /home/video-agent",
+        "Click \"[ılı Auto]\" pill"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 795x720px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-16-video-agent-voice-pill.png",
+      "localScreenshot": "tests/visual/popups/local/popup-16-video-agent-voice-pill.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-16-video-agent-voice-pill.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-16-video-agent-voice-pill.png",
+      "structuralSimilarityPercentage": 72.02,
+      "pixelDiffPercentage": 27.98,
+      "domEvidence": "Heading \"Choose a Voice\"; 3 top voice creation cards; tabs My voices | HeyGen library; empty-voices-box.png illustration + \"No voices yet — Voices you save will appear here\".",
+      "assets": [
+        "/heygen-assets/icons/empty-voices-box.png"
+      ],
+      "observedInteractions": [
+        "Click top 3 cards -> Opens Create / Design / Import voice modal",
+        "Switch to HeyGen library tab -> Select voice"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-17-video-agent-ratio-pill",
+      "referenceRoute": "/home/video-agent",
+      "trigger": "\"[🖼️ Auto]\" pill inside Avatar and References",
+      "triggerSequence": [
+        "Navigate to /home/video-agent",
+        "Click \"[🖼️ Auto]\" pill"
+      ],
+      "popupType": "Floating dropdown listbox ([role=\"listbox\"], 136x116px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-17-video-agent-ratio-pill.png",
+      "localScreenshot": "tests/visual/popups/local/popup-17-video-agent-ratio-pill.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-17-video-agent-ratio-pill.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-17-video-agent-ratio-pill.png",
+      "structuralSimilarityPercentage": 86.71,
+      "pixelDiffPercentage": 13.29,
+      "domEvidence": "3 options: Auto, Portrait, Landscape.",
+      "assets": [],
+      "observedInteractions": [
+        "Select Auto, Portrait, or Landscape"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-18-video-agent-autopilot",
+      "referenceRoute": "/home/video-agent",
+      "trigger": "\"Auto-pilot\" bottom control pill",
+      "triggerSequence": [
+        "Navigate to /home/video-agent",
+        "Click \"Auto-pilot\" pill"
+      ],
+      "popupType": "Floating popover listbox ([role=\"listbox\"], 238x134px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-18-video-agent-autopilot.png",
+      "localScreenshot": "tests/visual/popups/local/popup-18-video-agent-autopilot.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-18-video-agent-autopilot.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-18-video-agent-autopilot.png",
+      "structuralSimilarityPercentage": 86.57,
+      "pixelDiffPercentage": 13.43,
+      "domEvidence": "2 options with subtitles: \"Plan — Review the plan before I make your video.\" and \"Auto-pilot — Auto-generate your video.\"",
+      "assets": [],
+      "observedInteractions": [
+        "Switch between Plan and Auto-pilot modes"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-19-composer-avatar-slot",
+      "referenceRoute": "/home/photo-to-video",
+      "trigger": "Left 96x174px dashed \"[👤+]\" avatar slot inside Script Composer",
+      "triggerSequence": [
+        "Navigate to /home/photo-to-video",
+        "Click left dashed avatar slot"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 795x680px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-19-composer-avatar-slot.png",
+      "localScreenshot": "tests/visual/popups/local/popup-19-composer-avatar-slot.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-19-composer-avatar-slot.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-19-composer-avatar-slot.png",
+      "structuralSimilarityPercentage": 76.48,
+      "pixelDiffPercentage": 23.52,
+      "domEvidence": "Choose Avatar dialog with My Avatars | Public Avatars tabs.",
+      "assets": [
+        "/heygen-assets/thumbnails/avatar-marieke-look1.webp"
+      ],
+      "observedInteractions": [
+        "Select avatar or click Create avatar"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-20-composer-upload-record",
+      "referenceRoute": "/home/photo-to-video",
+      "trigger": "\"upload/record\" link inside VIDEO SCRIPT textarea",
+      "triggerSequence": [
+        "Navigate to /home/photo-to-video",
+        "Click \"upload/record\""
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 530x560px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-20-composer-upload-record.png",
+      "localScreenshot": "tests/visual/popups/local/popup-20-composer-upload-record.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-20-composer-upload-record.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-20-composer-upload-record.png",
+      "structuralSimilarityPercentage": 79.48,
+      "pixelDiffPercentage": 20.52,
+      "domEvidence": "Heading \"Record Audio\"; underline tabs Record Audio | Upload Audio; inner box \"Record an audio clip, and your avatar will lip-sync it.\"; 64x64px red circular record button; pink status box \"No microphone found. Connect one, then try recording again.\"; bottom \"Loading devices...\" dropdown.",
+      "assets": [],
+      "observedInteractions": [
+        "Switch Record Audio / Upload Audio tabs",
+        "Record or upload audio file to drive avatar lip-sync"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-21-composer-avatar-v",
+      "referenceRoute": "/home/photo-to-video",
+      "trigger": "\"Avatar V\" bottom pill inside Script Composer",
+      "triggerSequence": [
+        "Navigate to /home/photo-to-video",
+        "Click \"Avatar V\" pill"
+      ],
+      "popupType": "Floating popover listbox ([role=\"listbox\"], 295x164px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-21-composer-avatar-v.png",
+      "localScreenshot": "tests/visual/popups/local/popup-21-composer-avatar-v.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-21-composer-avatar-v.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-21-composer-avatar-v.png",
+      "structuralSimilarityPercentage": 97.39,
+      "pixelDiffPercentage": 2.61,
+      "domEvidence": "3 engine options with circular badges: Avatar V (\"Moves like you. Motion adapts to script.\" + cyan check), Avatar IV (\"Generic motion that adapts to script.\"), Avatar III (\"Applies lip sync.\").",
+      "assets": [
+        "/heygen-assets/icons/avatar-v-badge.png",
+        "/heygen-assets/icons/avatar-iv-badge.png",
+        "/heygen-assets/icons/avatar-iii-badge.png"
+      ],
+      "observedInteractions": [
+        "Select Avatar V, Avatar IV, or Avatar III engine"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-22-composer-motion",
+      "referenceRoute": "/home/photo-to-video",
+      "trigger": "\"Motion\" bottom pill inside Script Composer",
+      "triggerSequence": [
+        "Navigate to /home/photo-to-video",
+        "Click \"Motion\" pill"
+      ],
+      "popupType": "Inline expandable motion prompt panel inside composer card",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-22-composer-motion.png",
+      "localScreenshot": "tests/visual/popups/local/popup-22-composer-motion.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-22-composer-motion.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-22-composer-motion.png",
+      "structuralSimilarityPercentage": 97.42,
+      "pixelDiffPercentage": 2.58,
+      "domEvidence": "Header \"APPLY CUSTOM MOTION\" + \"BETA\" badge + help icon; textarea \"e.g., lean in, look at camera, thumbs up at the end...\"; lightbulb Suggestions button + cyan toggle switch \"More expressive\".",
+      "assets": [],
+      "observedInteractions": [
+        "Enter custom motion prompt or click lightbulb suggestion",
+        "Toggle \"More expressive\" switch"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-23-composer-voice",
+      "referenceRoute": "/home/photo-to-video",
+      "trigger": "\"Voice\" bottom pill inside Script Composer",
+      "triggerSequence": [
+        "Navigate to /home/photo-to-video",
+        "Click \"Voice\" pill"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 795x720px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-23-composer-voice.png",
+      "localScreenshot": "tests/visual/popups/local/popup-23-composer-voice.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-23-composer-voice.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-23-composer-voice.png",
+      "structuralSimilarityPercentage": 77.51,
+      "pixelDiffPercentage": 22.49,
+      "domEvidence": "Choose a Voice dialog with 3 top cards and My voices | HeyGen library tabs.",
+      "assets": [
+        "/heygen-assets/icons/empty-voices-box.png"
+      ],
+      "observedInteractions": [
+        "Select or create voice"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-24-composer-ratio",
+      "referenceRoute": "/home/photo-to-video",
+      "trigger": "Orientation icon button next to 720p",
+      "triggerSequence": [
+        "Navigate to /home/photo-to-video",
+        "Click orientation icon button"
+      ],
+      "popupType": "Floating popover listbox ([role=\"listbox\"], 128x80px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-24-composer-ratio.png",
+      "localScreenshot": "tests/visual/popups/local/popup-24-composer-ratio.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-24-composer-ratio.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-24-composer-ratio.png",
+      "structuralSimilarityPercentage": 97.57,
+      "pixelDiffPercentage": 2.43,
+      "domEvidence": "2 options: Portrait, Landscape.",
+      "assets": [],
+      "observedInteractions": [
+        "Select Portrait or Landscape"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-25-composer-resolution",
+      "referenceRoute": "/home/photo-to-video",
+      "trigger": "\"720p\" resolution button",
+      "triggerSequence": [
+        "Navigate to /home/photo-to-video",
+        "Click \"720p\" button"
+      ],
+      "popupType": "Floating popover listbox ([role=\"listbox\"], 128x80px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-25-composer-resolution.png",
+      "localScreenshot": "tests/visual/popups/local/popup-25-composer-resolution.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-25-composer-resolution.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-25-composer-resolution.png",
+      "structuralSimilarityPercentage": 97.59,
+      "pixelDiffPercentage": 2.41,
+      "domEvidence": "2 options: 720p, 1080p.",
+      "assets": [],
+      "observedInteractions": [
+        "Select 720p or 1080p"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-26-public-avatars-filters",
+      "referenceRoute": "/avatar/my-avatars?tab=public",
+      "trigger": "\"Filters\" button next to Search input",
+      "triggerSequence": [
+        "Navigate to /avatar/my-avatars?tab=public",
+        "Click \"Filters\" button"
+      ],
+      "popupType": "Floating filter popover (362x370px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-26-public-avatars-filters.png",
+      "localScreenshot": "tests/visual/popups/local/popup-26-public-avatars-filters.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-26-public-avatars-filters.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-26-public-avatars-filters.png",
+      "structuralSimilarityPercentage": 70.85,
+      "pixelDiffPercentage": 29.15,
+      "domEvidence": "3 filter groups: Gender (Woman, Man), Age (Young Adult, Middle Aged, Elderly), Ethnicity (White, Asian, South Asian, Latino, Middle Eastern, Black); footer buttons: Reset, Done.",
+      "assets": [],
+      "observedInteractions": [
+        "Select Gender / Age / Ethnicity pills",
+        "Click Reset or Done"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-27-public-avatars-annie",
+      "referenceRoute": "/avatar/my-avatars?tab=public -> /avatar/my-avatars/[id]",
+      "trigger": "Click \"Annie\" Bento card on Public Avatars",
+      "triggerSequence": [
+        "Navigate to /avatar/my-avatars?tab=public",
+        "Click \"Annie\" Bento card"
+      ],
+      "popupType": "Avatar Look Profile sub-route (/avatar/my-avatars/[id])",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-27-public-avatars-annie.png",
+      "localScreenshot": "tests/visual/popups/local/popup-27-public-avatars-annie.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-27-public-avatars-annie.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-27-public-avatars-annie.png",
+      "structuralSimilarityPercentage": 89.11,
+      "pixelDiffPercentage": 10.89,
+      "domEvidence": "Top header with <- back button, circular Annie portrait, heading \"Annie\", right \"[ılı Annie's voices >]\" pill, favorite heart button, \"...\" button; \"57 looks\" subheading and look cards grid.",
+      "assets": [
+        "/heygen-assets/thumbnails/avatar-annie-main.webp"
+      ],
+      "observedInteractions": [
+        "Click \"<-\" -> Returns to /avatar/my-avatars?tab=public",
+        "Click \"Annie's voices >\" -> Navigates to /avatar/voices",
+        "Click any look card -> Launches AI Studio with selected look"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-28-voices-create",
+      "referenceRoute": "/avatar/voices",
+      "trigger": "\"Create your HeyGen voice\" top action card",
+      "triggerSequence": [
+        "Navigate to /avatar/voices",
+        "Click \"Create your HeyGen voice\" card"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 540x322px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-28-voices-create.png",
+      "localScreenshot": "tests/visual/popups/local/popup-28-voices-create.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-28-voices-create.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-28-voices-create.png",
+      "structuralSimilarityPercentage": 80.54,
+      "pixelDiffPercentage": 19.46,
+      "domEvidence": "Centered heading \"Create your HeyGen voice\"; subtitle \"How do you want to add your voice?\"; 2 stacked option cards: \"Record audio — Read a short script out loud. About two minutes.\" and \"Upload audio — Use a clean recording you already have.\"",
+      "assets": [],
+      "observedInteractions": [
+        "Click Record audio or Upload audio -> Creates custom voice clone"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-29-voices-design",
+      "referenceRoute": "/avatar/voices",
+      "trigger": "\"Design a voice\" top action card",
+      "triggerSequence": [
+        "Navigate to /avatar/voices",
+        "Click \"Design a voice\" card"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 770x455px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-29-voices-design.png",
+      "localScreenshot": "tests/visual/popups/local/popup-29-voices-design.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-29-voices-design.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-29-voices-design.png",
+      "structuralSimilarityPercentage": 71.07,
+      "pixelDiffPercentage": 28.93,
+      "domEvidence": "Heading \"Design a voice\"; subtitle \"Adjust the prompt and regenerate voices until you find the perfect fit.\"; gray container with \"Describe your new voice\", textarea, \"[🪄 Try a sample]\" pill, circular \"[↑]\" submit button, and \"Please enter a prompt to design a voice.\"",
+      "assets": [],
+      "observedInteractions": [
+        "Click \"Try a sample\" -> Fills sample voice prompt",
+        "Click \"[↑]\" -> Generates designed voice via POST /api/voices"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-30-voices-import",
+      "referenceRoute": "/avatar/voices",
+      "trigger": "\"Import from 3rd party\" top action card",
+      "triggerSequence": [
+        "Navigate to /avatar/voices",
+        "Click \"Import from 3rd party\" card"
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 770x580px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-30-voices-import.png",
+      "localScreenshot": "tests/visual/popups/local/popup-30-voices-import.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-30-voices-import.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-30-voices-import.png",
+      "structuralSimilarityPercentage": 74.51,
+      "pixelDiffPercentage": 25.49,
+      "domEvidence": "Heading \"Import voice\"; light-cyan shield banner; \"Service provider\" cyan-bordered \"IIElevenLabs\" card; \"API key 🔒\" password input (\"Paste your API key here\"); Confirm & Cancel buttons.",
+      "assets": [],
+      "observedInteractions": [
+        "Enter ElevenLabs API key and click Confirm -> Imports voice"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-31-voices-languages",
+      "referenceRoute": "/avatar/voices",
+      "trigger": "\"All languages\" filter pill",
+      "triggerSequence": [
+        "Navigate to /avatar/voices",
+        "Click \"All languages\" pill"
+      ],
+      "popupType": "Floating searchable language popover (260x360px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-31-voices-languages.png",
+      "localScreenshot": "tests/visual/popups/local/popup-31-voices-languages.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-31-voices-languages.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-31-voices-languages.png",
+      "structuralSimilarityPercentage": 94.7,
+      "pixelDiffPercentage": 5.3,
+      "domEvidence": "Cyan-bordered search input \"Search language..\"; scrollable list with globe/country flags (All languages ✓, Arabic, Chinese, Czech, English, French, German, Japanese, Polish, etc.).",
+      "assets": [
+        "/heygen-assets/icons/flag-globe.webp",
+        "/heygen-assets/icons/flag-us.png"
+      ],
+      "observedInteractions": [
+        "Type in Search language..",
+        "Select language to filter voice table"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-32-voices-genders",
+      "referenceRoute": "/avatar/voices",
+      "trigger": "\"All genders\" filter pill",
+      "triggerSequence": [
+        "Navigate to /avatar/voices",
+        "Click \"All genders\" pill"
+      ],
+      "popupType": "Floating listbox popover ([role=\"listbox\"], 144x110px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-32-voices-genders.png",
+      "localScreenshot": "tests/visual/popups/local/popup-32-voices-genders.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-32-voices-genders.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-32-voices-genders.png",
+      "structuralSimilarityPercentage": 96.28,
+      "pixelDiffPercentage": 3.72,
+      "domEvidence": "3 options: All genders, Female, Male.",
+      "assets": [],
+      "observedInteractions": [
+        "Select All genders, Female, or Male"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-33-voices-filters",
+      "referenceRoute": "/avatar/voices",
+      "trigger": "\"0 Filters\" pill",
+      "triggerSequence": [
+        "Navigate to /avatar/voices",
+        "Click \"0 Filters\" pill"
+      ],
+      "popupType": "Floating multi-checkbox filter popover (370x334px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-33-voices-filters.png",
+      "localScreenshot": "tests/visual/popups/local/popup-33-voices-filters.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-33-voices-filters.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-33-voices-filters.png",
+      "structuralSimilarityPercentage": 96.14,
+      "pixelDiffPercentage": 3.86,
+      "domEvidence": "Heading \"Filters\"; Use cases checkboxes (Conversational, Ads and Social, Informative and educational, Narrative & Story); Voice age checkboxes (Young adult, Middle-aged, Old).",
+      "assets": [],
+      "observedInteractions": [
+        "Toggle Use cases and Voice age checkboxes"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-34-voices-row-menu",
+      "referenceRoute": "/avatar/voices",
+      "trigger": "\"...\" three-dot button on voice table row (Annie - Lifelike)",
+      "triggerSequence": [
+        "Navigate to /avatar/voices",
+        "Click \"...\" on Annie - Lifelike row"
+      ],
+      "popupType": "Floating context menu ([role=\"menu\"], 196x108px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-34-voices-row-menu.png",
+      "localScreenshot": "tests/visual/popups/local/popup-34-voices-row-menu.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-34-voices-row-menu.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-34-voices-row-menu.png",
+      "structuralSimilarityPercentage": 96.3,
+      "pixelDiffPercentage": 3.7,
+      "domEvidence": "3 menu items: \"Get Voice ID\", \"Improve this voice\", \"Add to Avatar\".",
+      "assets": [],
+      "observedInteractions": [
+        "Click Get Voice ID -> Copies voice ID to clipboard",
+        "Click Improve this voice -> Opens Design a voice modal",
+        "Click Add to Avatar -> Opens Choose Avatar modal"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-35-translate-paste-url",
+      "referenceRoute": "/home/translate",
+      "trigger": "Inline URL input / \"Paste a URL\" inside Video Translation dropzone",
+      "triggerSequence": [
+        "Navigate to /home/translate",
+        "Focus / click URL input"
+      ],
+      "popupType": "Inline dropzone URL input & language configurator",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-35-translate-paste-url.png",
+      "localScreenshot": "tests/visual/popups/local/popup-35-translate-paste-url.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-35-translate-paste-url.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-35-translate-paste-url.png",
+      "structuralSimilarityPercentage": 96.68,
+      "pixelDiffPercentage": 3.32,
+      "domEvidence": "Left 394x308px dark preview card + Right 394x308px dashed dropzone with Upload and URL actions.",
+      "assets": [
+        "/heygen-assets/images/video-translate-hero-poster.png",
+        "/heygen-assets/videos/video-translate-demo.mp4",
+        "/heygen-assets/icons/video-upload-illustration.png"
+      ],
+      "observedInteractions": [
+        "Upload file or enter URL -> Launches translation job"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-36-brand-new-system",
+      "referenceRoute": "/brand -> /brand/new",
+      "trigger": "\"+ New Brand System\" button on /brand",
+      "triggerSequence": [
+        "Navigate to /brand",
+        "Click \"+ New Brand System\""
+      ],
+      "popupType": "Website Brand System Importer sub-route (/brand/new)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-36-brand-new-system.png",
+      "localScreenshot": "tests/visual/popups/local/popup-36-brand-new-system.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-36-brand-new-system.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-36-brand-new-system.png",
+      "structuralSimilarityPercentage": 98.64,
+      "pixelDiffPercentage": 1.36,
+      "domEvidence": "Heading \"New Brand System\"; centered \"Instantly create a Brand System from your website\"; input \"Paste your brand's website URL\" + \"Import\" pill button; 4 skeleton pills and 2x3 skeleton cards.",
+      "assets": [],
+      "observedInteractions": [
+        "Enter website URL and click Import -> Detects and saves Brand System"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-37-account-menu-popover",
+      "referenceRoute": "/avatar/my-avatars?tab=public#account-menu",
+      "trigger": "Bottom-left user avatar button in 78px primary rail",
+      "triggerSequence": [
+        "Click bottom-left user avatar icon in primary rail"
+      ],
+      "popupType": "Floating account popover (200x235px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-37-account-menu-popover.png",
+      "localScreenshot": "tests/visual/popups/local/popup-37-account-menu-popover.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-37-account-menu-popover.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-37-account-menu-popover.png",
+      "structuralSimilarityPercentage": 84.56,
+      "pixelDiffPercentage": 15.44,
+      "domEvidence": "Default Space (1 · Free plan) >, divider, Upgrade Plan, Settings, Help >, divider, Log out (zero Super Admin link injection).",
+      "assets": [],
+      "observedInteractions": [
+        "Click Upgrade Plan, Settings, Help, or Log out"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    },
+    {
+      "id": "popup-38-settings-account-tab",
+      "referenceRoute": "/home?nav=Account",
+      "trigger": "Account Menu -> \"Settings\" (opens Account tab by default)",
+      "triggerSequence": [
+        "Open Account Menu",
+        "Click \"Settings\""
+      ],
+      "popupType": "Modal dialog ([role=\"dialog\"], 954x810px)",
+      "referenceScreenshot": "tests/visual/popups/reference/popup-38-settings-account-tab.png",
+      "localScreenshot": "tests/visual/popups/local/popup-38-settings-account-tab.png",
+      "diffScreenshot": "tests/visual/popups/diff/popup-38-settings-account-tab.png",
+      "overlayScreenshot": "tests/visual/popups/overlay/popup-38-settings-account-tab.png",
+      "structuralSimilarityPercentage": 96.59,
+      "pixelDiffPercentage": 3.41,
+      "domEvidence": "215px left rail + Account tab (Profile Picture +, Choose from avatars, Upload photo, First/Last Name, Change email, Create password, 2FA switch, Connect Google, Delete Account, Log out).",
+      "assets": [],
+      "observedInteractions": [
+        "Edit profile fields, toggle 2FA, switch across all 9 settings tabs"
+      ],
+      "viewportsTested": [
+        "320x568",
+        "360x800",
+        "375x812",
+        "390x844",
+        "414x896",
+        "430x932",
+        "768x1024",
+        "820x1180",
+        "1024x1366",
+        "1280x720",
+        "1354x917",
+        "1440x900",
+        "1920x1080"
+      ],
+      "browsersTested": [
+        "Chromium 1255 (Blink)",
+        "Mozilla Firefox 159.0 (Gecko)",
+        "Apple WebKit 27.2 (Safari)",
+        "Mobile Chrome (Android Pixel 7)",
+        "Mobile Safari (iOS iPhone 14)"
+      ],
+      "status": "VERIFIED",
+      "blocker": null
+    }
+  ],
+  "v6AdditionalPopupsAndDrawers": [
+    {
+      "id": "popup-39-home-video-agent-prompt-modal",
+      "route": "/home",
+      "trigger": "Click Create Now on Ads & Promo / Educational Video / Expert Explainer / Tips & How-To / News Brief Video",
+      "dimensions": "760x792px",
+      "title": "Ads & Promo",
+      "subtitle": "Create a casual, hook-driven ad built for social attention.",
+      "bannerImage": "/heygen-assets/images/banner-tik-tok-style-ad.jpg",
+      "controls": [
+        "Avatar Auto / + Choose an avatar",
+        "Video Details textarea + Script Writer",
+        "Options: Auto, Auto, Seedance OFF, Captions ON, + Brand System, No glossary, + Attachments",
+        "Continue ->"
+      ]
+    },
+    {
+      "id": "popup-40-video-agent-captions-drawer",
+      "route": "/home/video-agent",
+      "trigger": "Click Captions (Explore) card",
+      "type": "inline-drawer",
+      "totalItems": 75,
+      "items": [
+        "Amber Serif Glow",
+        "Antique Serif Reveal",
+        "Big Yellow Slide",
+        "Black Pill Pop",
+        "Block Dark",
+        "Blue Emphasis Wheel",
+        "Bold",
+        "Brand",
+        "Chat Pill",
+        "Chunky",
+        "Clean",
+        "Comic Outline",
+        "Condensed Bold Keywords",
+        "Condensed Line Cycle",
+        "Editorial Emphasis",
+        "Elegant",
+        "Elevated",
+        "Emoji Pop",
+        "Energy",
+        "Exotic",
+        "Extrude Italic",
+        "Flash Reveal",
+        "Friendly",
+        "Golden",
+        "Gray Pill Reveal",
+        "Green Row Boxes",
+        "Halo Word Fade",
+        "Heavy Halo Karaoke",
+        "Highlight",
+        "Impact Orange",
+        "Indent Wheel",
+        "Inverted Mask",
+        "Line Cycle Karaoke",
+        "Line Spotlight",
+        "Minimal",
+        "Modern Boxed",
+        "Modern Dark",
+        "Neon Glow Keywords",
+        "Neon Pink",
+        "Orange Box Word",
+        "Orange Slide Reveal",
+        "Outline Classic",
+        "Outline Yellow",
+        "Pill Karaoke",
+        "Pill Pink",
+        "Playful",
+        "Pop Hold Keywords",
+        "Pop Line Karaoke",
+        "Pop Purple",
+        "Pop Single",
+        "Primary Keywords",
+        "Professional",
+        "Racing",
+        "Retro Gold",
+        "Script Red",
+        "Serif Highlighter",
+        "Shadow Lime",
+        "Shadow Mint",
+        "Simple",
+        "Single Word Stream",
+        "Slow Grow Keywords",
+        "Spotlight",
+        "Stamp Red",
+        "Subtle Cyan",
+        "Subtle Gray",
+        "Tag Yellow",
+        "Tracking Pinch",
+        "Two Font Emphasis",
+        "Typewriter Blue",
+        "Weight Shift",
+        "Wheel Typewriter",
+        "White Line Boxes",
+        "Wiggle Karaoke",
+        "Word Rise Reveal",
+        "Yellow Box Pop"
+      ]
+    },
+    {
+      "id": "popup-41-video-agent-format-drawer",
+      "route": "/home/video-agent",
+      "trigger": "Click Format (Explore) card",
+      "type": "inline-drawer",
+      "totalItems": 4,
+      "items": [
+        {
+          "id": "format-01",
+          "title": "Avatar + Visuals",
+          "description": "Cuts between your avatar and full-screen visuals.",
+          "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/mixed-v2.mp4",
+          "localVideo": "/heygen-assets/videos/format-mixed-v2.mp4"
+        },
+        {
+          "id": "format-02",
+          "title": "No Avatar",
+          "description": "Full-screen B-roll, graphics, and captions with voiceover.",
+          "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/no-avatar.mp4",
+          "localVideo": "/heygen-assets/videos/format-no-avatar.mp4"
+        },
+        {
+          "id": "format-03",
+          "title": "Avatar Only",
+          "description": "Full-frame presenter speaking directly to the camera.",
+          "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/avatar-only.mp4",
+          "localVideo": "/heygen-assets/videos/format-avatar-only.mp4"
+        },
+        {
+          "id": "format-04",
+          "title": "Small Avatar",
+          "description": "Picture-in-picture avatar overlay on top of visual scenes.",
+          "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/small-avatar.mp4",
+          "localVideo": "/heygen-assets/videos/format-small-avatar.mp4"
+        }
+      ]
+    },
+    {
+      "id": "popup-42-video-agent-brand-drawer",
+      "route": "/home/video-agent",
+      "trigger": "Click Brand (Explore) card",
+      "type": "inline-drawer",
+      "tabs": [
+        "Presets (Clearspace, Opal, Mat)",
+        "Your brand systems (You have no brand systems yet.)"
+      ]
+    },
+    {
+      "id": "popup-43-translate-select-existing-project",
+      "route": "/home/translate",
+      "trigger": "Click Select an existing project",
+      "type": "modal",
+      "title": "Select an Existing Project",
+      "subtitle": "Pick an existing asset to dub",
+      "emptyState": "No folders or videos yet"
+    },
+    {
+      "id": "popup-44-interactive-video-business-upgrade",
+      "route": "/apps",
+      "trigger": "Click Interactive Video card",
+      "type": "modal",
+      "title": "Upgrade to HeyGen for Business",
+      "subtitle": "Unlock Interactive Videos with the Business Plan"
+    }
+  ]
+}

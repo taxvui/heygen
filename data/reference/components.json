@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-11-22T16:44:43.603Z",
+  "components": [
+    {
+      "id": "comp-app-shell",
+      "name": "AppShell Dual-Pane Floating Sidebar",
+      "file": "src/components/shell/AppShell.tsx"
+    },
+    {
+      "id": "comp-global-modals",
+      "name": "GlobalModals (Settings 9 tabs, Upgrade Plan, Orby, Choose Avatar, Choose Voice, Voice Creation/Design/Import)",
+      "file": "src/components/shell/GlobalModals.tsx"
+    },
+    {
+      "id": "comp-home",
+      "name": "Home Page (4-Step Setup + Personalize + 6 Video Prompts + Video Agent Prompt Modal)",
+      "file": "src/app/home/page.tsx"
+    },
+    {
+      "id": "comp-video-agent",
+      "name": "Video Agent (2-Column Composer + Intros/Captions/Format/Brand Drawers + 6-Tab 29-Card Template Gallery)",
+      "file": "src/app/home/video-agent/page.tsx"
+    },
+    {
+      "id": "comp-single-scene",
+      "name": "Single Scene Composer (Presenter & Cinematic Tabs + Recent Creations)",
+      "file": "src/components/avatar/AvatarScriptComposerView.tsx"
+    },
+    {
+      "id": "comp-translate",
+      "name": "Translate Page (Dropzone + Select an Existing Project Modal + URL Input)",
+      "file": "src/app/home/translate/page.tsx"
+    },
+    {
+      "id": "comp-studio-hub",
+      "name": "AI Studio Hub (Welcome to AI Studio + 11 Category Tabs + 18 Expandable Templates + 4-Zone Editor)",
+      "file": "src/app/apps/ai-studio/page.tsx"
+    },
+    {
+      "id": "comp-avatars",
+      "name": "Avatars Library (My Avatars Empty State + 33 Public Avatars Bento Grid + Filters + Grid/List)",
+      "file": "src/app/avatar/my-avatars/page.tsx"
+    },
+    {
+      "id": "comp-avatar-hub",
+      "name": "Avatar Creation Hub (Who is this avatar of? + Myself & A new character Equation Flows)",
+      "file": "src/app/avatars/create/avatar-hub/page.tsx"
+    },
+    {
+      "id": "comp-voices",
+      "name": "Voices Library (3 Top Action Cards + My Voices + 29 HeyGen Library Voices + See More)",
+      "file": "src/app/avatar/voices/page.tsx"
+    },
+    {
+      "id": "comp-brand-new",
+      "name": "New Brand System (Website Importer + 6 Category Tabs + 49 Brand Presets in 7 Sections + Inline Preview Bar)",
+      "file": "src/app/brand/new/page.tsx"
+    },
+    {
+      "id": "comp-apps",
+      "name": "App Library (Hero + 5 Filter Pills + 3 Featured + 14 App Cards + Business Upgrade Modal)",
+      "file": "src/app/apps/page.tsx"
+    },
+    {
+      "id": "comp-video-podcast",
+      "name": "Video Podcast Studio (/apps/video-podcast-v2)",
+      "file": "src/app/apps/video-podcast-v2/page.tsx"
+    },
+    {
+      "id": "comp-integrations",
+      "name": "Integrations Directory (20 Partner Cards)",
+      "file": "src/app/apps/integrations/page.tsx"
+    },
+    {
+      "id": "comp-projects",
+      "name": "Projects Workspace (6 Filter Tabs + Toolbar + Retry/Project List)",
+      "file": "src/app/projects/page.tsx"
+    },
+    {
+      "id": "comp-developers",
+      "name": "Developers API Onboarding (11 Sidebar Items + 3-Step API Setup)",
+      "file": "src/app/developers/api/page.tsx"
+    }
+  ]
+}

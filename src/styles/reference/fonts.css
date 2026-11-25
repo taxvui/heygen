@@ -1,0 +1,127 @@
+/* Authorized HeyGen @font-face Declarations — Self-Hosted Reference Assets */
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_Light.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_Regular.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_Italic.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_Normal.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_Normal.woff2") format("woff2");
+  font-weight: 450;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_Medium.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_DemiBold.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_DemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_Bold.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_ExtraBold.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Norms Pro";
+  src: url("/reference-assets/fonts/TT_Norms_Pro_ExtraBold.woff2") format("woff2"),
+       url("/heygen-assets/fonts/TT_Norms_Pro_ExtraBold.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Solar Display";
+  src: url("/reference-assets/fonts/ABCSolar-Light.woff2") format("woff2"),
+       url("/heygen-assets/fonts/ABCSolar-Light.woff2") format("woff2");
+  font-weight: 100 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Solar Display";
+  src: url("/reference-assets/fonts/ABCSolar-Regular.woff2") format("woff2"),
+       url("/heygen-assets/fonts/ABCSolar-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Solar Display";
+  src: url("/reference-assets/fonts/ABCSolarDisplay-Semibold.woff2") format("woff2"),
+       url("/heygen-assets/fonts/ABCSolarDisplay-Semibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Solar Display";
+  src: url("/reference-assets/fonts/ABCSolarDisplay-Bold.woff2") format("woff2"),
+       url("/heygen-assets/fonts/ABCSolarDisplay-Bold.woff2") format("woff2");
+  font-weight: 700 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ABC Solar Display Headline";
+  src: url("/reference-assets/fonts/ABCSolarDisplay-Bold.woff2") format("woff2"),
+       url("/heygen-assets/fonts/ABCSolarDisplay-Bold.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,569 @@
+{
+  "https://app.heygen.com/icons/heygen/wordmark/svg/PRISM_ORB.svg": {
+    "localPath": "public/heygen-assets/logos/PRISM_ORB.svg",
+    "publicUrl": "/heygen-assets/logos/PRISM_ORB.svg",
+    "sha256": "29d038ed87626bc5f2be4edde930ceee72eba7e71fd364b0827b20441551081e",
+    "bytes": 46032,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/app/branding/PRISM_ORB.png?tr=f-auto,q-50,w-100": {
+    "localPath": "public/heygen-assets/logos/PRISM_ORB.png",
+    "publicUrl": "/heygen-assets/logos/PRISM_ORB.png",
+    "sha256": "eac0272d73c9253296a9cb72f386fc4a1457a01c80d073dadfa32ecb50eaadfd",
+    "bytes": 10492,
+    "status": "DOWNLOADED"
+  },
+  "https://auth.heygen.com/icons/HeyGen_Primary_Logo_Black_RGB.svg": {
+    "localPath": "public/heygen-assets/logos/HeyGen_Primary_Logo_Black_RGB.svg",
+    "publicUrl": "/heygen-assets/logos/HeyGen_Primary_Logo_Black_RGB.svg",
+    "sha256": "30ddfb22e058fe4aa92d32ca65886d4d6e46175ce123192a24200d56ae967291",
+    "bytes": 40993,
+    "status": "DOWNLOADED"
+  },
+  "https://app.heygen.com/favicon.ico": {
+    "localPath": "public/heygen-assets/logos/favicon.ico",
+    "publicUrl": "/heygen-assets/logos/favicon.ico",
+    "sha256": "88129ff619e6caffc7e6082f0aa7495c04220f8a45a86fa0dc235b44920b729c",
+    "bytes": 15406,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/heygen/asset/og.png": {
+    "localPath": "public/heygen-assets/logos/og.png",
+    "publicUrl": "/heygen-assets/logos/og.png",
+    "sha256": "b14aea3479221ce274383c730816d303186e466b7b88b672936363d0f6c7e987",
+    "bytes": 111786,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_Light.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_Light.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_Light.woff2",
+    "sha256": "22b26a6f798bb9800570759db36617a8caabca07fc1e60ec3b2f9c03087012b6",
+    "bytes": 97736,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_Regular.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_Regular.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_Regular.woff2",
+    "sha256": "cc9fb026c422f319cf1dbdce6217210bed9740fc200083255aa8d63be7e7a8f9",
+    "bytes": 100360,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_Normal.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_Normal.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_Normal.woff2",
+    "sha256": "5f43cc56b609a8b1ec9cdecd62d13b3b97bab9ccd6371a5d569f932acd35a48f",
+    "bytes": 100160,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_Medium.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_Medium.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_Medium.woff2",
+    "sha256": "9da307a85ae53453953a80a45f8e5292b643183bcc96535020ad835e0740d143",
+    "bytes": 97844,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_DemiBold.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_DemiBold.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_DemiBold.woff2",
+    "sha256": "d430569df8e2f9138b151581daf668cfb37ce5e3990fc2cac0811522676ef43a",
+    "bytes": 100532,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_Bold.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_Bold.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_Bold.woff2",
+    "sha256": "cccd40bc8ac1783427380d5edbd8a2e84ac745bbff2f63c5c8470934f84daacb",
+    "bytes": 101116,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_ExtraBold.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_ExtraBold.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_ExtraBold.woff2",
+    "sha256": "ab74e91ebd776bd8328d70c1342d43d2907453093be1f61fdf4fac31224e333c",
+    "bytes": 98220,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/tt_norms_pro/TT_Norms_Pro_Italic.woff2": {
+    "localPath": "public/heygen-assets/fonts/TT_Norms_Pro_Italic.woff2",
+    "publicUrl": "/heygen-assets/fonts/TT_Norms_Pro_Italic.woff2",
+    "sha256": "bf846758c21778a0984b53d9732e98c51e8787627b4a0bc2bfad9779f6eec0d4",
+    "bytes": 104592,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/solar/ABCSolar-Light.woff2": {
+    "localPath": "public/heygen-assets/fonts/ABCSolar-Light.woff2",
+    "publicUrl": "/heygen-assets/fonts/ABCSolar-Light.woff2",
+    "sha256": "a3eba886bb2f888d7aacaed188630f0448bf5cb1545d5cc24b586a7919d0a80f",
+    "bytes": 78576,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/solar/ABCSolar-Regular.woff2": {
+    "localPath": "public/heygen-assets/fonts/ABCSolar-Regular.woff2",
+    "publicUrl": "/heygen-assets/fonts/ABCSolar-Regular.woff2",
+    "sha256": "d1b769ba49b37b006a3fd008ac42b7c8a7e42315c907e60430cddb87e90e1f13",
+    "bytes": 78368,
+    "status": "DOWNLOADED"
+  },
+  "https://app.heygen.com/fonts/solar/ABCSolarDisplay-Semibold.woff2": {
+    "localPath": "public/heygen-assets/fonts/ABCSolarDisplay-Semibold.woff2",
+    "publicUrl": "/heygen-assets/fonts/ABCSolarDisplay-Semibold.woff2",
+    "sha256": "8009404f9cb05618656669933ca25157694ca395ff1072a6e60d768d1f6e557e",
+    "bytes": 138028,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/solar/ABCSolar-Bold.woff2": {
+    "localPath": "public/heygen-assets/fonts/ABCSolar-Bold.woff2",
+    "publicUrl": "/heygen-assets/fonts/ABCSolar-Bold.woff2",
+    "sha256": "796f0a697f7e8823709e62fe0e20b077b8ba0d912977e28bc9bbe0264b1f17e5",
+    "bytes": 102380,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/fonts/solar/ABCSolarDisplay-Bold.woff2": {
+    "localPath": "public/heygen-assets/fonts/ABCSolarDisplay-Bold.woff2",
+    "publicUrl": "/heygen-assets/fonts/ABCSolarDisplay-Bold.woff2",
+    "sha256": "dda21d78c0ed770c6797a7f091329c6b942181556567263a5128a929afceb9e3",
+    "bytes": 105040,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/avatar/empty-looks.svg": {
+    "localPath": "public/heygen-assets/icons/empty-looks.svg",
+    "publicUrl": "/heygen-assets/icons/empty-looks.svg",
+    "sha256": "3623c2df137e7f999f5fb21468886d2d8b07a7ef42339adefd0bdcdd66538535",
+    "bytes": 17877,
+    "status": "DOWNLOADED"
+  },
+  "https://app.heygen.com/images/avatar-default.png": {
+    "localPath": "public/heygen-assets/icons/avatar-default.png",
+    "publicUrl": "/heygen-assets/icons/avatar-default.png",
+    "sha256": "5147bb90a36782b85902056922cac3b9bf311c0f44413e738b9c36fa04dc18c9",
+    "bytes": 375,
+    "status": "DOWNLOADED"
+  },
+  "https://app.heygen.com/images/avatar-default-dark.png": {
+    "localPath": "public/heygen-assets/icons/avatar-default-dark.png",
+    "publicUrl": "/heygen-assets/icons/avatar-default-dark.png",
+    "sha256": "e4370439c63ce4a72fa8772c3400e6c6ef0bb3d607677920134a0a883bc3b7f8",
+    "bytes": 2833,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/region_flags/globe-compressed3.webp": {
+    "localPath": "public/heygen-assets/icons/flag-globe.webp",
+    "publicUrl": "/heygen-assets/icons/flag-globe.webp",
+    "sha256": "cdb380c0050187aa7ea6fb556ed876079641942d34b0b63d65c166e12a6ade30",
+    "bytes": 16012,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/region_flags/us.png": {
+    "localPath": "public/heygen-assets/icons/flag-us.png",
+    "publicUrl": "/heygen-assets/icons/flag-us.png",
+    "sha256": "3ee8167eccf2bba40fcb609072953a4a6aa9e87337066c68b273f8c7a9eb167a",
+    "bytes": 3540,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/region_flags/au.png": {
+    "localPath": "public/heygen-assets/icons/flag-au.png",
+    "publicUrl": "/heygen-assets/icons/flag-au.png",
+    "sha256": "8ffe3a018a9836343bf4af3f9e7a10448561ef67462f4f572993e9808f61dbca",
+    "bytes": 4742,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/region_flags/gb.png": {
+    "localPath": "public/heygen-assets/icons/flag-gb.png",
+    "publicUrl": "/heygen-assets/icons/flag-gb.png",
+    "sha256": "fb32297a9e71726ba63ce4a2b6f678e70a393a3543164e05ee5c91c7a8706aca",
+    "bytes": 2054,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/region_flags/ie.png": {
+    "localPath": "public/heygen-assets/icons/flag-ie.png",
+    "publicUrl": "/heygen-assets/icons/flag-ie.png",
+    "sha256": "97ec1fd470f658acf9a3001af93fb328054024a4ec655d30f934bc8b02ed971c",
+    "bytes": 1817,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/region_flags/in.png": {
+    "localPath": "public/heygen-assets/icons/flag-in.png",
+    "publicUrl": "/heygen-assets/icons/flag-in.png",
+    "sha256": "15c853a9a6d37855bb65308a85d63c0c328a0814b92d7a5e5fa5819accf29b52",
+    "bytes": 2508,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/app/homepod/ads-promo__B-ringlight-creator.png?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/prompt-ads-promo.png",
+    "publicUrl": "/heygen-assets/images/prompt-ads-promo.png",
+    "sha256": "0aadb88e72f8e768be1e80d12d7920cfc855f378c929742d9a81efbcb67c3980",
+    "bytes": 43900,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/card-educational-video.jpg?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/prompt-educational-video.jpg",
+    "publicUrl": "/heygen-assets/images/prompt-educational-video.jpg",
+    "sha256": "92dbe6c03ee76bcac3466bbaf983b971720b6ea48a50fbe35c5c64ecef0a903a",
+    "bytes": 49097,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/expert-explainer.png?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/prompt-expert-explainer.png",
+    "publicUrl": "/heygen-assets/images/prompt-expert-explainer.png",
+    "sha256": "e937c30e12c396cd1cf7b98098affdf46a850d08bebac30bcb61cac6d1460e10",
+    "bytes": 43211,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/card_tips_how_to.jpeg?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/prompt-tips-how-to.jpg",
+    "publicUrl": "/heygen-assets/images/prompt-tips-how-to.jpg",
+    "sha256": "36427e66bf52bb47a70fbb4d4b9b321027bd4aa5075941efb6130fc8c1b95ca7",
+    "bytes": 26092,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/card-news-brief-video.jpg?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/prompt-news-brief.jpg",
+    "publicUrl": "/heygen-assets/images/prompt-news-brief.jpg",
+    "sha256": "db28cfbbfd61894c7dfabb1962b7582e6c16c1022fdbca01948c8517f834cb98",
+    "bytes": 51260,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/card_video_podcast.jpeg?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/prompt-video-podcast.jpg",
+    "publicUrl": "/heygen-assets/images/prompt-video-podcast.jpg",
+    "sha256": "76c27cd766dc7706fef6681c32dd153d066c26a5d005a5be0afea5fed30206f3",
+    "bytes": 27281,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/card_micro_lesson.jpeg?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/agent-micro-lesson.jpg",
+    "publicUrl": "/heygen-assets/images/agent-micro-lesson.jpg",
+    "sha256": "75aa147a3a92d890126d673d72bc55d108d30934d3da0a7a05a738a1f9cba279",
+    "bytes": 33875,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/card-corporate-training.jpg?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/agent-corporate-training.jpg",
+    "publicUrl": "/heygen-assets/images/agent-corporate-training.jpg",
+    "sha256": "1bf4b3245740e5bd5621947fa6945eed7e2046d84130c1106da545fa8672942d",
+    "bytes": 46219,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/team-onboarding.png?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/agent-team-onboarding.png",
+    "publicUrl": "/heygen-assets/images/agent-team-onboarding.png",
+    "sha256": "120fa80e0ccd436ce61a6aabc890f4aed1aa6a2d9b145dfcf16e010032fd023b",
+    "bytes": 31403,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/policy-explainer.png?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/agent-policy-explainer.png",
+    "publicUrl": "/heygen-assets/images/agent-policy-explainer.png",
+    "sha256": "7681e786aec7f1e8e297f8ad2c57fdba5ef2800aa5dd3dc144303035a74afd92",
+    "bytes": 23851,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/skills-refresher.png?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/agent-skills-refresher.png",
+    "publicUrl": "/heygen-assets/images/agent-skills-refresher.png",
+    "sha256": "b2d3e6c0a94fcc730e4fdc9c72b35c72252aaa9a60dafd847ff9dfcb7a51b0f4",
+    "bytes": 26518,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/SuperAgent/card_internal_update.jpeg?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/agent-internal-update.jpg",
+    "publicUrl": "/heygen-assets/images/agent-internal-update.jpg",
+    "sha256": "bf9884f298512eace29b33b1153fa4f54050c7f37f59e194a1353f6232dd6dde",
+    "bytes": 27143,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/VideoAgent/2.jpg?updatedAt=1779323474673?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/video-agent-captions.jpg",
+    "publicUrl": "/heygen-assets/images/video-agent-captions.jpg",
+    "sha256": "bf8d8849b691ebd724dbb20b601e804021ecbb492efcf3c13f1adc021f7119f3",
+    "bytes": 281190,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/VideoAgent/4.jpg?updatedAt=1779323474918?tr=f-auto,q-70,h-480": {
+    "localPath": "public/heygen-assets/images/video-agent-brand.jpg",
+    "publicUrl": "/heygen-assets/images/video-agent-brand.jpg",
+    "sha256": "1d44aed73c56d819d8be2889c03e7ca614dd9e5ed90a76737f0d34d487be0823",
+    "bytes": 464893,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-video-agent-banner.jpg?tr=f-auto,q-85,h-330": {
+    "localPath": "public/heygen-assets/images/apps-v2-video-agent-banner.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-video-agent-banner.jpg",
+    "sha256": "40d6322b03d8ed21e0f51aad8013de6d941bda01953782839866d72944375ed1",
+    "bytes": 72986,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-video-translate.jpg?tr=f-auto,q-85,h-440": {
+    "localPath": "public/heygen-assets/images/apps-v2-video-translate.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-video-translate.jpg",
+    "sha256": "09307316edcf911ec0bc2eae0565d422181cb634bbf43ab1dbaaf935c9955391",
+    "bytes": 40083,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-pdf-ppt.jpg?tr=f-auto,q-85,h-440": {
+    "localPath": "public/heygen-assets/images/apps-v2-pdf-ppt.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-pdf-ppt.jpg",
+    "sha256": "8fe068e2fd88f7537f2785d3f75c6d837b6a756b034fbbf2f776487b73944f8f",
+    "bytes": 68994,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-ai-studio-hero-17383f0cf985.webp?tr=f-auto,q-85,h-440": {
+    "localPath": "public/heygen-assets/images/apps-v2-ai-studio-hero.webp",
+    "publicUrl": "/heygen-assets/images/apps-v2-ai-studio-hero.webp",
+    "sha256": "ae3fc7a8fa73c0f38d791b7b3d3b9e320b0f9ff79be930a207d4ee07fd355a12",
+    "bytes": 221848,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-ai-video-generator.jpg?tr=f-auto,q-85,h-440": {
+    "localPath": "public/heygen-assets/images/apps-v2-ai-video-generator.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-ai-video-generator.jpg",
+    "sha256": "624f71909c5132cac3cd5c6c66841520af636f797d2db3334b562f0ab9b0b610",
+    "bytes": 47061,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-podcast.jpg?tr=f-auto,q-85,h-360": {
+    "localPath": "public/heygen-assets/images/apps-v2-podcast.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-podcast.jpg",
+    "sha256": "6a3224bd18abb1a5dc81c8c4c5579a5c0f29a533b26f903dbeb688fb1ff40ffc",
+    "bytes": 63400,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-cinematic-shots.jpg?tr=f-auto,q-85,h-440": {
+    "localPath": "public/heygen-assets/images/apps-v2-cinematic-shots.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-cinematic-shots.jpg",
+    "sha256": "c11fdc0afef7afe554766d6b185575c14883513211cb95905eecabdd1ba706ed",
+    "bytes": 65592,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-upscale.jpg?tr=f-auto,q-85,h-360": {
+    "localPath": "public/heygen-assets/images/apps-v2-upscale.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-upscale.jpg",
+    "sha256": "2eac209ee07e28f6afbd6f50d8759fe48aa0effcb26e21f38ab984e3311f37b6",
+    "bytes": 51151,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-speech-cleanup.jpg?tr=f-auto,q-85,h-360": {
+    "localPath": "public/heygen-assets/images/apps-v2-speech-cleanup.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-speech-cleanup.jpg",
+    "sha256": "b7684e4cf81789e9b62b6547e2ca0cf50f1737fa22ce75e0f18a9802d1d0c64c",
+    "bytes": 60972,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-interactive.jpg?tr=f-auto,q-85,h-360": {
+    "localPath": "public/heygen-assets/images/apps-v2-interactive.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-interactive.jpg",
+    "sha256": "3ae3ee46bed254775b97edbd5531e4ff4e9d2633feb6d8cdd0ef2b6a494bce25",
+    "bytes": 47323,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-ai-clipping.jpg?tr=f-auto,q-85,h-360": {
+    "localPath": "public/heygen-assets/images/apps-ai-clipping.jpg",
+    "publicUrl": "/heygen-assets/images/apps-ai-clipping.jpg",
+    "sha256": "1ad30736f60535b561bdcce797e986e75d3df4b0228488acde3e574218a5af54",
+    "bytes": 54910,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/APPS-PAGE-V2-ASSETS/apps-v2-batch-upload.jpg?tr=f-auto,q-85,h-360": {
+    "localPath": "public/heygen-assets/images/apps-v2-batch-upload.jpg",
+    "publicUrl": "/heygen-assets/images/apps-v2-batch-upload.jpg",
+    "sha256": "f9bd6e250d1055846147637071174322c43e19b812852de439d76af8049cac53",
+    "bytes": 76787,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/avatar/v3/262658a5bb3346e38b68c623019fd5b2_55470/preview_target.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-annie-main.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-annie-main.webp",
+    "sha256": "b49f1e730888d0ebc793f07d5ce5a77acc83b695e9f671a8d15f551da8d0d348",
+    "bytes": 376410,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/50965e4d1dc6491a9e6fdbe1ee0d260b/half/2.2/raw_preview_image.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-annie-look1.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-annie-look1.webp",
+    "sha256": "38ae6d0163ef511cd8119d79f69f580dc5a0187338c239006e4fad98564fb3b2",
+    "bytes": 24614,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/030834e167464549aa999c359bef6558/half/2.2/raw_preview_image.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-annie-look2.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-annie-look2.webp",
+    "sha256": "223d7b5753565b95a1437054c4ce9177f38c5a9490be508c0fe680d798a1609e",
+    "bytes": 21041,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Marieke/lookpack/stills/Warm_Autumn_4.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-marieke-main.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-marieke-main.jpg",
+    "sha256": "a33c8e3d5cf4d15c8fb4bfa15794d1d04fbd6080f04aa41c67ef9ce9187fa33f",
+    "bytes": 50448,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Marieke/lookpack/stills/Modern_Corporate_2.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-marieke-look1.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-marieke-look1.jpg",
+    "sha256": "f70d95ce9654ab0ca26a03586d8bb086c4f80efe8e65d3250f37210030fed941",
+    "bytes": 22510,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Marieke/paos/angles/Kitchen_1.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-marieke-look2.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-marieke-look2.jpg",
+    "sha256": "ae40169ff68772120cd5d417abe5b96cb0ff5a9ef4363decd392549997115fec",
+    "bytes": 35963,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/9080303643e84f1eaf34f2926065ae49/original.png": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-sawyer-main.png",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-sawyer-main.png",
+    "sha256": "e4280c608eac22b0519cd1cadb96d5bd199e8d57ddd57f0f03650073f5dd7c22",
+    "bytes": 56591,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/5d5a9a07c612460d882861e0e8931564_54040/preview_target.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-sawyer-look1.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-sawyer-look1.webp",
+    "sha256": "029cfc0f3e7110dbc54a91b148b58b1167bdaf81bb550d2df189699655691963",
+    "bytes": 127269,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/561ec5deb3f74a27b6b12fd8a6a2f76e_56970/preview_target.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-sawyer-look2.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-sawyer-look2.webp",
+    "sha256": "07e345f6e5e8303775bbe21762f36633b4a4df4808412326a533ed0a28ad95c2",
+    "bytes": 92819,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/d2ac71052b764c93a49a9e53537f6d29/half/2.2/raw_preview_image.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-sawyer-chair.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-sawyer-chair.webp",
+    "sha256": "e2f3b20e0828008313adc7b416d3fea1246ad9c1bafacf9fbf989ef616782b19",
+    "bytes": 30614,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/f312436050b547548b695af1c869a091/half/2.2/raw_preview_image.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-sawyer-brick.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-sawyer-brick.webp",
+    "sha256": "247b303290bef9db07b10613b25a3a9495e409b04609b667e75b34156d0cec95",
+    "bytes": 20200,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Cora/lookpack/angles/Presenter_4.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-cora-main.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-cora-main.jpg",
+    "sha256": "000d7c8a436a1e03ad96e8defee1071b7d7202e4c5d25d0db0e8339641a57de1",
+    "bytes": 43270,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Cora/paos/angles/office73_p3_a3.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-cora-look1.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-cora-look1.jpg",
+    "sha256": "070ed34cd289a5ad4d694e48d3f0da7c72db0fb641c89211f43dfb1693980b80",
+    "bytes": 36965,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Cora/paos/angles/livingroom79_p2_a2.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-cora-look2.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-cora-look2.jpg",
+    "sha256": "d265264b599f583ec6f1f8b036ba254b86cf55d99c720c6427f9481200fa47f6",
+    "bytes": 34030,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/public-avatars/Livia/paos/angles/Office_11.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-livia-main.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-livia-main.jpg",
+    "sha256": "854d5761b87c174d36f3cc6f93531bb9acacc38fabaf93221be7623895783e35",
+    "bytes": 58983,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/public-avatars/Livia/paos/angles/Office_12.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-livia-look1.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-livia-look1.jpg",
+    "sha256": "f7ffb55f65dc529c7557915e7a30b3147ab8e8ed644cf38238e8557bb9d88d70",
+    "bytes": 36932,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-158-190,h-720,fo-auto,f-auto/image/b5954effb53b4e7c95075e8b6923cb08/original.png": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-brianna-main.png",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-brianna-main.png",
+    "sha256": "e88858eb7ee8e0962c61eb27dd03a240776ac725dfca4256b0284f2f94939b5b",
+    "bytes": 60051,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/5a5ddd0a915143d7827292148567f2d5/half/2.2/raw_preview_image.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-kurt-look1.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-kurt-look1.webp",
+    "sha256": "5ed2dce164443072d5673dedc6509c1d73744d8a914c2091c192177a819173cb",
+    "bytes": 22820,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:ar-1-1,h-420,fo-auto,f-auto/avatar/v3/c2431fc0c6fb44809f48e7db6390e7de/half/2.2/raw_preview_image.webp": {
+    "localPath": "public/heygen-assets/thumbnails/avatar-kurt-look2.webp",
+    "publicUrl": "/heygen-assets/thumbnails/avatar-kurt-look2.webp",
+    "sha256": "4962c597ad4f496dde5943dc29d3945e3b296b22405a954037ed3cc6067dd0f8",
+    "bytes": 17301,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/04da766815784edf9b038db4cf6cd6ce/thumbnail_medium_thumbnail-video-04da766815784edf9b038db4cf6cd6ce.png": {
+    "localPath": "public/heygen-assets/thumbnails/template-focus-framework.png",
+    "publicUrl": "/heygen-assets/thumbnails/template-focus-framework.png",
+    "sha256": "dd337bebfd999f395348a4b2c285742008c395d6fc4c50ba6ecb98e258608f03",
+    "bytes": 17393,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/09546f1637664ea6969519f91dc3bd79/thumbnail_medium_thumbnail-video-09546f1637664ea6969519f91dc3bd79.png": {
+    "localPath": "public/heygen-assets/thumbnails/template-minimalist-sales-report.png",
+    "publicUrl": "/heygen-assets/thumbnails/template-minimalist-sales-report.png",
+    "sha256": "8f35ffcf44bc7e7f2bb04e0e5a08e21a94d83fe06bcb043e00877df1a21acf32",
+    "bytes": 15884,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/1d6b074d59734503b65bf9828384261b/thumbnail_medium_thumbnail-video-1d6b074d59734503b65bf9828384261b.png": {
+    "localPath": "public/heygen-assets/thumbnails/template-stress-free-moving.png",
+    "publicUrl": "/heygen-assets/thumbnails/template-stress-free-moving.png",
+    "sha256": "3f8071e4e323f7856c5e31bcbbbeac2eeef5e5654fdd46aa06d48cc333870725",
+    "bytes": 43894,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/24d7265d70d84124baeb8e761044f823/thumbnail_medium_thumbnail-video-24d7265d70d84124baeb8e761044f823.png": {
+    "localPath": "public/heygen-assets/thumbnails/template-corporate-onboarding.png",
+    "publicUrl": "/heygen-assets/thumbnails/template-corporate-onboarding.png",
+    "sha256": "9735e8c5f437239324ab5ab69bbead3633b347e44c885c01f0f225dfaf3ac992",
+    "bytes": 14369,
+    "status": "DOWNLOADED"
+  },
+  "https://dynamic.heygen.ai/tr:w-320,f-auto/avatar/avatar-hub/deck-front-poster.jpg": {
+    "localPath": "public/heygen-assets/thumbnails/deck-front-poster.jpg",
+    "publicUrl": "/heygen-assets/thumbnails/deck-front-poster.jpg",
+    "sha256": "b8a5a8f4b615754c5632387ba3f1c61df7d7061ee9a027d5c1d92d737feb9acf",
+    "bytes": 22505,
+    "status": "DOWNLOADED"
+  },
+  "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/hub.mp4": {
+    "localPath": "public/heygen-assets/videos/prompt-builder-hub.mp4",
+    "publicUrl": "/heygen-assets/videos/prompt-builder-hub.mp4",
+    "sha256": "1d5dadad2ebc8ccfaaf7a2c4a2f2570a7444484b623543a1914a3971bc21d81d",
+    "bytes": 4875101,
+    "status": "DOWNLOADED"
+  },
+  "https://files2.heygen.ai/avatar/v3/025975fe53df4ae3bcb08e98ef7ce01c_38970/preview_video_talk_12.mp4": {
+    "localPath": "public/heygen-assets/videos/avatar-preview-talk.mp4",
+    "publicUrl": "/heygen-assets/videos/avatar-preview-talk.mp4",
+    "sha256": "8d0774cb97176d0fcae86be48d2fc0b7373fe06529d207b68787429c29d85c84",
+    "bytes": 974800,
+    "status": "DOWNLOADED"
+  },
+  "https://app.heygen.com/main-CIqZwH0u.css": {
+    "localPath": "styles/reference/extracted-css/main-CIqZwH0u.css",
+    "publicUrl": "styles/reference/extracted-css/main-CIqZwH0u.css",
+    "sha256": "aae6164efcac37064c14eb7bb3a4fa5b3a8fe2ac2b1ed7088023b48992e3dfff",
+    "bytes": 4286,
+    "status": "DOWNLOADED"
+  },
+  "https://app.heygen.com/main-C1zSbYdM.css": {
+    "localPath": "styles/reference/extracted-css/main-C1zSbYdM.css",
+    "publicUrl": "styles/reference/extracted-css/main-C1zSbYdM.css",
+    "sha256": "74419fb6a63a0d07c8b247b3c989318edf38e836dd0bf7719e94ac60ca6ccf60",
+    "bytes": 1229705,
+    "status": "DOWNLOADED"
+  }
+}

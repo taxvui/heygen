@@ -1,0 +1,22 @@
+/* Exact Responsive Media Queries & Viewport Rules from main-C1zSbYdM.css */
+
+@media (min-height: 1000px) {
+  .hg-welcome-h2 {
+    font-size: 44px !important;
+  }
+}
+
+@media (max-width: 479px) {
+  :root {
+    --home-top-bar-height: 78px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-bg-orb,
+  .sa-bg-logo,
+  .personalizing-shimmer,
+  .va-thinking-shimmer {
+    animation: none !important;
+  }
+}

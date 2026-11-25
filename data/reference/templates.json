@@ -1,0 +1,1550 @@
+{
+  "generatedAt": "2026-11-22T16:44:43.603Z",
+  "videoAgentIntros": [
+    {
+      "id": "intro-01",
+      "slug": "capcut",
+      "title": "Playful Gold Typewriter",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/capcut/6fe1b39656014be8afa152f89f391ca4/template.mp4",
+      "overlayPrimary": "GOLD",
+      "overlaySecondary": "TYPEWRITER",
+      "bg": "from-[#34281e] to-[#17120d]"
+    },
+    {
+      "id": "intro-02",
+      "slug": "house",
+      "title": "Minimal Property Listing",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/house/436819e95a474c6a9a9692d54849cb65/template.mp4",
+      "overlayPrimary": "MINIMAL",
+      "overlaySecondary": "PROPERTY",
+      "bg": "from-[#2b3540] to-[#161c22]"
+    },
+    {
+      "id": "intro-03",
+      "slug": "finance",
+      "title": "Paper Cutout Tips",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/finance/ff351c9384c04b8aaca3c6b4ecf14352/template.mp4",
+      "overlayPrimary": "PAPER",
+      "overlaySecondary": "CUTOUT TIPS",
+      "bg": "from-[#1f3b2e] to-[#102018]"
+    },
+    {
+      "id": "intro-04",
+      "slug": "padel",
+      "title": "Bold Athletic Stack",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/padel/af48371e76d14c069a80ca653984be6c/template.mp4",
+      "overlayPrimary": "BOLD",
+      "overlaySecondary": "ATHLETIC",
+      "bg": "from-[#1b3556] to-[#0f1d30]"
+    },
+    {
+      "id": "intro-05",
+      "slug": "adventure",
+      "title": "Golden Adventure Script",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/adventure/e9ffb86f50e442e1a07f44bdc7b26700/template.mp4",
+      "overlayPrimary": "Golden",
+      "overlaySecondary": "ADVENTURE",
+      "bg": "from-[#3e3222] to-[#1d160e]"
+    },
+    {
+      "id": "intro-06",
+      "slug": "estate",
+      "title": "Sparkling Property Reveal",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/estate/9b3c3bfd528b486d863da3d66647566d/template.mp4",
+      "overlayPrimary": "LUXURY",
+      "overlaySecondary": "ESTATE",
+      "bg": "from-[#2c2f36] to-[#17191d]"
+    },
+    {
+      "id": "intro-07",
+      "slug": "summer",
+      "title": "Golden Travel Journal",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/summer/b86243076e414b3c806032a8f76b6fd3/template.mp4",
+      "overlayPrimary": "Summer",
+      "overlaySecondary": "JOURNAL",
+      "bg": "from-[#4a3723] to-[#23190f]"
+    },
+    {
+      "id": "intro-08",
+      "slug": "doctor",
+      "title": "Blue Speaker Introduction",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/doctor/f2fb636d7a11445da98fb008b87f1ded/template.mp4",
+      "overlayPrimary": "SPEAKER",
+      "overlaySecondary": "INTRO",
+      "bg": "from-[#1a3a5c] to-[#0e2033]"
+    },
+    {
+      "id": "intro-09",
+      "slug": "incision",
+      "title": "Yellow Question Sequence",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/incision/5a751e6b7c864575ac1ae79e1bfdab58/template.mp4",
+      "overlayPrimary": "DID YOU",
+      "overlaySecondary": "KNOW?",
+      "bg": "from-[#363119] to-[#1b180b]"
+    },
+    {
+      "id": "intro-10",
+      "slug": "investing",
+      "title": "Elegant Script Question",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/investing/f2d4b47941784f338ad055b63ba0e3a3/template.mp4",
+      "overlayPrimary": "Smart",
+      "overlaySecondary": "INVESTING",
+      "bg": "from-[#22352c] to-[#111b16]"
+    },
+    {
+      "id": "intro-11",
+      "slug": "beige",
+      "title": "Cream Editorial Statement",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/beige/f9247a0342e34a1a8dfbea09b1921a84/template.mp4",
+      "overlayPrimary": "BEIGE",
+      "overlaySecondary": "OVER",
+      "bg": "from-[#44382c] to-[#211a14]"
+    },
+    {
+      "id": "intro-12",
+      "slug": "wylie",
+      "title": "Elegant Location and Price",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/wylie/7372fe0891c445b085b1663ff7680bbe/template.mp4",
+      "overlayPrimary": "BEVERLY",
+      "overlaySecondary": "$4,850,000",
+      "bg": "from-[#2f3133] to-[#18191a]"
+    },
+    {
+      "id": "intro-13",
+      "slug": "life",
+      "title": "Retro Pink Headline",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/life/1b42c24a28034849af00ae54c7941cc7/template.mp4",
+      "overlayPrimary": "RETRO",
+      "overlaySecondary": "HEADLINE",
+      "bg": "from-[#4d263e] to-[#26111e]"
+    },
+    {
+      "id": "intro-14",
+      "slug": "energy",
+      "title": "Blue Scenic Statement",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/energy/5f8dc24b19cc48d3a95a4e0eb77c6a2f/template.mp4",
+      "overlayPrimary": "PURE",
+      "overlaySecondary": "ENERGY",
+      "bg": "from-[#1c3d52] to-[#0d1e29]"
+    },
+    {
+      "id": "intro-15",
+      "slug": "summer-diaries",
+      "title": "Summer Diaries",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/summer-diaries/95bfba8ac63043519872ea7edf267f81/template.mp4",
+      "overlayPrimary": "Summer",
+      "overlaySecondary": "DIARIES",
+      "bg": "from-[#423321] to-[#211910]"
+    },
+    {
+      "id": "intro-16",
+      "slug": "scrolling",
+      "title": "Vertical Stop Scroll",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/scrolling/c9e5300675ce498d8a5e5a510fa9e46a/template.mp4",
+      "overlayPrimary": "STOP",
+      "overlaySecondary": "SCROLLING",
+      "bg": "from-[#3d1e1e] to-[#1e0e0e]"
+    },
+    {
+      "id": "intro-17",
+      "slug": "ten",
+      "title": "Quiet Serif Headline",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/ten/386ab6fe068d4fd9aabd0c7b7613a271/template.mp4",
+      "overlayPrimary": "Quiet",
+      "overlaySecondary": "SERIF",
+      "bg": "from-[#2e2d2a] to-[#171614]"
+    },
+    {
+      "id": "intro-18",
+      "slug": "filming",
+      "title": "Bold Outlined Caption",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/filming/7c992f18f64845a997ac72ecdc78e27c/template.mp4",
+      "overlayPrimary": "CREATOR",
+      "overlaySecondary": "FILMING",
+      "bg": "from-[#262b33] to-[#121519]"
+    },
+    {
+      "id": "intro-19",
+      "slug": "editing",
+      "title": "Gold Serif and Handwriting",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/editing/af0c2808d5aa44f3b92034db7c28aa92/template.mp4",
+      "overlayPrimary": "Editorial",
+      "overlaySecondary": "CRAFT",
+      "bg": "from-[#3b3020] to-[#1c160e]"
+    },
+    {
+      "id": "intro-20",
+      "slug": "talking",
+      "title": "White and Yellow Pop",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/talking/9d566d53d4e942d1ab2194ca75101e14/template.mp4",
+      "overlayPrimary": "LET US",
+      "overlaySecondary": "TALK",
+      "bg": "from-[#332f1b] to-[#19170c]"
+    },
+    {
+      "id": "intro-21",
+      "slug": "yaps",
+      "title": "Cream Editorial Serif",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/yaps/73ba0dcf2b1d488d8c64e051594c4ba9/template.mp4",
+      "overlayPrimary": "DAILY",
+      "overlaySecondary": "THOUGHTS",
+      "bg": "from-[#3a332c] to-[#1c1815]"
+    },
+    {
+      "id": "intro-22",
+      "slug": "closeup",
+      "title": "Gold Italic Shadow",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/closeup/d7f284d7765f4ce4a2f079535885a28b/template.mp4",
+      "overlayPrimary": "Focus",
+      "overlaySecondary": "CLOSEUP",
+      "bg": "from-[#352b1d] to-[#1a150e]"
+    },
+    {
+      "id": "intro-23",
+      "slug": "shots",
+      "title": "Dynamic Shot Labels",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/shots/fa5de28d2ae1464db250c39b3eaf20e4/template.mp4",
+      "overlayPrimary": "DYNAMIC",
+      "overlaySecondary": "SHOTS",
+      "bg": "from-[#232b36] to-[#11151b]"
+    },
+    {
+      "id": "intro-24",
+      "slug": "creators",
+      "title": "Clean Outlined Header",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/creators/6c50807dcd6445359a1e2b81b6b72d4a/template.mp4",
+      "overlayPrimary": "FOR",
+      "overlaySecondary": "CREATORS",
+      "bg": "from-[#282438] to-[#13111c]"
+    },
+    {
+      "id": "intro-25",
+      "slug": "daylife",
+      "title": "Cream Diary Collage",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/daylife/26ca7e45f9f6488e80c57c64a0e00930/template.mp4",
+      "overlayPrimary": "DAY IN",
+      "overlaySecondary": "THE LIFE",
+      "bg": "from-[#3d342b] to-[#1e1915]"
+    },
+    {
+      "id": "intro-26",
+      "slug": "market",
+      "title": "Red Highlight Word Cards",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/market/55e6bf66dddc4ff788bc420181cda90f/template.mp4",
+      "overlayPrimary": "MARKET",
+      "overlaySecondary": "ALERT",
+      "bg": "from-[#451d1d] to-[#220d0d]"
+    },
+    {
+      "id": "intro-27",
+      "slug": "surgeon",
+      "title": "Script and Yellow Introduction",
+      "videoUrl": "https://files2.heygen.ai/text-hook-templates/surgeon/fa32e947d6a64ad1982d6eecb4641040/template.mp4",
+      "overlayPrimary": "Expert",
+      "overlaySecondary": "INSIGHTS",
+      "bg": "from-[#1f313b] to-[#0f181d]"
+    }
+  ],
+  "videoAgentCaptions": [
+    "Amber Serif Glow",
+    "Antique Serif Reveal",
+    "Big Yellow Slide",
+    "Black Pill Pop",
+    "Block Dark",
+    "Blue Emphasis Wheel",
+    "Bold",
+    "Brand",
+    "Chat Pill",
+    "Chunky",
+    "Clean",
+    "Comic Outline",
+    "Condensed Bold Keywords",
+    "Condensed Line Cycle",
+    "Editorial Emphasis",
+    "Elegant",
+    "Elevated",
+    "Emoji Pop",
+    "Energy",
+    "Exotic",
+    "Extrude Italic",
+    "Flash Reveal",
+    "Friendly",
+    "Golden",
+    "Gray Pill Reveal",
+    "Green Row Boxes",
+    "Halo Word Fade",
+    "Heavy Halo Karaoke",
+    "Highlight",
+    "Impact Orange",
+    "Indent Wheel",
+    "Inverted Mask",
+    "Line Cycle Karaoke",
+    "Line Spotlight",
+    "Minimal",
+    "Modern Boxed",
+    "Modern Dark",
+    "Neon Glow Keywords",
+    "Neon Pink",
+    "Orange Box Word",
+    "Orange Slide Reveal",
+    "Outline Classic",
+    "Outline Yellow",
+    "Pill Karaoke",
+    "Pill Pink",
+    "Playful",
+    "Pop Hold Keywords",
+    "Pop Line Karaoke",
+    "Pop Purple",
+    "Pop Single",
+    "Primary Keywords",
+    "Professional",
+    "Racing",
+    "Retro Gold",
+    "Script Red",
+    "Serif Highlighter",
+    "Shadow Lime",
+    "Shadow Mint",
+    "Simple",
+    "Single Word Stream",
+    "Slow Grow Keywords",
+    "Spotlight",
+    "Stamp Red",
+    "Subtle Cyan",
+    "Subtle Gray",
+    "Tag Yellow",
+    "Tracking Pinch",
+    "Two Font Emphasis",
+    "Typewriter Blue",
+    "Weight Shift",
+    "Wheel Typewriter",
+    "White Line Boxes",
+    "Wiggle Karaoke",
+    "Word Rise Reveal",
+    "Yellow Box Pop"
+  ],
+  "videoAgentFormats": [
+    {
+      "id": "format-01",
+      "title": "Avatar + Visuals",
+      "description": "Cuts between your avatar and full-screen visuals.",
+      "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/mixed-v2.mp4",
+      "localVideo": "/heygen-assets/videos/format-mixed-v2.mp4"
+    },
+    {
+      "id": "format-02",
+      "title": "No Avatar",
+      "description": "Full-screen B-roll, graphics, and captions with voiceover.",
+      "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/no-avatar.mp4",
+      "localVideo": "/heygen-assets/videos/format-no-avatar.mp4"
+    },
+    {
+      "id": "format-03",
+      "title": "Avatar Only",
+      "description": "Full-frame presenter speaking directly to the camera.",
+      "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/avatar-only.mp4",
+      "localVideo": "/heygen-assets/videos/format-avatar-only.mp4"
+    },
+    {
+      "id": "format-04",
+      "title": "Small Avatar",
+      "description": "Picture-in-picture avatar overlay on top of visual scenes.",
+      "videoUrl": "https://static.heygen.ai/heygen/s2v/prompt-builder/formats/small-avatar.mp4",
+      "localVideo": "/heygen-assets/videos/format-small-avatar.mp4"
+    }
+  ],
+  "videoAgentGallerySections": [
+    {
+      "id": "sec-personal-brand",
+      "tab": "Personal Brand",
+      "heading": "Build your personal brand",
+      "cards": [
+        {
+          "id": "vag-01",
+          "title": "Tips & How-To",
+          "cta": "Create yours",
+          "subtitle": "Share a tip or how-to as a clear, step-by-step video.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card_tips_how_to.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-tips-how-to.jpg"
+        },
+        {
+          "id": "vag-02",
+          "title": "Expert Explainer",
+          "cta": "Create yours",
+          "subtitle": "Turn your expertise into a clear explainer that makes a hard topic click.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/expert-explainer.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-expert-explainer.png"
+        },
+        {
+          "id": "vag-03",
+          "title": "Educational Video",
+          "cta": "Create yours",
+          "subtitle": "Make any topic easier to understand with a short, step-by-step lesson.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card-educational-video.jpg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-educational-video.jpg"
+        },
+        {
+          "id": "vag-04",
+          "title": "Course Lesson Video",
+          "cta": "Create yours",
+          "subtitle": "Deliver structured lessons that keep learners engaged from start to finish.",
+          "remoteImage": "https://dynamic.heygen.ai/prod/movio/public/resource/9b7d0abd6f0a474584cf432b8e7ad85a.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-course-lesson.jpg"
+        },
+        {
+          "id": "vag-05",
+          "title": "News Brief Video",
+          "cta": "Create yours",
+          "subtitle": "Summarize a story fast with the key context and takeaways.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card-news-brief-video.jpg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-news-brief.jpg"
+        },
+        {
+          "id": "vag-06",
+          "title": "Sales Outreach",
+          "cta": "Create yours",
+          "subtitle": "Record a personalized pitch that books more meetings.",
+          "remoteImage": "https://dynamic.heygen.ai/app/homepod/image%20(8).png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-sales-outreach.png"
+        }
+      ]
+    },
+    {
+      "id": "sec-course-elearning",
+      "tab": "Course & E‑learning",
+      "heading": "Build learning videos that stick",
+      "cards": [
+        {
+          "id": "vag-07",
+          "title": "Course Lesson Video",
+          "cta": "Create yours",
+          "subtitle": "Deliver structured lessons that keep learners engaged.",
+          "remoteImage": "https://dynamic.heygen.ai/prod/movio/public/resource/9b7d0abd6f0a474584cf432b8e7ad85a.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-course-lesson.jpg"
+        },
+        {
+          "id": "vag-08",
+          "title": "Micro-lesson",
+          "cta": "Create yours",
+          "subtitle": "Teach one idea, fast.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card_micro_lesson.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-micro-lesson.jpg"
+        },
+        {
+          "id": "vag-09",
+          "title": "Corporate Training Video",
+          "cta": "Create yours",
+          "subtitle": "Standardize employee training across teams and locations.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card-corporate-training.jpg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-corporate-training.jpg"
+        },
+        {
+          "id": "vag-10",
+          "title": "Educational Video",
+          "cta": "Create yours",
+          "subtitle": "Make any topic easier to understand with a short lesson.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card-educational-video.jpg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-educational-video.jpg"
+        },
+        {
+          "id": "vag-11",
+          "title": "Expert Explainer",
+          "cta": "Create yours",
+          "subtitle": "Turn your expertise into a clear explainer.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/expert-explainer.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-expert-explainer.png"
+        },
+        {
+          "id": "vag-12",
+          "title": "Tips & How-To",
+          "cta": "Create yours",
+          "subtitle": "Share a tip or how-to as a clear, step-by-step video.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card_tips_how_to.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-tips-how-to.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sec-corporate-training",
+      "tab": "Corporate Training",
+      "heading": "Turn knowledge into training",
+      "cards": [
+        {
+          "id": "vag-13",
+          "title": "Corporate Training Video",
+          "cta": "Create yours",
+          "subtitle": "Standardize employee training across teams.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card-corporate-training.jpg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-corporate-training.jpg"
+        },
+        {
+          "id": "vag-14",
+          "title": "Course Lesson Video",
+          "cta": "Create yours",
+          "subtitle": "Deliver structured lessons that keep learners engaged.",
+          "remoteImage": "https://dynamic.heygen.ai/prod/movio/public/resource/9b7d0abd6f0a474584cf432b8e7ad85a.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-course-lesson.jpg"
+        },
+        {
+          "id": "vag-15",
+          "title": "Team Onboarding",
+          "cta": "Create yours",
+          "subtitle": "Welcome new hires with consistent onboarding modules.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/team-onboarding.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-team-onboarding.png"
+        },
+        {
+          "id": "vag-16",
+          "title": "Policy Explainer",
+          "cta": "Create yours",
+          "subtitle": "Walk through company policies and compliance clearly.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/policy-explainer.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-policy-explainer.png"
+        },
+        {
+          "id": "vag-17",
+          "title": "Skills Refresher",
+          "cta": "Create yours",
+          "subtitle": "Reinforce critical workflows with bite-sized refreshers.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/skills-refresher.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-skills-refresher.png"
+        },
+        {
+          "id": "vag-18",
+          "title": "Internal Update",
+          "cta": "Create yours",
+          "subtitle": "Share leadership and product updates asynchronously.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card_internal_update.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-internal-update.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sec-creator-channels",
+      "tab": "Creator Channels",
+      "heading": "Build creator channel videos",
+      "cards": [
+        {
+          "id": "vag-19",
+          "title": "Ads & Promo",
+          "cta": "Create yours",
+          "subtitle": "Create a casual, hook-driven ad built for social attention.",
+          "remoteImage": "https://dynamic.heygen.ai/app/homepod/ads-promo__B-ringlight-creator.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/images/prompt-ads-promo.png"
+        },
+        {
+          "id": "vag-20",
+          "title": "Educational Video",
+          "cta": "Create yours",
+          "subtitle": "Make any topic easier to understand with a short lesson.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card-educational-video.jpg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-educational-video.jpg"
+        },
+        {
+          "id": "vag-21",
+          "title": "Expert Explainer",
+          "cta": "Create yours",
+          "subtitle": "Turn your expertise into a clear explainer.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/expert-explainer.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-expert-explainer.png"
+        },
+        {
+          "id": "vag-22",
+          "title": "Tips & How-To",
+          "cta": "Create yours",
+          "subtitle": "Share a tip or how-to as a clear, step-by-step video.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card_tips_how_to.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-tips-how-to.jpg"
+        },
+        {
+          "id": "vag-23",
+          "title": "News Brief Video",
+          "cta": "Create yours",
+          "subtitle": "Summarize a story fast with the key context and takeaways.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card-news-brief-video.jpg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-news-brief.jpg"
+        },
+        {
+          "id": "vag-24",
+          "title": "Video Podcast",
+          "cta": "Try it now",
+          "href": "/apps/video-podcast-v2",
+          "subtitle": "Generate a podcast video with multiple AI avatars.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/card_video_podcast.jpeg?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-video-podcast.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sec-real-estate",
+      "tab": "Real Estate",
+      "heading": "Sell homes with better video",
+      "cards": [
+        {
+          "id": "vag-25",
+          "title": "Market Updates",
+          "cta": "Create yours",
+          "subtitle": "Break down local housing trends and mortgage shifts.",
+          "remoteImage": "https://dynamic.heygen.ai/VideoAgent/4.jpg?updatedAt=1779323474918&tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-re-market-updates.jpg"
+        },
+        {
+          "id": "vag-26",
+          "title": "Hosted Home Tour",
+          "cta": "Create yours",
+          "subtitle": "Walk buyers through a property with an AI host.",
+          "remoteImage": "https://dynamic.heygen.ai/VideoAgent/2.jpg?updatedAt=1779323474673&tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-re-hosted-tour.jpg"
+        },
+        {
+          "id": "vag-27",
+          "title": "Listing Spotlight",
+          "cta": "Create yours",
+          "subtitle": "Highlight key features and neighborhood perks.",
+          "remoteImage": "https://dynamic.heygen.ai/VideoAgent/1.jpg?updatedAt=1779323473940&tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-re-listing-spotlight.jpg"
+        },
+        {
+          "id": "vag-28",
+          "title": "Cinematic Home Tour",
+          "cta": "Create yours",
+          "subtitle": "Turn property photos into a smooth cinematic showcase.",
+          "remoteImage": "https://dynamic.heygen.ai/VideoAgent/3.jpg?updatedAt=1779323474621&tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-re-cinematic-tour.jpg"
+        },
+        {
+          "id": "vag-29",
+          "title": "Meet the Agent",
+          "cta": "Create yours",
+          "subtitle": "Introduce yourself and build trust with prospective clients.",
+          "remoteImage": "https://dynamic.heygen.ai/SuperAgent/meet-the-agent.png?tr=f-auto,q-70,h-480",
+          "localImage": "/heygen-assets/thumbnails/va-re-meet-agent.png"
+        }
+      ]
+    }
+  ],
+  "aiStudioTemplates": [
+    {
+      "id": "tpl-01",
+      "title": "Focus Framework Intro",
+      "tags": [
+        "Corporate",
+        "Learning & Development",
+        "Training"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/04da766815784edf9b038db4cf6cd6ce/thumbnail_medium_thumbnail-video-04da766815784edf9b038db4cf6cd6ce.png",
+      "localImage": "/heygen-assets/thumbnails/template-focus-framework.png"
+    },
+    {
+      "id": "tpl-02",
+      "title": "Minimalist Sales Report",
+      "tags": [
+        "Sales",
+        "Corporate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/09546f1637664ea6969519f91dc3bd79/thumbnail_medium_thumbnail-video-09546f1637664ea6969519f91dc3bd79.png",
+      "localImage": "/heygen-assets/thumbnails/template-sales-report.png"
+    },
+    {
+      "id": "tpl-03",
+      "title": "Stress-Free Moving Quote",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/0c7e91fb78c846138f064b1b6a9ece11/thumbnail_medium_thumbnail-video-0c7e91fb78c846138f064b1b6a9ece11",
+      "localImage": "/heygen-assets/thumbnails/template-moving-quote.webp"
+    },
+    {
+      "id": "tpl-04",
+      "title": "Wealth Management",
+      "tags": [
+        "Marketing",
+        "Sales",
+        "Finance"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/16fdd2e055634a569ae909a59fb71974/thumbnail_medium_thumbnail-video-16fdd2e055634a569ae909a59fb71974",
+      "localImage": "/heygen-assets/thumbnails/template-wealth-management.webp"
+    },
+    {
+      "id": "tpl-05",
+      "title": "Product Roadmap",
+      "tags": [
+        "Tutorials & Explainers",
+        "Sales",
+        "Corporate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/186485ddebfd4273b7b75592b2dfdd26/thumbnail_medium_thumbnail-video-186485ddebfd4273b7b75592b2dfdd26",
+      "localImage": "/heygen-assets/thumbnails/template-product-roadmap.webp"
+    },
+    {
+      "id": "tpl-06",
+      "title": "Financial Services Marketing",
+      "tags": [
+        "Marketing",
+        "Corporate",
+        "Finance"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/1d3b10611b8a4b0ba7d4e02773d7e6dc/thumbnail_medium_thumbnail-video-1d3b10611b8a4b0ba7d4e02773d7e6dc",
+      "localImage": "/heygen-assets/thumbnails/template-financial-services.webp"
+    },
+    {
+      "id": "tpl-07",
+      "title": "Property Listing",
+      "tags": [
+        "Real Estate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/1d6b074d59734503b65bf9828384261b/thumbnail_medium_thumbnail-video-1d6b074d59734503b65bf9828384261b.png",
+      "localImage": "/heygen-assets/thumbnails/template-property-listing.png"
+    },
+    {
+      "id": "tpl-08",
+      "title": "Business Strategy",
+      "tags": [
+        "Corporate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/2391b2b838a64d7f99b1b92a62529ab8/thumbnail_medium_thumbnail-video-2391b2b838a64d7f99b1b92a62529ab8",
+      "localImage": "/heygen-assets/thumbnails/template-business-strategy.webp"
+    },
+    {
+      "id": "tpl-09",
+      "title": "Tech News Report",
+      "tags": [
+        "Explainer Video"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/24d7265d70d84124baeb8e761044f823/thumbnail_medium_thumbnail-video-24d7265d70d84124baeb8e761044f823.png",
+      "localImage": "/heygen-assets/thumbnails/template-tech-news.png"
+    },
+    {
+      "id": "tpl-10",
+      "title": "Solar Panel Overview",
+      "tags": [
+        "Marketing",
+        "Explainer Video"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/251ea085aaf34acebfc859738a85555f/thumbnail_medium_thumbnail-video-251ea085aaf34acebfc859738a85555f.png",
+      "localImage": "/heygen-assets/thumbnails/template-solar-panel.png"
+    },
+    {
+      "id": "tpl-11",
+      "title": "Small Business Protection",
+      "tags": [
+        "Marketing",
+        "Finance"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/29dfaaf8088240c2895846bf3f68db66/thumbnail_medium_thumbnail-video-29dfaaf8088240c2895846bf3f68db66",
+      "localImage": "/heygen-assets/thumbnails/template-small-business.webp"
+    },
+    {
+      "id": "tpl-12",
+      "title": "Creator Course - Part 2",
+      "tags": [
+        "Training",
+        "Learning & Development",
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/37bf3208577440279d0b10b22929222d/thumbnail_medium_thumbnail-video-37bf3208577440279d0b10b22929222d.png",
+      "localImage": "/heygen-assets/thumbnails/template-creator-course.png"
+    },
+    {
+      "id": "tpl-13",
+      "title": "How to Build a Sales Presentation - Part 2",
+      "tags": [
+        "Learning & Development",
+        "Tutorials & Explainers",
+        "Sales"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/39970fa40da84310aa01f001dc6aa584/thumbnail_medium_thumbnail-video-39970fa40da84310aa01f001dc6aa584.png",
+      "localImage": "/heygen-assets/thumbnails/template-sales-presentation.png"
+    },
+    {
+      "id": "tpl-14",
+      "title": "Financial Planning",
+      "tags": [
+        "Finance"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/3cd4bcf95b5740a58b5ada7b73905362/thumbnail_medium_thumbnail-video-3cd4bcf95b5740a58b5ada7b73905362.png",
+      "localImage": "/heygen-assets/thumbnails/template-financial-planning.png"
+    },
+    {
+      "id": "tpl-15",
+      "title": "Meet Our Stylist",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/3cf4ef22f4a74b21b49f4fd1d1be5318/thumbnail_medium_thumbnail-video-3cf4ef22f4a74b21b49f4fd1d1be5318",
+      "localImage": "/heygen-assets/thumbnails/template-meet-stylist.webp"
+    },
+    {
+      "id": "tpl-16",
+      "title": "We're Hiring Template",
+      "tags": [
+        "Corporate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/3daf5a4b65f24a6e9db8919ab25def24/thumbnail_medium_thumbnail-video-3daf5a4b65f24a6e9db8919ab25def24.png",
+      "localImage": "/heygen-assets/thumbnails/template-were-hiring.png"
+    },
+    {
+      "id": "tpl-17",
+      "title": "Medicare Made Simple",
+      "tags": [
+        "Finance",
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/3dc623e56e8b4729afae14ef77319f25/thumbnail_medium_thumbnail-video-3dc623e56e8b4729afae14ef77319f25",
+      "localImage": "/heygen-assets/thumbnails/template-medicare-simple.webp"
+    },
+    {
+      "id": "tpl-18",
+      "title": "DTC Product Explainer",
+      "tags": [
+        "Tutorials & Explainers",
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/3e1a4a7663ac4ddcb3a1af6c31a78578/thumbnail_medium_thumbnail-video-3e1a4a7663ac4ddcb3a1af6c31a78578.png",
+      "localImage": "/heygen-assets/thumbnails/template-dtc-explainer.png"
+    },
+    {
+      "id": "tpl-19",
+      "title": "Financial Risk Planning",
+      "tags": [
+        "Finance"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/46e13f70d2ee48d1ba13d04e130f9839/thumbnail_medium_thumbnail-video-46e13f70d2ee48d1ba13d04e130f9839.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-19.png"
+    },
+    {
+      "id": "tpl-20",
+      "title": "Email Marketing Course",
+      "tags": [
+        "Learning & Development",
+        "Explainer Video",
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/481e59592b4045dbac5d3325aba86735/thumbnail_medium_thumbnail-video-481e59592b4045dbac5d3325aba86735.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-20.png"
+    },
+    {
+      "id": "tpl-21",
+      "title": "Real Estate Template",
+      "tags": [
+        "Marketing",
+        "Real Estate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/4cf4e5898436497faa987bc9958663d7/thumbnail_medium_thumbnail-video-4cf4e5898436497faa987bc9958663d7.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-21.png"
+    },
+    {
+      "id": "tpl-22",
+      "title": "Focus Framework Lesson",
+      "tags": [
+        "Learning & Development",
+        "Training",
+        "Corporate",
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/57dec7956a974e538c1d451717cea9dc/thumbnail_medium_thumbnail-video-57dec7956a974e538c1d451717cea9dc.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-22.png"
+    },
+    {
+      "id": "tpl-23",
+      "title": "Marketing Report Template",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/592f8a0d2d73413980042cfd5e2e8700/thumbnail_medium_thumbnail-video-592f8a0d2d73413980042cfd5e2e8700.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-23.png"
+    },
+    {
+      "id": "tpl-24",
+      "title": "My First Avatar Video",
+      "tags": [
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/5ab5808fdb604d56a2f0da19716e7a42/thumbnail_medium_thumbnail-video-5ab5808fdb604d56a2f0da19716e7a42",
+      "localImage": "/heygen-assets/thumbnails/template-studio-24.webp"
+    },
+    {
+      "id": "tpl-25",
+      "title": "Storm Damage Support",
+      "tags": [
+        "Finance",
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/5db409a43a094dd99c7611d1b79687e4/thumbnail_medium_thumbnail-video-5db409a43a094dd99c7611d1b79687e4",
+      "localImage": "/heygen-assets/thumbnails/template-studio-25.webp"
+    },
+    {
+      "id": "tpl-26",
+      "title": "Onboarding Training",
+      "tags": [
+        "Training",
+        "Corporate",
+        "Learning & Development"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/62468a0c215d4b3d9d964162eb4453b8/thumbnail_medium_thumbnail-video-62468a0c215d4b3d9d964162eb4453b8",
+      "localImage": "/heygen-assets/thumbnails/template-studio-26.webp"
+    },
+    {
+      "id": "tpl-27",
+      "title": "Course Overview",
+      "tags": [
+        "Learning & Development",
+        "Training",
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/6358f130ce3445b79a9a36178f21f52b/thumbnail_medium_thumbnail-video-6358f130ce3445b79a9a36178f21f52b.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-27.png"
+    },
+    {
+      "id": "tpl-28",
+      "title": "Painting Course - Lesson Module",
+      "tags": [
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/6385a1dd18a045bdaaf1ed23daacf9c6/thumbnail_medium_thumbnail-video-6385a1dd18a045bdaaf1ed23daacf9c6.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-28.png"
+    },
+    {
+      "id": "tpl-29",
+      "title": "Social Media Growth",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/667445d6f1b245e89f2d6e51a69cc15f/thumbnail_medium_thumbnail-video-667445d6f1b245e89f2d6e51a69cc15f",
+      "localImage": "/heygen-assets/thumbnails/template-studio-29.webp"
+    },
+    {
+      "id": "tpl-30",
+      "title": "News & Media",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/67748273b59549b9b3acba1a33350c16/thumbnail_medium_thumbnail-video-67748273b59549b9b3acba1a33350c16",
+      "localImage": "/heygen-assets/thumbnails/template-studio-30.webp"
+    },
+    {
+      "id": "tpl-31",
+      "title": "Family Law Consultation",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/6e796cc22ebe41d4bbb5bb83e7f914f4/thumbnail_medium_thumbnail-video-6e796cc22ebe41d4bbb5bb83e7f914f4",
+      "localImage": "/heygen-assets/thumbnails/template-studio-31.webp"
+    },
+    {
+      "id": "tpl-32",
+      "title": "Professional Training Lesson",
+      "tags": [
+        "Learning & Development",
+        "Tutorials & Explainers",
+        "Training",
+        "Corporate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/71af0db9f687436fb7189e4b14c98161/thumbnail_medium_thumbnail-video-71af0db9f687436fb7189e4b14c98161",
+      "localImage": "/heygen-assets/thumbnails/template-studio-32.webp"
+    },
+    {
+      "id": "tpl-33",
+      "title": "Employee Onboarding",
+      "tags": [
+        "Corporate",
+        "Training"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/7314ae5d8eec4d3d86cb98b001543dd1/thumbnail_medium_thumbnail-video-7314ae5d8eec4d3d86cb98b001543dd1.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-33.png"
+    },
+    {
+      "id": "tpl-34",
+      "title": "Marketing Presentation",
+      "tags": [
+        "Marketing",
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/732402b50d094e79b87fe8f7609f66a8/thumbnail_medium_thumbnail-video-732402b50d094e79b87fe8f7609f66a8.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-34.png"
+    },
+    {
+      "id": "tpl-35",
+      "title": "Wedding Photography Packages",
+      "tags": [
+        "Sales"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/746da21208cf45e8918058a0c2d8a05e/thumbnail_medium_thumbnail-video-746da21208cf45e8918058a0c2d8a05e",
+      "localImage": "/heygen-assets/thumbnails/template-studio-35.webp"
+    },
+    {
+      "id": "tpl-36",
+      "title": "Knowledge Base",
+      "tags": [
+        "Training",
+        "Explainer Video",
+        "Learning & Development"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/747821fb65164fc3aa1feaf225468ebb/thumbnail_medium_thumbnail-video-747821fb65164fc3aa1feaf225468ebb.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-36.png"
+    },
+    {
+      "id": "tpl-37",
+      "title": "Social Template",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/7b6406f315cb47b1ade0c53b7cb24582/thumbnail_medium_thumbnail-video-7b6406f315cb47b1ade0c53b7cb24582",
+      "localImage": "/heygen-assets/thumbnails/template-studio-37.webp"
+    },
+    {
+      "id": "tpl-38",
+      "title": "News Report",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/7b7b38ef87ad443683ef6f34830f8232/thumbnail_medium_thumbnail-video-7b7b38ef87ad443683ef6f34830f8232.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-38.png"
+    },
+    {
+      "id": "tpl-39",
+      "title": "Prompt Engineering Course",
+      "tags": [
+        "Learning & Development",
+        "Corporate",
+        "Tutorials & Explainers"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/7bdb5f04eb024635b13154ac9cf4b4e8/thumbnail_medium_thumbnail-video-7bdb5f04eb024635b13154ac9cf4b4e8",
+      "localImage": "/heygen-assets/thumbnails/template-studio-39.webp"
+    },
+    {
+      "id": "tpl-40",
+      "title": "Pet Referral Rewards",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/7c23d0c08ea245daa0babfbd04b3d9ac/thumbnail_medium_thumbnail-video-7c23d0c08ea245daa0babfbd04b3d9ac",
+      "localImage": "/heygen-assets/thumbnails/template-studio-40.webp"
+    },
+    {
+      "id": "tpl-41",
+      "title": "Corporate Business Presentation",
+      "tags": [
+        "Corporate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/7d76a7a827c24a879ccfc7d596521a68/thumbnail_medium_thumbnail-video-7d76a7a827c24a879ccfc7d596521a68.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-41.png"
+    },
+    {
+      "id": "tpl-42",
+      "title": "Estate Planning Essentials",
+      "tags": [
+        "Marketing"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/7f94848e8e2d4e709d67fe9eb694abcd/thumbnail_medium_thumbnail-video-7f94848e8e2d4e709d67fe9eb694abcd.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-42.png"
+    },
+    {
+      "id": "tpl-43",
+      "title": "Sales Outreach",
+      "tags": [
+        "Sales",
+        "Corporate"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/8056d1a6425d41fbae63b101152f4e60/thumbnail_medium_thumbnail-video-8056d1a6425d41fbae63b101152f4e60",
+      "localImage": "/heygen-assets/thumbnails/template-studio-43.webp"
+    },
+    {
+      "id": "tpl-44",
+      "title": "Email Marketing Course - Introduction",
+      "tags": [
+        "Tutorials & Explainers",
+        "Learning & Development"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/809d75fe237146f998ce8c19e9bf3f4f/thumbnail_medium_thumbnail-video-809d75fe237146f998ce8c19e9bf3f4f.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-44.png"
+    },
+    {
+      "id": "tpl-45",
+      "title": "Annual Coverage Checkup",
+      "tags": [
+        "Tutorials & Explainers",
+        "Finance"
+      ],
+      "remoteImage": "https://dynamic.heygen.ai/tr:h-600,c-at_max/prod/movio/template/80efc64b2139461eba3044fd3891f48c/thumbnail_medium_thumbnail-video-80efc64b2139461eba3044fd3891f48c.png",
+      "localImage": "/heygen-assets/thumbnails/template-studio-45.png"
+    }
+  ],
+  "brandSystemPresetSections": [
+    {
+      "section": "Modern",
+      "presets": [
+        {
+          "id": "bs-01",
+          "name": "Clearspace",
+          "bg": "#91b9df",
+          "textColor": "#1a2b42",
+          "accent": "#f5d76e",
+          "headline": "Make room for focus.",
+          "font": "sans"
+        },
+        {
+          "id": "bs-02",
+          "name": "Opal",
+          "bg": "#f0eef3",
+          "textColor": "#231f2e",
+          "accent": "#9b1c68",
+          "headline": "Good work starts with clear space.",
+          "font": "sans"
+        },
+        {
+          "id": "bs-03",
+          "name": "Mat",
+          "bg": "#232e26",
+          "textColor": "#efe8d8",
+          "accent": "#c95c38",
+          "headline": "Mat",
+          "font": "sans-bold"
+        },
+        {
+          "id": "bs-04",
+          "name": "Cinematic Noir Red",
+          "bg": "#161618",
+          "textColor": "#ffffff",
+          "accent": "#d92b2b",
+          "headline": "Cinematic Noir Red",
+          "font": "sans"
+        },
+        {
+          "id": "bs-05",
+          "name": "Neo Grid Bold",
+          "bg": "#111827",
+          "textColor": "#f9fafb",
+          "accent": "#38bdf8",
+          "headline": "NEO GRID BOLD",
+          "font": "mono"
+        },
+        {
+          "id": "bs-06",
+          "name": "Raw Grid",
+          "bg": "#e5e7eb",
+          "textColor": "#111827",
+          "accent": "#111827",
+          "headline": "RAW / GRID",
+          "font": "mono"
+        },
+        {
+          "id": "bs-07",
+          "name": "Vox · Specimen",
+          "bg": "#f5f2eb",
+          "textColor": "#18181b",
+          "accent": "#ef4444",
+          "headline": "Vox · Specimen",
+          "font": "serif"
+        },
+        {
+          "id": "bs-08",
+          "name": "Cobalt Grid",
+          "bg": "#1e3a8a",
+          "textColor": "#ffffff",
+          "accent": "#93c5fd",
+          "headline": "Cobalt Grid",
+          "font": "sans"
+        }
+      ]
+    },
+    {
+      "section": "Minimal",
+      "presets": [
+        {
+          "id": "bs-09",
+          "name": "Editorial Pastel Quiet",
+          "bg": "#f4f4f2",
+          "textColor": "#2d3130",
+          "accent": "#a8d5ca",
+          "headline": "Editorial Pastel Quiet",
+          "font": "serif"
+        },
+        {
+          "id": "bs-10",
+          "name": "Cartesian",
+          "bg": "#efece6",
+          "textColor": "#1f1d1a",
+          "accent": "#8c857b",
+          "headline": "Cartesian",
+          "font": "serif-italic"
+        },
+        {
+          "id": "bs-11",
+          "name": "Monochrome",
+          "bg": "#f5f4e4",
+          "textColor": "#262624",
+          "accent": "#52524e",
+          "headline": "Monochrome",
+          "font": "sans-thin"
+        },
+        {
+          "id": "bs-12",
+          "name": "Signal Weave",
+          "bg": "#e26d9a",
+          "textColor": "#ffffff",
+          "accent": "#141416",
+          "headline": "Signal Weave",
+          "font": "sans"
+        }
+      ]
+    },
+    {
+      "section": "Bold",
+      "presets": [
+        {
+          "id": "bs-13",
+          "name": "Block Frame",
+          "bg": "#faf8f2",
+          "textColor": "#111111",
+          "accent": "#f472b6",
+          "headline": "BLOCK FRAME",
+          "font": "display"
+        },
+        {
+          "id": "bs-14",
+          "name": "Stencil Tablet",
+          "bg": "#e8e2d2",
+          "textColor": "#18181b",
+          "accent": "#ea580c",
+          "headline": "STENCIL TABLET",
+          "font": "serif-bold"
+        },
+        {
+          "id": "bs-15",
+          "name": "Studio",
+          "bg": "#161e1a",
+          "textColor": "#facc15",
+          "accent": "#facc15",
+          "headline": "STUDIO",
+          "font": "sans-black"
+        },
+        {
+          "id": "bs-16",
+          "name": "Coral",
+          "bg": "#f8fafc",
+          "textColor": "#1e1b18",
+          "accent": "#e15b52",
+          "headline": "CORAL",
+          "font": "sans-black"
+        },
+        {
+          "id": "bs-17",
+          "name": "Broadside",
+          "bg": "#18181b",
+          "textColor": "#fafafa",
+          "accent": "#fbbf24",
+          "headline": "BROADSIDE",
+          "font": "display"
+        },
+        {
+          "id": "bs-18",
+          "name": "Peoples Platform",
+          "bg": "#dc2626",
+          "textColor": "#ffffff",
+          "accent": "#fef08a",
+          "headline": "PEOPLES PLATFORM",
+          "font": "sans-black"
+        },
+        {
+          "id": "bs-19",
+          "name": "Sakura Chroma",
+          "bg": "#fce7f3",
+          "textColor": "#831843",
+          "accent": "#ec4899",
+          "headline": "Sakura Chroma",
+          "font": "sans-bold"
+        },
+        {
+          "id": "bs-20",
+          "name": "Creative Mode",
+          "bg": "#312e81",
+          "textColor": "#e0e7ff",
+          "accent": "#a855f7",
+          "headline": "Creative Mode",
+          "font": "sans-bold"
+        },
+        {
+          "id": "bs-21",
+          "name": "Bold Poster",
+          "bg": "#facc15",
+          "textColor": "#18181b",
+          "accent": "#18181b",
+          "headline": "BOLD POSTER",
+          "font": "sans-black"
+        }
+      ]
+    },
+    {
+      "section": "Elegant",
+      "presets": [
+        {
+          "id": "bs-22",
+          "name": "Long Table",
+          "bg": "#2c2520",
+          "textColor": "#f5ebe1",
+          "accent": "#d4a373",
+          "headline": "Long Table",
+          "font": "serif"
+        },
+        {
+          "id": "bs-23",
+          "name": "Vellum",
+          "bg": "#f7f4ec",
+          "textColor": "#2b2823",
+          "accent": "#9c8e7b",
+          "headline": "Vellum",
+          "font": "serif"
+        },
+        {
+          "id": "bs-24",
+          "name": "Pink Script",
+          "bg": "#fdf2f8",
+          "textColor": "#4c1d3d",
+          "accent": "#db2777",
+          "headline": "Pink Script",
+          "font": "serif-italic"
+        },
+        {
+          "id": "bs-25",
+          "name": "Vox · Archive",
+          "bg": "#ebe7de",
+          "textColor": "#1f1e1b",
+          "accent": "#854d0e",
+          "headline": "Vox · Archive",
+          "font": "serif"
+        },
+        {
+          "id": "bs-26",
+          "name": "Soft Editorial",
+          "bg": "#f3efeA",
+          "textColor": "#292524",
+          "accent": "#a8a29e",
+          "headline": "Soft Editorial",
+          "font": "serif"
+        },
+        {
+          "id": "bs-27",
+          "name": "Grove",
+          "bg": "#1e2f23",
+          "textColor": "#e9f0eb",
+          "accent": "#84a98c",
+          "headline": "Grove",
+          "font": "serif"
+        },
+        {
+          "id": "bs-28",
+          "name": "Editorial Forest",
+          "bg": "#14261c",
+          "textColor": "#f0f7f4",
+          "accent": "#52b788",
+          "headline": "Editorial Forest",
+          "font": "serif"
+        },
+        {
+          "id": "bs-29",
+          "name": "Emerald Editorial",
+          "bg": "#064e3b",
+          "textColor": "#ecfdf5",
+          "accent": "#34d399",
+          "headline": "Emerald Editorial",
+          "font": "serif"
+        },
+        {
+          "id": "bs-30",
+          "name": "Cream Coffee Orange",
+          "bg": "#f5efe6",
+          "textColor": "#3e2723",
+          "accent": "#ea580c",
+          "headline": "Cream Coffee",
+          "font": "serif"
+        },
+        {
+          "id": "bs-31",
+          "name": "Editorial Tri Tone",
+          "bg": "#e7e5e4",
+          "textColor": "#1c1917",
+          "accent": "#b45309",
+          "headline": "Editorial Tri Tone",
+          "font": "serif"
+        },
+        {
+          "id": "bs-32",
+          "name": "Vox · Atlas",
+          "bg": "#e2e8f0",
+          "textColor": "#0f172a",
+          "accent": "#0284c7",
+          "headline": "Vox · Atlas",
+          "font": "serif"
+        },
+        {
+          "id": "bs-33",
+          "name": "Biennale Yellow",
+          "bg": "#fef9c3",
+          "textColor": "#1c1917",
+          "accent": "#ca8a04",
+          "headline": "Biennale Yellow",
+          "font": "serif"
+        }
+      ]
+    },
+    {
+      "section": "Playful",
+      "presets": [
+        {
+          "id": "bs-34",
+          "name": "Daisy Days",
+          "bg": "#fefce8",
+          "textColor": "#3f3f46",
+          "accent": "#facc15",
+          "headline": "Daisy Days",
+          "font": "sans-bold"
+        },
+        {
+          "id": "bs-35",
+          "name": "Playful",
+          "bg": "#e0f2fe",
+          "textColor": "#0369a1",
+          "accent": "#f43f5e",
+          "headline": "Playful",
+          "font": "sans-bold"
+        },
+        {
+          "id": "bs-36",
+          "name": "Capsule",
+          "bg": "#f3e8ff",
+          "textColor": "#581c87",
+          "accent": "#a855f7",
+          "headline": "Capsule",
+          "font": "sans-bold"
+        },
+        {
+          "id": "bs-37",
+          "name": "Pin And Paper",
+          "bg": "#fff7ed",
+          "textColor": "#431407",
+          "accent": "#fb923c",
+          "headline": "Pin & Paper",
+          "font": "sans"
+        },
+        {
+          "id": "bs-38",
+          "name": "Scatterbrain",
+          "bg": "#ecfccb",
+          "textColor": "#1a2e05",
+          "accent": "#84cc16",
+          "headline": "Scatterbrain",
+          "font": "sans-bold"
+        }
+      ]
+    },
+    {
+      "section": "Retro",
+      "presets": [
+        {
+          "id": "bs-39",
+          "name": "8 Bit Orbit",
+          "bg": "#090d16",
+          "textColor": "#4ade80",
+          "accent": "#38bdf8",
+          "headline": "8-BIT ORBIT",
+          "font": "mono"
+        },
+        {
+          "id": "bs-40",
+          "name": "Vox · Collage-Zine",
+          "bg": "#f1ebd9",
+          "textColor": "#18181b",
+          "accent": "#e11d48",
+          "headline": "Vox · Collage-Zine",
+          "font": "mono"
+        },
+        {
+          "id": "bs-41",
+          "name": "Retro Windows",
+          "bg": "#008080",
+          "textColor": "#ffffff",
+          "accent": "#c0c0c0",
+          "headline": "Retro Windows",
+          "font": "mono"
+        },
+        {
+          "id": "bs-42",
+          "name": "Console Chrome Periwinkle",
+          "bg": "#c7d2fe",
+          "textColor": "#1e1b4b",
+          "accent": "#6366f1",
+          "headline": "Console Chrome",
+          "font": "mono"
+        },
+        {
+          "id": "bs-43",
+          "name": "Catalog Fossil 1996",
+          "bg": "#e5decf",
+          "textColor": "#27241d",
+          "accent": "#78716c",
+          "headline": "Catalog 1996",
+          "font": "serif"
+        },
+        {
+          "id": "bs-44",
+          "name": "Retro Zine",
+          "bg": "#fde047",
+          "textColor": "#171717",
+          "accent": "#ef4444",
+          "headline": "RETRO ZINE",
+          "font": "mono"
+        }
+      ]
+    },
+    {
+      "section": "Professional",
+      "presets": [
+        {
+          "id": "bs-45",
+          "name": "Signal",
+          "bg": "#0f172a",
+          "textColor": "#f8fafc",
+          "accent": "#38bdf8",
+          "headline": "Signal",
+          "font": "sans"
+        },
+        {
+          "id": "bs-46",
+          "name": "Blue Professional",
+          "bg": "#eff6ff",
+          "textColor": "#1e3a8a",
+          "accent": "#2563eb",
+          "headline": "Blue Professional",
+          "font": "sans"
+        },
+        {
+          "id": "bs-47",
+          "name": "Sage Lime Fintech",
+          "bg": "#ecfdf5",
+          "textColor": "#064e3b",
+          "accent": "#84cc16",
+          "headline": "Sage Lime Fintech",
+          "font": "sans"
+        },
+        {
+          "id": "bs-48",
+          "name": "Vox · Diagram",
+          "bg": "#f8fafc",
+          "textColor": "#0f172a",
+          "accent": "#64748b",
+          "headline": "Vox · Diagram",
+          "font": "mono"
+        },
+        {
+          "id": "bs-49",
+          "name": "Vox · Dark-Data",
+          "bg": "#090d16",
+          "textColor": "#e2e8f0",
+          "accent": "#22d3ee",
+          "headline": "Vox · Dark-Data",
+          "font": "mono"
+        }
+      ]
+    }
+  ]
+}

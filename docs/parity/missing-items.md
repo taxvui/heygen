@@ -1,0 +1,35 @@
+# ANTIGRAVITY V6 — Missing Items, Pagination Boundaries & Resolution Ledger
+
+- **Generated At**: `2026-11-22T17:27:50.437Z`
+- **Unresolved Missing Reference Items Within Inspected Scope**: **0**
+- **Unresolved Fabricated / Invented Items**: **0**
+
+## 1. Deep-Gap Reference Items Discovered & Resolved in V6
+
+| # | Route | Previously Missing / Sampled Item | Reference Evidence | Resolution Applied | Status |
+| :---: | :--- | :--- | :--- | :--- | :---: |
+| 1 | `/home` | Clicking `Create Now` on Cards 1–5 navigated directly instead of opening the 760×792 Video Agent Prompt Modal; Card 6 (`Video Podcast`) did not link to `/apps/video-podcast-v2`; Step 3 had a fabricated click handler | `step_169_shot_1.png`, `step_169.json` | Implemented exact 760×792 Video Agent Prompt Modal (`87.51%` similarity), linked `Video Podcast` to `/apps/video-podcast-v2`, and locked Steps 2–4 | **RESOLVED** |
+| 2 | `/home/video-agent` | Only 6 Intros were sampled; Captions (75), Format (4 MP4s), Brand (2 tabs, 3 presets), and bottom 6-tab 29-card Template Gallery were missing | `step_149.json`, `step_175.json`, `step_211.json` | Implemented all 27 Intros, all 75 HyperFrames Captions, all 4 Format MP4 cards, Brand drawer, and all 29 bottom Template Gallery cards across 6 tabs | **RESOLVED** |
+| 3 | `/home/photo-to-video` | `Cinematic` mode tab controls (`What shot are you imagining?`, `Marieke`, `Enhance prompt`, `1080p Quality 10 sec`, `Go to Creative Studio`) were missing | `step_153.json`, `step_265_shot_4.png` | Implemented full `Cinematic` mode tab (`95.30%` similarity) alongside `Presenter` mode + `Recent Creations` empty state | **RESOLVED** |
+| 4 | `/home/translate` | `Select an existing project` expanded inline instead of opening the `Select an Existing Project — Pick an existing asset to dub` modal | `step_155.json` | Implemented exact `Select an Existing Project` modal with `Filters 0` and `No folders or videos yet` | **RESOLVED** |
+| 5 | `/home/studio` | Missing `Learning & Development` and `Explainer Video` tabs (9 vs 11 tabs) and `See More` pagination across Pages 1–3 (45 templates) | `step_157.json`, `step_297_shot_1_studio_page3.png` | Added all 11 tabs, downloaded all 45 AI Studio template thumbnails (`0/45` broken images), and wired `See More` expansion | **RESOLVED** |
+| 6 | `/avatar/my-avatars` | `My Avatars` tab showed a generic grid instead of the 4-card fanned deck empty state; `Public Avatars` #26–#33 lacked exact side lookpack images; `Annie` profile showed 4 looks instead of 57 looks | `step_284_shot_1.png`, `step_286_shot_1.png`, `step_288.json` | Implemented `My Avatars` 4-card deck poster empty state (`96.46%`), downloaded exact Bento images for #26–#33 (`99/99` portraits), and downloaded/rendered all **57 looks of Annie** (`87.92%`) | **RESOLVED** |
+| 7 | `/avatars/create/avatar-hub` | Clicking `Myself` or `A new character` opened a generic dialog instead of transitioning to the visual equation screens | `step_227_shot_2.png`, `step_227_shot_3.png` | Implemented exact `Myself` (`96.74%`) and `A new character` (`98.20%`) visual equation flows | **RESOLVED** |
+| 8 | `/avatar/voices` | Only 29 Page-1 voices were populated without `See More` Pages 2–3 | `step_309.json`, `step_309_shot_1_voices_page3_desktop.png` | Extracted and populated **89** real reference voices across Pages 1–3 (29 + 30 + 30) with exact region flags (`us`, `au`, `gb`, `ie`, `in`, `ng`, `ca`) | **RESOLVED** |
+| 9 | `/brand/new` & `/brand/brand_glossary` | `/brand/new` had skeleton cards instead of 49 presets; `/brand/brand_glossary` had a generic form instead of the layered glossary illustration empty state | `step_227_shot_1.png`, `step_268_shot_5.png` | Implemented all 6 category tabs & 49 Brand System presets on `/brand/new` (`91.28%`) and exact layered Brand Glossary empty state (`97.69%`) | **RESOLVED** |
+| 10 | `/apps/*` (8 sub-routes) | `/apps/[...slug]` previously used a generic workspace card instead of the 8 distinct reference app UIs | `step_265_shot_2..5.png`, `step_268_shot_1..4.png`, `step_271_shot_1.png` | Implemented all 8 distinct `/apps/*` sub-routes (`creative-studio/video`, `ppt-to-video`, `avatar-shots`, `business-card`, `upscale-video`, `speech-cleanup`, `instant-highlights` with 25 caption styles, and `batch-mode`) achieving `91.02%–96.81%` similarity | **RESOLVED** |
+| 11 | `/developers/*` (6 sub-pages) | Left sidebar links previously stayed on the onboarding checklist instead of navigating to `/developers/billing`, `usage`, `models`, `webhook`, `connections`, or toggling to `Overview` on `Skip` | `step_271_shot_2..7.png` | Implemented `/developers/[slug]` for all 5 sub-routes (with 6 downloaded model cards) + `Skip` toggle to `Overview` dashboard (`92.60%–96.14%` similarity) | **RESOLVED** |
+| 12 | `/projects` & `/projects/trash` | Toolbar buttons toggled state directly instead of opening `Filter projects`, `View`, and `Sort` popovers; `New Folder` did not open `Create a folder` modal; `/projects/trash` lacked breadcrumb empty state | `step_278_shot_2..6.png` | Implemented exact `Filter projects` (`96.32%`), `View` (`96.35%`), `Sort` (`96.26%`), `Create a folder` modal (`94.75%`), and `/projects/trash` (`98.48%`) | **RESOLVED** |
+
+## 2. Documented Reference Pagination, Virtualization & Plan Boundaries (Zero Fabrication)
+
+1. **`/avatar/voices` (`HeyGen library` tab)**:
+   - Page 1 loads `29` voices; clicking `See More` once loads `+30` (`59`); clicking `See More` a second time loads `+30` (`89`). All **89** observed voices are extracted in `data/reference/voices.json` and implemented locally. A `See More` cursor remains active on the reference server beyond Page 3.
+2. **`/home/studio` (`/apps/studio` template gallery)**:
+   - Page 1 loads `9` templates; clicking `See More` once loads `+18` (`27`); clicking `See More` a second time loads `+18` (`45`). All **45** observed templates and their local thumbnails are extracted in `data/reference/templates.json` and implemented locally (`0/45` broken images). A `See More` cursor remains active on the reference server beyond Page 3.
+3. **`/avatar/my-avatars?tab=public` (`Public Avatars` infinite scroll)**:
+   - Deep scrolling observed `90` Public Avatars (`33` rendered as full 3-image Bento cards with `99` downloaded local portraits + `57` additional scrolled avatar names stored in `data/reference/avatars.json`). Clicking `Annie` opens `/avatar/my-avatars/e0e84faea390465896db75a83be45085` with **57/57** looks (all 57 thumbnails downloaded and rendered). Other individual public avatar detail routes were not fabricated.
+4. **`/home/video-agent` (`Health & Medical` bottom gallery tab)**:
+   - Clicking `Health & Medical` on the live reference application returns **0 template cards** (empty grid). In compliance with Zero Fabrication rules, our local implementation also renders 0 cards on that tab.
+5. **`/apps` (`Interactive Video` card)**:
+   - Gated on the Free reference account by the `"Upgrade to HeyGen for Business — Unlock Interactive Videos with the Business Plan"` modal (`step_240.json`), which is replicated 1:1.

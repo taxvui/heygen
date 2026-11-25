@@ -1,0 +1,895 @@
+{
+  "generatedAt": "2026-11-22T18:44:22.969Z",
+  "spriteUrl": "https://app.heygen.com/sprite-a85fbf208429.svg",
+  "totalSpriteSymbolsInReference": 732,
+  "extractedActiveRouteIconsCount": 76,
+  "icons": {
+    "avatar-menu": {
+      "symbolId": "avatar-menu",
+      "componentName": "RefIconAvatarMenu",
+      "viewBox": "0 0 18 18",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/avatar-menu.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/brand",
+        "/projects/assets",
+        "/developers/api"
+      ]
+    },
+    "brand-kit": {
+      "symbolId": "brand-kit",
+      "componentName": "RefIconBrandKit",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/brand-kit.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/brand",
+        "/projects/assets",
+        "/developers/api"
+      ]
+    },
+    "code": {
+      "symbolId": "code",
+      "componentName": "RefIconCode",
+      "viewBox": "0 0 48 49",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/code.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/brand",
+        "/projects/assets",
+        "/developers/api"
+      ]
+    },
+    "design": {
+      "symbolId": "design",
+      "componentName": "RefIconDesign",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/design.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/brand",
+        "/projects/assets",
+        "/developers/api"
+      ]
+    },
+    "folder": {
+      "symbolId": "folder",
+      "componentName": "RefIconFolder",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/folder.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/brand",
+        "/projects/assets",
+        "/developers/api"
+      ]
+    },
+    "plus": {
+      "symbolId": "plus",
+      "componentName": "RefIconPlus",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/plus.svg",
+      "routesUsed": [
+        "/home/video-agent",
+        "/home/studio"
+      ]
+    },
+    "collapse-chat": {
+      "symbolId": "collapse-chat",
+      "componentName": "RefIconCollapseChat",
+      "viewBox": "0 0 20 20",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/collapse-chat.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/brand",
+        "/projects/assets",
+        "/developers/api"
+      ]
+    },
+    "home-smile": {
+      "symbolId": "home-smile",
+      "componentName": "RefIconHomeSmile",
+      "viewBox": "0 0 20 20",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/home-smile.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/developers/api"
+      ]
+    },
+    "magic": {
+      "symbolId": "magic",
+      "componentName": "RefIconMagic",
+      "viewBox": "0 0 14 14",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/magic.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/avatar/voices",
+        "/developers/api"
+      ]
+    },
+    "pro": {
+      "symbolId": "pro",
+      "componentName": "RefIconPro",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/pro.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate",
+        "/apps",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/brand",
+        "/projects/assets",
+        "/developers/api"
+      ]
+    },
+    "user": {
+      "symbolId": "user",
+      "componentName": "RefIconUser",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/user.svg",
+      "routesUsed": [
+        "/home"
+      ]
+    },
+    "image": {
+      "symbolId": "image",
+      "componentName": "RefIconImage",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/image.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate"
+      ]
+    },
+    "right": {
+      "symbolId": "right",
+      "componentName": "RefIconRight",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/right.svg",
+      "routesUsed": [
+        "/home",
+        "/home/photo-to-video",
+        "/home/studio"
+      ]
+    },
+    "video": {
+      "symbolId": "video",
+      "componentName": "RefIconVideo",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/video.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate"
+      ]
+    },
+    "voice": {
+      "symbolId": "voice",
+      "componentName": "RefIconVoice",
+      "viewBox": "0 0 20 20",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/voice.svg",
+      "routesUsed": [
+        "/home",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices"
+      ]
+    },
+    "add": {
+      "symbolId": "add",
+      "componentName": "RefIconAdd",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/add.svg",
+      "routesUsed": [
+        "/home/video-agent",
+        "/brand"
+      ]
+    },
+    "aspect-ratio": {
+      "symbolId": "aspect-ratio",
+      "componentName": "RefIconAspectRatio",
+      "viewBox": "0 0 24 24",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/aspect-ratio.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "audio": {
+      "symbolId": "audio",
+      "componentName": "RefIconAudio",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/audio.svg",
+      "routesUsed": [
+        "/home/video-agent",
+        "/home/photo-to-video"
+      ]
+    },
+    "char-full-body": {
+      "symbolId": "char-full-body",
+      "componentName": "RefIconCharFullBody",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/char-full-body.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "down": {
+      "symbolId": "down",
+      "componentName": "RefIconDown",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/down.svg",
+      "routesUsed": [
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/avatar/voices"
+      ]
+    },
+    "expand-corners": {
+      "symbolId": "expand-corners",
+      "componentName": "RefIconExpandCorners",
+      "viewBox": "0 0 40 40",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/expand-corners.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "info": {
+      "symbolId": "info",
+      "componentName": "RefIconInfo",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/info.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "more-level": {
+      "symbolId": "more-level",
+      "componentName": "RefIconMoreLevel",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/more-level.svg",
+      "routesUsed": [
+        "/avatar/voices"
+      ]
+    },
+    "translate": {
+      "symbolId": "translate",
+      "componentName": "RefIconTranslate",
+      "viewBox": "0 0 24 24",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/translate.svg",
+      "routesUsed": [
+        "/home",
+        "/home/video-agent",
+        "/home/photo-to-video",
+        "/home/studio",
+        "/home/translate"
+      ]
+    },
+    "Chart": {
+      "symbolId": "Chart",
+      "componentName": "RefIconChart",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/Chart.svg",
+      "routesUsed": [
+        "/home/video-agent",
+        "/developers/api"
+      ]
+    },
+    "arrow-right": {
+      "symbolId": "arrow-right",
+      "componentName": "RefIconArrowRight",
+      "viewBox": "0 0 16 16",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/arrow-right.svg",
+      "routesUsed": [
+        "/home/video-agent",
+        "/apps"
+      ]
+    },
+    "arrow-right-up": {
+      "symbolId": "arrow-right-up",
+      "componentName": "RefIconArrowRightUp",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/arrow-right-up.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "lightbulb": {
+      "symbolId": "lightbulb",
+      "componentName": "RefIconLightbulb",
+      "viewBox": "0 0 22 21",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/lightbulb.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "recommend": {
+      "symbolId": "recommend",
+      "componentName": "RefIconRecommend",
+      "viewBox": "0 0 37 36",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/recommend.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "rocket": {
+      "symbolId": "rocket",
+      "componentName": "RefIconRocket",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/rocket.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "add-avatar": {
+      "symbolId": "add-avatar",
+      "componentName": "RefIconAddAvatar",
+      "viewBox": "0 0 48 49",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/add-avatar.svg",
+      "routesUsed": [
+        "/home/photo-to-video",
+        "/avatar/my-avatars?tab=public"
+      ]
+    },
+    "arrow-up": {
+      "symbolId": "arrow-up",
+      "componentName": "RefIconArrowUp",
+      "viewBox": "0 0 16 16",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/arrow-up.svg",
+      "routesUsed": [
+        "/home/photo-to-video"
+      ]
+    },
+    "arrow-up-right": {
+      "symbolId": "arrow-up-right",
+      "componentName": "RefIconArrowUpRight",
+      "viewBox": "0 0 24 24",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/arrow-up-right.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "create-video": {
+      "symbolId": "create-video",
+      "componentName": "RefIconCreateVideo",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/create-video.svg",
+      "routesUsed": [
+        "/home/studio"
+      ]
+    },
+    "eye": {
+      "symbolId": "eye",
+      "componentName": "RefIconEye",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/eye.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "homepage": {
+      "symbolId": "homepage",
+      "componentName": "RefIconHomepage",
+      "viewBox": "0 0 24 20",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/homepage.svg",
+      "routesUsed": [
+        "/home/video-agent"
+      ]
+    },
+    "movement-expressive": {
+      "symbolId": "movement-expressive",
+      "componentName": "RefIconMovementExpressive",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/movement-expressive.svg",
+      "routesUsed": [
+        "/home/photo-to-video"
+      ]
+    },
+    "play-s": {
+      "symbolId": "play-s",
+      "componentName": "RefIconPlayS",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/play-s.svg",
+      "routesUsed": [
+        "/home/photo-to-video",
+        "/avatar/voices"
+      ]
+    },
+    "portrait-phone": {
+      "symbolId": "portrait-phone",
+      "componentName": "RefIconPortraitPhone",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/portrait-phone.svg",
+      "routesUsed": [
+        "/home/photo-to-video"
+      ]
+    },
+    "Search": {
+      "symbolId": "Search",
+      "componentName": "RefIconSearch",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/Search.svg",
+      "routesUsed": [
+        "/home/studio",
+        "/avatar/my-avatars?tab=public",
+        "/avatar/voices",
+        "/projects/assets"
+      ]
+    },
+    "book": {
+      "symbolId": "book",
+      "componentName": "RefIconBook",
+      "viewBox": "0 0 20 20",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/book.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "card-view": {
+      "symbolId": "card-view",
+      "componentName": "RefIconCardView",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/card-view.svg",
+      "routesUsed": [
+        "/avatar/my-avatars?tab=public"
+      ]
+    },
+    "check": {
+      "symbolId": "check",
+      "componentName": "RefIconCheck",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/check.svg",
+      "routesUsed": []
+    },
+    "desktop": {
+      "symbolId": "desktop",
+      "componentName": "RefIconDesktop",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/desktop.svg",
+      "routesUsed": [
+        "/home/studio"
+      ]
+    },
+    "filter": {
+      "symbolId": "filter",
+      "componentName": "RefIconFilter",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/filter.svg",
+      "routesUsed": [
+        "/avatar/my-avatars?tab=public",
+        "/projects/assets"
+      ]
+    },
+    "mobile": {
+      "symbolId": "mobile",
+      "componentName": "RefIconMobile",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/mobile.svg",
+      "routesUsed": [
+        "/home/studio"
+      ]
+    },
+    "delete": {
+      "symbolId": "delete",
+      "componentName": "RefIconDelete",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/delete.svg",
+      "routesUsed": [
+        "/projects/assets"
+      ]
+    },
+    "download": {
+      "symbolId": "download",
+      "componentName": "RefIconDownload",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/download.svg",
+      "routesUsed": [
+        "/avatar/voices"
+      ]
+    },
+    "knowledge-base": {
+      "symbolId": "knowledge-base",
+      "componentName": "RefIconKnowledgeBase",
+      "viewBox": "0 0 15 15",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/knowledge-base.svg",
+      "routesUsed": [
+        "/brand"
+      ]
+    },
+    "list-view": {
+      "symbolId": "list-view",
+      "componentName": "RefIconListView",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/list-view.svg",
+      "routesUsed": [
+        "/avatar/my-avatars?tab=public",
+        "/projects/assets"
+      ]
+    },
+    "mic": {
+      "symbolId": "mic",
+      "componentName": "RefIconMic",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/mic.svg",
+      "routesUsed": [
+        "/avatar/voices"
+      ]
+    },
+    "close": {
+      "symbolId": "close",
+      "componentName": "RefIconClose",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/close.svg",
+      "routesUsed": []
+    },
+    "copy": {
+      "symbolId": "copy",
+      "componentName": "RefIconCopy",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/copy.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "ds-warn-triangle": {
+      "symbolId": "ds-warn-triangle",
+      "componentName": "RefIconDsWarnTriangle",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/ds-warn-triangle.svg",
+      "routesUsed": [
+        "/projects/assets"
+      ]
+    },
+    "globe": {
+      "symbolId": "globe",
+      "componentName": "RefIconGlobe",
+      "viewBox": "0 0 18 18",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/globe.svg",
+      "routesUsed": []
+    },
+    "refresh": {
+      "symbolId": "refresh",
+      "componentName": "RefIconRefresh",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/refresh.svg",
+      "routesUsed": [
+        "/projects/assets"
+      ]
+    },
+    "settings": {
+      "symbolId": "settings",
+      "componentName": "RefIconSettings",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/settings.svg",
+      "routesUsed": []
+    },
+    "upload-one": {
+      "symbolId": "upload-one",
+      "componentName": "RefIconUploadOne",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/upload-one.svg",
+      "routesUsed": [
+        "/projects/assets"
+      ]
+    },
+    "ds-billing": {
+      "symbolId": "ds-billing",
+      "componentName": "RefIconDsBilling",
+      "viewBox": "0 0 20 20",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/ds-billing.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "edit": {
+      "symbolId": "edit",
+      "componentName": "RefIconEdit",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/edit.svg",
+      "routesUsed": []
+    },
+    "iconlink": {
+      "symbolId": "iconlink",
+      "componentName": "RefIconIconlink",
+      "viewBox": "0 0 20 20",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/iconlink.svg",
+      "routesUsed": [
+        "/home/translate"
+      ]
+    },
+    "lock": {
+      "symbolId": "lock",
+      "componentName": "RefIconLock",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/lock.svg",
+      "routesUsed": []
+    },
+    "molecule": {
+      "symbolId": "molecule",
+      "componentName": "RefIconMolecule",
+      "viewBox": "0 0 18 18",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/molecule.svg",
+      "routesUsed": [
+        "/apps",
+        "/developers/api"
+      ]
+    },
+    "share": {
+      "symbolId": "share",
+      "componentName": "RefIconShare",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/share.svg",
+      "routesUsed": []
+    },
+    "history": {
+      "symbolId": "history",
+      "componentName": "RefIconHistory",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/history.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "layer": {
+      "symbolId": "layer",
+      "componentName": "RefIconLayer",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/layer.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "link": {
+      "symbolId": "link",
+      "componentName": "RefIconLink",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/link.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "send": {
+      "symbolId": "send",
+      "componentName": "RefIconSend",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/send.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "brainstorm": {
+      "symbolId": "brainstorm",
+      "componentName": "RefIconBrainstorm",
+      "viewBox": "0 0 14 15",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/brainstorm.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "coins-ds": {
+      "symbolId": "coins-ds",
+      "componentName": "RefIconCoinsDs",
+      "viewBox": "0 0 16 16",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/coins-ds.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "key": {
+      "symbolId": "key",
+      "componentName": "RefIconKey",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/key.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "text-type": {
+      "symbolId": "text-type",
+      "componentName": "RefIconTextType",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/text-type.svg",
+      "routesUsed": [
+        "/developers/api"
+      ]
+    },
+    "add-folder": {
+      "symbolId": "add-folder",
+      "componentName": "RefIconAddFolder",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/add-folder.svg",
+      "routesUsed": [
+        "/projects/assets"
+      ]
+    },
+    "descend": {
+      "symbolId": "descend",
+      "componentName": "RefIconDescend",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/descend.svg",
+      "routesUsed": [
+        "/projects/assets"
+      ]
+    },
+    "help": {
+      "symbolId": "help",
+      "componentName": "RefIconHelp",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/help.svg",
+      "routesUsed": []
+    },
+    "video-type": {
+      "symbolId": "video-type",
+      "componentName": "RefIconVideoType",
+      "viewBox": "0 0 48 48",
+      "spriteSource": "https://app.heygen.com/sprite-a85fbf208429.svg",
+      "localSvgPath": "/reference-assets/icons/video-type.svg",
+      "routesUsed": [
+        "/projects/assets"
+      ]
+    }
+  },
+  "nonSpriteInlineSvgs": [
+    {
+      "id": "plans-progress-ring",
+      "componentName": "RefIconPlansProgressRing",
+      "viewBox": "0 0 48 48",
+      "routesUsed": [
+        "all_routes_left_rail"
+      ],
+      "outerHTML": "<svg aria-hidden=\"true\" width=\"48\" height=\"48\" class=\"tw-absolute tw-inset-0 tw-text-brand\"><circle cx=\"24\" cy=\"24\" r=\"20\" fill=\"none\" class=\"tw-stroke-ux-primaryActive\" stroke-width=\"2.5\"></circle><circle cx=\"24\" cy=\"24\" r=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-dasharray=\"125.66370614359172\" stroke-dashoffset=\"0\" class=\"tw-transition-all tw-duration-300 tw-ease-in-out\" transform=\"rotate(-90 24 24)\"></circle></svg>"
+    },
+    {
+      "id": "studio-dashed-rect",
+      "componentName": "RefIconStudioDashedRect",
+      "viewBox": "0 0 100 75",
+      "routesUsed": [
+        "/home/studio",
+        "/apps/studio"
+      ],
+      "outerHTML": "<svg class=\"pointer-events-none absolute inset-0 size-full text-[#e2e3e6] transition-colors duration-150 group-hover:text-[#00c4ff]/40\" fill=\"none\" aria-hidden=\"true\" viewBox=\"0 0 100 75\" preserveAspectRatio=\"none\"><rect x=\"1\" y=\"1\" width=\"98\" height=\"73\" rx=\"8\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/></svg>"
+    },
+    {
+      "id": "live-orby",
+      "componentName": "RefIconLiveOrby",
+      "viewBox": "130 1 535 535",
+      "routesUsed": [
+        "all_routes_top_right_pill"
+      ],
+      "outerHTML": "<svg data-live-orby=\":r8:\" data-testid=\"live-orby\" aria-hidden=\"true\" viewBox=\"130 1 535 535\" width=\"30\" height=\"30\" class=\"tw-shrink-0 tw-overflow-visible\"></svg>"
+    }
+  ]
+}

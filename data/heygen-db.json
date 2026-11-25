@@ -1,0 +1,983 @@
+{
+  "users": [
+    {
+      "id": "usr-default-owner",
+      "email": "creator@heygen.local",
+      "first_name": "",
+      "last_name": "",
+      "avatar_url": "/heygen-assets/icons/avatar-default.png",
+      "role": "super_admin",
+      "status": "active",
+      "mfa_enabled": false,
+      "onboarding_step": 0,
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "usr-team-editor",
+      "email": "alex.morgan@heygen.local",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "avatar_url": "/heygen-assets/icons/avatar-default.png",
+      "role": "user",
+      "status": "active",
+      "mfa_enabled": true,
+      "onboarding_step": 2,
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org-default-space",
+      "name": "Default Space",
+      "slug": "default-space",
+      "owner_id": "usr-default-owner",
+      "plan_tier": "free",
+      "brand_kit": {
+        "colors": [
+          "#00c4ff",
+          "#232833",
+          "#c259ff",
+          "#ff5993"
+        ],
+        "fontFamily": "TT Norms Pro",
+        "logoUrl": "/heygen-assets/logos/PRISM_ORB.svg",
+        "glossary": [
+          {
+            "id": "gl-1",
+            "term": "HeyGen",
+            "language": "All Languages",
+            "pronunciation": "Hey-Jen"
+          },
+          {
+            "id": "gl-2",
+            "term": "Orby",
+            "language": "English (US)",
+            "pronunciation": "Or-bee"
+          }
+        ]
+      },
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "organization_members": [
+    {
+      "id": "mem-1",
+      "organization_id": "org-default-space",
+      "user_id": "usr-default-owner",
+      "email": "creator@heygen.local",
+      "role": "owner",
+      "status": "active",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "mem-2",
+      "organization_id": "org-default-space",
+      "user_id": "usr-team-editor",
+      "email": "alex.morgan@heygen.local",
+      "role": "editor",
+      "status": "active",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-focus-intro",
+      "organization_id": "org-default-space",
+      "created_by": "usr-default-owner",
+      "folder_name": "My Projects",
+      "title": "Focus Framework Intro",
+      "project_type": "studio",
+      "aspect_ratio": "16:9",
+      "resolution": "1080p",
+      "status": "completed",
+      "thumbnail_url": "/heygen-assets/thumbnails/template-focus-framework.png",
+      "video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "duration_sec": 16,
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "proj-sales-report-2040",
+      "organization_id": "org-default-space",
+      "created_by": "usr-default-owner",
+      "folder_name": "My Projects",
+      "title": "Minimalist Sales Report 2040",
+      "project_type": "studio",
+      "aspect_ratio": "16:9",
+      "resolution": "1080p",
+      "status": "draft",
+      "thumbnail_url": "/heygen-assets/thumbnails/template-minimalist-sales-report.png",
+      "duration_sec": 12,
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "project_versions": [
+    {
+      "id": "ver-1",
+      "project_id": "proj-focus-intro",
+      "version_number": 1,
+      "label": "Initial Studio Composition",
+      "snapshot": {
+        "project": {
+          "title": "Focus Framework Intro",
+          "aspect_ratio": "16:9",
+          "resolution": "1080p"
+        },
+        "scenes": []
+      },
+      "created_by": "usr-default-owner",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scn-focus-1",
+      "project_id": "proj-focus-intro",
+      "order_index": 0,
+      "title": "Scene 1 — Deep Work Intro",
+      "script": "Welcome to the Deep Work Productivity System. Today we will explore how focused blocks transform your daily output.",
+      "avatar_id": "avatar-annie",
+      "avatar_look": "Professional Blazer",
+      "avatar_mode": "Presenter",
+      "voice_id": "voice-annie",
+      "duration_sec": 8,
+      "background_type": "color",
+      "background_value": "#f3f5f9",
+      "transition": "fade",
+      "layers": [
+        {
+          "id": "lyr-title-1",
+          "type": "text",
+          "name": "Headline Title",
+          "x": 60,
+          "y": 90,
+          "width": 420,
+          "height": 110,
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "content": "Deep Work: A Productivity System",
+          "fontSize": 34,
+          "fontWeight": 800,
+          "color": "#232833",
+          "animation": "fade-in"
+        },
+        {
+          "id": "lyr-avatar-1",
+          "type": "avatar",
+          "name": "Annie Presenter",
+          "x": 520,
+          "y": 40,
+          "width": 340,
+          "height": 440,
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "src": "/heygen-assets/thumbnails/avatar-annie-main.webp",
+          "animation": "none"
+        }
+      ],
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "scn-focus-2",
+      "project_id": "proj-focus-intro",
+      "order_index": 1,
+      "title": "Scene 2 — Key Framework Pillars",
+      "script": "Start by scheduling ninety-minute uninterrupted focus blocks every morning before checking messages.",
+      "avatar_id": "avatar-marieke",
+      "avatar_look": "Modern Corporate",
+      "avatar_mode": "Presenter",
+      "voice_id": "voice-leanne",
+      "duration_sec": 8,
+      "background_type": "color",
+      "background_value": "#eef8fc",
+      "transition": "slide",
+      "layers": [
+        {
+          "id": "lyr-title-2",
+          "type": "text",
+          "name": "Framework Step",
+          "x": 60,
+          "y": 100,
+          "width": 440,
+          "height": 90,
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "content": "01. 90-Minute Uninterrupted Blocks",
+          "fontSize": 30,
+          "fontWeight": 700,
+          "color": "#007091",
+          "animation": "slide-up"
+        },
+        {
+          "id": "lyr-avatar-2",
+          "type": "avatar",
+          "name": "Marieke Presenter",
+          "x": 520,
+          "y": 40,
+          "width": 340,
+          "height": 440,
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "src": "/heygen-assets/thumbnails/avatar-marieke-main.jpg",
+          "animation": "none"
+        }
+      ],
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "scn-sales-1",
+      "project_id": "proj-sales-report-2040",
+      "order_index": 0,
+      "title": "Scene 1 — Q4 Revenue Highlights",
+      "script": "Here is our Q4 Sales Report overview, highlighting a forty-two percent increase in enterprise adoption.",
+      "avatar_id": "avatar-cora",
+      "avatar_look": "Executive Office",
+      "avatar_mode": "Presenter",
+      "voice_id": "voice-janet",
+      "duration_sec": 12,
+      "background_type": "color",
+      "background_value": "#3718d8",
+      "transition": "fade",
+      "layers": [
+        {
+          "id": "lyr-sales-text",
+          "type": "text",
+          "name": "Sales Heading",
+          "x": 56,
+          "y": 85,
+          "width": 420,
+          "height": 140,
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "content": "SALES REPORT 2040",
+          "fontSize": 42,
+          "fontWeight": 800,
+          "color": "#ffffff",
+          "animation": "fade-in"
+        },
+        {
+          "id": "lyr-sales-avatar",
+          "type": "avatar",
+          "name": "Cora Presenter",
+          "x": 510,
+          "y": 40,
+          "width": 350,
+          "height": 440,
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "src": "/heygen-assets/thumbnails/avatar-cora-main.jpg",
+          "animation": "none"
+        }
+      ],
+      "created_at": "2026-11-22T10:45:00.000Z",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "assets": [
+    {
+      "id": "ast-1",
+      "organization_id": "org-default-space",
+      "uploaded_by": "usr-default-owner",
+      "folder": "Brand Assets",
+      "name": "HeyGen Prism Orb Logo.svg",
+      "asset_type": "image",
+      "mime_type": "image/svg+xml",
+      "size_bytes": 46032,
+      "url": "/heygen-assets/logos/PRISM_ORB.svg",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "ast-2",
+      "organization_id": "org-default-space",
+      "uploaded_by": "usr-default-owner",
+      "folder": "Videos",
+      "name": "Avatar Talking Preview.mp4",
+      "asset_type": "video",
+      "mime_type": "video/mp4",
+      "size_bytes": 974800,
+      "url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "duration_sec": 12,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "ast-3",
+      "organization_id": "org-default-space",
+      "uploaded_by": "usr-default-owner",
+      "folder": "Videos",
+      "name": "Video Agent Formats Hub.mp4",
+      "asset_type": "video",
+      "mime_type": "video/mp4",
+      "size_bytes": 4875101,
+      "url": "/heygen-assets/videos/prompt-builder-hub.mp4",
+      "duration_sec": 18,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "ast-4",
+      "organization_id": "org-default-space",
+      "uploaded_by": "usr-default-owner",
+      "folder": "Campaign Images",
+      "name": "Ads & Promo Ringlight Creator.png",
+      "asset_type": "image",
+      "mime_type": "image/png",
+      "size_bytes": 43900,
+      "url": "/heygen-assets/images/prompt-ads-promo.png",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "avatars": [
+    {
+      "id": "avatar-annie",
+      "name": "Annie",
+      "category": "Professional",
+      "gender": "Female",
+      "visibility": "public",
+      "is_new": false,
+      "is_favorite": false,
+      "main_thumbnail_url": "/heygen-assets/thumbnails/avatar-annie-main.webp",
+      "look_thumbnails": [
+        "/heygen-assets/thumbnails/avatar-sawyer-look1.webp",
+        "/heygen-assets/thumbnails/avatar-sawyer-look2.webp"
+      ],
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "default_voice_id": "voice-annie",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "avatar-marieke",
+      "name": "Marieke",
+      "category": "Professional",
+      "gender": "Female",
+      "visibility": "public",
+      "is_new": true,
+      "is_favorite": false,
+      "main_thumbnail_url": "/heygen-assets/thumbnails/avatar-marieke-main.jpg",
+      "look_thumbnails": [
+        "/heygen-assets/thumbnails/avatar-marieke-look1.jpg",
+        "/heygen-assets/thumbnails/avatar-marieke-look2.jpg"
+      ],
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "default_voice_id": "voice-leanne",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "avatar-sawyer",
+      "name": "Sawyer",
+      "category": "UGC",
+      "gender": "Male",
+      "visibility": "public",
+      "is_new": false,
+      "is_favorite": false,
+      "main_thumbnail_url": "/heygen-assets/thumbnails/avatar-brianna-main.png",
+      "look_thumbnails": [
+        "/heygen-assets/thumbnails/avatar-kurt-look2.webp",
+        "/heygen-assets/thumbnails/avatar-sawyer-chair.webp"
+      ],
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "default_voice_id": "voice-lewis",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "avatar-cora",
+      "name": "Cora",
+      "category": "Professional",
+      "gender": "Female",
+      "visibility": "public",
+      "is_new": true,
+      "is_favorite": false,
+      "main_thumbnail_url": "/heygen-assets/thumbnails/avatar-cora-main.jpg",
+      "look_thumbnails": [
+        "/heygen-assets/thumbnails/avatar-cora-look1.jpg",
+        "/heygen-assets/thumbnails/avatar-cora-look2.jpg"
+      ],
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "default_voice_id": "voice-janet",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "avatar-brianna",
+      "name": "Brianna",
+      "category": "Lifestyle",
+      "gender": "Female",
+      "visibility": "public",
+      "is_new": false,
+      "is_favorite": false,
+      "main_thumbnail_url": "/heygen-assets/thumbnails/avatar-sawyer-main.png",
+      "look_thumbnails": [
+        "/heygen-assets/thumbnails/avatar-annie-look1.webp",
+        "/heygen-assets/thumbnails/avatar-annie-look2.webp"
+      ],
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "default_voice_id": "voice-prudence",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "avatar-kurt",
+      "name": "Kurt",
+      "category": "Community",
+      "gender": "Male",
+      "visibility": "public",
+      "is_new": false,
+      "is_favorite": false,
+      "main_thumbnail_url": "/heygen-assets/thumbnails/avatar-kurt-look1.webp",
+      "look_thumbnails": [
+        "/heygen-assets/thumbnails/avatar-sawyer-brick.webp",
+        "/heygen-assets/thumbnails/avatar-kurt-look1.webp"
+      ],
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "default_voice_id": "voice-roderic",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "avatar-livia",
+      "name": "Livia",
+      "category": "Lifestyle",
+      "gender": "Female",
+      "visibility": "public",
+      "is_new": true,
+      "is_favorite": false,
+      "main_thumbnail_url": "/heygen-assets/thumbnails/avatar-livia-main.jpg",
+      "look_thumbnails": [
+        "/heygen-assets/thumbnails/avatar-livia-look1.jpg",
+        "/heygen-assets/thumbnails/avatar-cora-look2.jpg"
+      ],
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "default_voice_id": "voice-deirdre",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "avatar_consents": [],
+  "voices": [
+    {
+      "id": "voice-annie",
+      "name": "Annie - Lifelike",
+      "subtitle_tags": "Young, Mellow, Clear, Soft, Natural, Ads, E-learning, HeyGen Voice, Female",
+      "language": "English (US)",
+      "language_code": "en-US",
+      "flag_url": "/heygen-assets/icons/flag-us.png",
+      "gender": "Female",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-leanne",
+      "name": "Leanne - Expressive & Earthy",
+      "subtitle_tags": "Mature, Warm, Rich, HeyGen Voice, Female",
+      "language": "English (Australia)",
+      "language_code": "en-AU",
+      "flag_url": "/heygen-assets/icons/flag-au.png",
+      "gender": "Female",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-lewis",
+      "name": "Lewis - Imaginative & Expressive",
+      "subtitle_tags": "Young, Warm, Breathy, Rich, HeyGen Voice, Male",
+      "language": "English (UK)",
+      "language_code": "en-GB",
+      "flag_url": "/heygen-assets/icons/flag-gb.png",
+      "gender": "Male",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-deirdre",
+      "name": "Deirdre - Gentle & Instructive",
+      "subtitle_tags": "Old, Soft, HeyGen Voice, Female",
+      "language": "English (Ireland)",
+      "language_code": "en-IE",
+      "flag_url": "/heygen-assets/icons/flag-ie.png",
+      "gender": "Female",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-brodie",
+      "name": "Brodie - Breezy & Genuine",
+      "subtitle_tags": "Young, Soft, Crisp, HeyGen Voice, Male",
+      "language": "English (UK)",
+      "language_code": "en-GB",
+      "flag_url": "/heygen-assets/icons/flag-gb.png",
+      "gender": "Male",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-janet",
+      "name": "Janet - Warm & Approachable",
+      "subtitle_tags": "Mature, Warm, Mellow, Smooth, HeyGen Voice, Female",
+      "language": "English (US)",
+      "language_code": "en-US",
+      "flag_url": "/heygen-assets/icons/flag-us.png",
+      "gender": "Female",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-roderic",
+      "name": "Roderic - Authoritative & Refined",
+      "subtitle_tags": "Old, Deep, Rich, Full, HeyGen Voice, Male",
+      "language": "English (UK)",
+      "language_code": "en-GB",
+      "flag_url": "/heygen-assets/icons/flag-gb.png",
+      "gender": "Male",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-prudence",
+      "name": "Prudence - Cultivated & Precise",
+      "subtitle_tags": "Old, Clear, HeyGen Voice, Female",
+      "language": "English (UK)",
+      "language_code": "en-GB",
+      "flag_url": "/heygen-assets/icons/flag-gb.png",
+      "gender": "Female",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-braith",
+      "name": "Braith - Evocative & Natural",
+      "subtitle_tags": "Young, Warm, Breathy, HeyGen Voice, Male",
+      "language": "English (Australia)",
+      "language_code": "en-AU",
+      "flag_url": "/heygen-assets/icons/flag-au.png",
+      "gender": "Male",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "voice-tarni",
+      "name": "Tarni - Gentle & Expressive",
+      "subtitle_tags": "Young, Clear, Bright, HeyGen Voice, Female",
+      "language": "English (Australia)",
+      "language_code": "en-AU",
+      "flag_url": "/heygen-assets/icons/flag-au.png",
+      "gender": "Female",
+      "visibility": "Public",
+      "provider": "heygen",
+      "speed": 1,
+      "pitch": 0,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "voice_consents": [],
+  "templates": [
+    {
+      "id": "tpl-focus-framework",
+      "title": "Focus Framework Intro",
+      "subtitle": "Corporate · Learning & Development · Training",
+      "category": "Recommended",
+      "aspect_ratio": "16:9",
+      "thumbnail_url": "/heygen-assets/thumbnails/template-focus-framework.png",
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "is_featured": true,
+      "is_published": true,
+      "is_favorite": true,
+      "scenes_payload": [
+        {
+          "title": "Scene 1 — Deep Work Intro",
+          "script": "Welcome to the Deep Work Productivity System. Today we explore how focused blocks transform output.",
+          "avatar_id": "avatar-annie",
+          "voice_id": "voice-annie",
+          "duration_sec": 8,
+          "background_type": "color",
+          "background_value": "#f3f5f9"
+        }
+      ],
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "tpl-minimalist-sales",
+      "title": "Minimalist Sales Report",
+      "subtitle": "Sales · Corporate",
+      "category": "Recommended",
+      "aspect_ratio": "16:9",
+      "thumbnail_url": "/heygen-assets/thumbnails/template-minimalist-sales-report.png",
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "is_featured": true,
+      "is_published": true,
+      "is_favorite": false,
+      "scenes_payload": [
+        {
+          "title": "Scene 1 — Sales Report 2040",
+          "script": "Here is our annual sales performance breakdown and key revenue milestones.",
+          "avatar_id": "avatar-cora",
+          "voice_id": "voice-janet",
+          "duration_sec": 10,
+          "background_type": "color",
+          "background_value": "#3718d8"
+        }
+      ],
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "tpl-stress-free-moving",
+      "title": "Stress-Free Moving Quote",
+      "subtitle": "Real Estate · Marketing · Tutorials & Explainers",
+      "category": "Recommended",
+      "aspect_ratio": "16:9",
+      "thumbnail_url": "/heygen-assets/thumbnails/template-stress-free-moving.png",
+      "preview_video_url": "/heygen-assets/videos/prompt-builder-hub.mp4",
+      "is_featured": true,
+      "is_published": true,
+      "is_favorite": false,
+      "scenes_payload": [
+        {
+          "title": "Scene 1 — Relocation Quote",
+          "script": "Moving does not have to be stressful. Get your instant transparent moving estimate in two minutes.",
+          "avatar_id": "avatar-sawyer",
+          "voice_id": "voice-lewis",
+          "duration_sec": 9,
+          "background_type": "color",
+          "background_value": "#f8f5f0"
+        }
+      ],
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "tpl-corporate-onboarding",
+      "title": "Enterprise Team Onboarding",
+      "subtitle": "Training · Corporate",
+      "category": "Training",
+      "aspect_ratio": "16:9",
+      "thumbnail_url": "/heygen-assets/thumbnails/template-corporate-onboarding.png",
+      "preview_video_url": "/heygen-assets/videos/avatar-preview-talk.mp4",
+      "is_featured": true,
+      "is_published": true,
+      "is_favorite": false,
+      "scenes_payload": [
+        {
+          "title": "Scene 1 — Welcome to the Team",
+          "script": "Welcome aboard! This module walks you through our core culture, security tools, and first-week checklist.",
+          "avatar_id": "avatar-marieke",
+          "voice_id": "voice-leanne",
+          "duration_sec": 10,
+          "background_type": "color",
+          "background_value": "#eef8fc"
+        }
+      ],
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "ai_providers": [
+    {
+      "id": "prov-heygen-api",
+      "name": "HeyGen Official API v2",
+      "capabilities": [
+        "talking_avatar",
+        "lip_sync",
+        "translation",
+        "text_to_video"
+      ],
+      "base_url": "https://api.heygen.com/v2",
+      "env_key_name": "HEYGEN_API_KEY",
+      "api_key_configured": false,
+      "enabled": true,
+      "rate_limit_rpm": 60,
+      "fallback_provider_id": "prov-local-ffmpeg",
+      "health_status": "unconfigured",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "prov-openai",
+      "name": "OpenAI (Whisper STT / TTS / Translation)",
+      "capabilities": [
+        "tts",
+        "stt",
+        "translation",
+        "subtitles"
+      ],
+      "base_url": "https://api.openai.com/v1",
+      "env_key_name": "OPENAI_API_KEY",
+      "api_key_configured": false,
+      "enabled": true,
+      "rate_limit_rpm": 120,
+      "fallback_provider_id": null,
+      "health_status": "unconfigured",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "prov-elevenlabs",
+      "name": "ElevenLabs Neural Voice Engine",
+      "capabilities": [
+        "tts"
+      ],
+      "base_url": "https://api.elevenlabs.io/v1",
+      "env_key_name": "ELEVENLABS_API_KEY",
+      "api_key_configured": false,
+      "enabled": true,
+      "rate_limit_rpm": 90,
+      "fallback_provider_id": null,
+      "health_status": "unconfigured",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "prov-local-ffmpeg",
+      "name": "Local Self-Hosted FFmpeg + Remotion Media Engine",
+      "capabilities": [
+        "talking_avatar",
+        "text_to_video",
+        "image_to_video",
+        "subtitles"
+      ],
+      "base_url": "local://ffmpeg-static",
+      "env_key_name": "FFMPEG_STATIC_BIN",
+      "api_key_configured": true,
+      "enabled": true,
+      "rate_limit_rpm": 300,
+      "fallback_provider_id": null,
+      "health_status": "operational",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "ai_models": [
+    {
+      "id": "mdl-avatar-v",
+      "provider_id": "prov-heygen-api",
+      "name": "Avatar V (Expressive Talking Avatar)",
+      "task_type": "talking_avatar",
+      "credits_per_unit": 1,
+      "cost_usd_per_unit": 0.1,
+      "active": true,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "mdl-video-translate-v2",
+      "provider_id": "prov-heygen-api",
+      "name": "HeyGen Video Translate & Lip-Sync v2",
+      "task_type": "translation",
+      "credits_per_unit": 2,
+      "cost_usd_per_unit": 0.2,
+      "active": true,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "mdl-openai-tts-1-hd",
+      "provider_id": "prov-openai",
+      "name": "OpenAI TTS-1-HD Multilingual",
+      "task_type": "tts",
+      "credits_per_unit": 0.5,
+      "cost_usd_per_unit": 0.03,
+      "active": true,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "mdl-openai-whisper-1",
+      "provider_id": "prov-openai",
+      "name": "OpenAI Whisper-1 Speech-to-Text",
+      "task_type": "stt",
+      "credits_per_unit": 0.5,
+      "cost_usd_per_unit": 0.02,
+      "active": true,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "mdl-eleven-multilingual-v2",
+      "provider_id": "prov-elevenlabs",
+      "name": "ElevenLabs Multilingual v2",
+      "task_type": "tts",
+      "credits_per_unit": 0.5,
+      "cost_usd_per_unit": 0.04,
+      "active": true,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "id": "mdl-local-ffmpeg-composer",
+      "provider_id": "prov-local-ffmpeg",
+      "name": "Self-Hosted FFmpeg + Remotion Scene Composer",
+      "task_type": "text_to_video",
+      "credits_per_unit": 1,
+      "cost_usd_per_unit": 0.01,
+      "active": true,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "generation_jobs": [],
+  "render_jobs": [],
+  "plans": [
+    {
+      "id": "plan-free",
+      "name": "Free",
+      "price_monthly_usd": 0,
+      "price_yearly_usd": 0,
+      "monthly_credits": 15,
+      "max_resolution": "720p",
+      "max_video_duration_min": 1,
+      "features": [
+        "3 videos/month up to 1 min",
+        "720p HD export",
+        "100+ Public Avatars",
+        "300+ Voices"
+      ],
+      "active": true
+    },
+    {
+      "id": "plan-creator",
+      "name": "Creator",
+      "price_monthly_usd": 29,
+      "price_yearly_usd": 288,
+      "monthly_credits": 120,
+      "max_resolution": "1080p",
+      "max_video_duration_min": 30,
+      "features": [
+        "Unlimited avatar videos up to 30 mins",
+        "1080p Full HD export",
+        "Voice cloning & Video Translation",
+        "No watermark"
+      ],
+      "active": true
+    },
+    {
+      "id": "plan-team",
+      "name": "Team",
+      "price_monthly_usd": 89,
+      "price_yearly_usd": 828,
+      "monthly_credits": 400,
+      "max_resolution": "4k",
+      "max_video_duration_min": 60,
+      "features": [
+        "4K Ultra HD export",
+        "Multi-seat workspace collaboration",
+        "Brand Systems & Glossary",
+        "Priority Render Queue"
+      ],
+      "active": true
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "sub-default-1",
+      "organization_id": "org-default-space",
+      "plan_id": "plan-free",
+      "status": "active",
+      "billing_cycle": "monthly",
+      "current_period_start": "2026-11-22T10:45:00.000Z",
+      "current_period_end": "2026-12-22T10:45:00.000Z",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "credit_wallets": [
+    {
+      "id": "wal-default-1",
+      "organization_id": "org-default-space",
+      "balance": 15,
+      "lifetime_earned": 15,
+      "lifetime_spent": 0,
+      "auto_reload_enabled": false,
+      "auto_reload_threshold": 5,
+      "auto_reload_amount": 30,
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "credit_transactions": [
+    {
+      "id": "ctx-init-1",
+      "organization_id": "org-default-space",
+      "wallet_id": "wal-default-1",
+      "amount": 15,
+      "transaction_type": "grant",
+      "description": "Initial Free Workspace Credit Allocation",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "billing_events": [],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "user_id": "usr-default-owner",
+      "title": "Welcome to HeyGen",
+      "message": "Complete your 4-step account setup to unlock custom avatars and voice cloning.",
+      "category": "system",
+      "is_read": false,
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "audit_logs": [
+    {
+      "id": "aud-1",
+      "actor_id": "usr-default-owner",
+      "actor_email": "creator@heygen.local",
+      "organization_id": "org-default-space",
+      "action": "workspace.initialized",
+      "target_type": "organization",
+      "target_id": "org-default-space",
+      "metadata": {
+        "plan": "free",
+        "credits": 15
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-11-22T10:45:00.000Z"
+    }
+  ],
+  "system_settings": [
+    {
+      "key": "maintenance_mode",
+      "value": false,
+      "description": "Place user-facing video generation queues into maintenance mode",
+      "updated_by": "creator@heygen.local",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "key": "max_upload_size_mb",
+      "value": 5120,
+      "description": "Maximum upload file size in MB (5 GB default for Video Translate)",
+      "updated_by": "creator@heygen.local",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "key": "require_explicit_likeness_consent",
+      "value": true,
+      "description": "Require verified video/audio consent recording before creating custom avatars or voices",
+      "updated_by": "creator@heygen.local",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    },
+    {
+      "key": "allow_self_hosted_ffmpeg_fallback",
+      "value": true,
+      "description": "Use self-hosted FFmpeg + Remotion engine when cloud provider credentials are not configured",
+      "updated_by": "creator@heygen.local",
+      "updated_at": "2026-11-22T10:45:00.000Z"
+    }
+  ]
+}

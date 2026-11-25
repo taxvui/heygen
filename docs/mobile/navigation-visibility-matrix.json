@@ -1,0 +1,458 @@
+{
+  "generatedAt": "2026-11-22T17:40:00.000Z",
+  "referenceOrigin": "https://app.heygen.com",
+  "breakpointThresholds": {
+    "mobileDrawerMaxPx": 479,
+    "iconRailOnlyMinPx": 480,
+    "iconRailOnlyMaxPx": 649,
+    "dualSidebarMinPx": 650,
+    "wideDualSidebarMinPx": 1920
+  },
+  "statesLegend": ["VISIBLE", "HIDDEN", "COLLAPSED", "NOT_PRESENT", "UNOBSERVED"],
+  "homeViewportMatrix": [
+    {
+      "viewport": "320x568",
+      "route": "/home",
+      "primaryIconRail": "HIDDEN",
+      "secondarySidebar": "HIDDEN",
+      "sidebarCollapsed": "COLLAPSED",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "VISIBLE",
+      "navigationMenuDrawer": "HIDDEN (VISIBLE_ON_TOGGLE_288x552)",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 0,
+      "mainWidth": 320,
+      "topSection": "2-column Create Avatar / Create Video cards (130.5x102)",
+      "videoPromptsLayout": "3-row x 2-col horizontal scroll grid (225x101 cards, col 2 peeks at x=261)",
+      "referenceScreenshot": "step_328_shot_1_ref_home_320x568.png"
+    },
+    {
+      "viewport": "360x800",
+      "route": "/home",
+      "primaryIconRail": "HIDDEN",
+      "secondarySidebar": "HIDDEN",
+      "sidebarCollapsed": "COLLAPSED",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "VISIBLE",
+      "navigationMenuDrawer": "HIDDEN (VISIBLE_ON_TOGGLE_288x784)",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 0,
+      "mainWidth": 360,
+      "topSection": "2-column Create Avatar / Create Video cards (150.5x102)",
+      "videoPromptsLayout": "3-row x 2-col horizontal scroll grid (265x101 cards, col 2 peeks at x=301)",
+      "referenceScreenshot": "step_328_shot_2_ref_home_360x800.png"
+    },
+    {
+      "viewport": "375x812",
+      "route": "/home",
+      "primaryIconRail": "HIDDEN",
+      "secondarySidebar": "HIDDEN",
+      "sidebarCollapsed": "COLLAPSED",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "VISIBLE",
+      "navigationMenuDrawer": "HIDDEN (VISIBLE_ON_TOGGLE_288x796)",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 0,
+      "mainWidth": 375,
+      "topSection": "2-column Create Avatar / Create Video cards (158x102)",
+      "videoPromptsLayout": "3-row x 2-col horizontal scroll grid (280x101 cards, col 2 peeks at x=316)",
+      "referenceScreenshot": "step_328_shot_3_ref_home_375x812.png"
+    },
+    {
+      "viewport": "390x844",
+      "route": "/home",
+      "primaryIconRail": "HIDDEN",
+      "secondarySidebar": "HIDDEN",
+      "sidebarCollapsed": "COLLAPSED",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "VISIBLE",
+      "navigationMenuDrawer": "HIDDEN (VISIBLE_ON_TOGGLE_288x828)",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 0,
+      "mainWidth": 390,
+      "topSection": "2-column Create Avatar / Create Video cards (165.5x102)",
+      "videoPromptsLayout": "3-row x 2-col horizontal scroll grid (295x101 cards, col 2 peeks at x=331)",
+      "referenceScreenshot": "step_330_shot_1_ref_home_390x844.png"
+    },
+    {
+      "viewport": "414x896",
+      "route": "/home",
+      "primaryIconRail": "HIDDEN",
+      "secondarySidebar": "HIDDEN",
+      "sidebarCollapsed": "COLLAPSED",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "VISIBLE",
+      "navigationMenuDrawer": "HIDDEN (VISIBLE_ON_TOGGLE_288x880)",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 0,
+      "mainWidth": 414,
+      "topSection": "2-column Create Avatar / Create Video cards (177.5x102)",
+      "videoPromptsLayout": "3-row x 2-col horizontal scroll grid (319x101 cards, col 2 peeks at x=355)",
+      "referenceScreenshot": "step_330_shot_2_ref_home_414x896.png"
+    },
+    {
+      "viewport": "430x932",
+      "route": "/home",
+      "primaryIconRail": "HIDDEN",
+      "secondarySidebar": "HIDDEN",
+      "sidebarCollapsed": "COLLAPSED",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "VISIBLE",
+      "navigationMenuDrawer": "HIDDEN (VISIBLE_ON_TOGGLE_288x916)",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 0,
+      "mainWidth": 430,
+      "topSection": "2-column Create Avatar / Create Video cards (185.5x102)",
+      "videoPromptsLayout": "3-row x 2-col horizontal scroll grid (335x101 cards, col 2 peeks at x=371)",
+      "referenceScreenshot": "step_330_shot_3_ref_home_430x932.png"
+    },
+    {
+      "viewport": "768x1024",
+      "route": "/home",
+      "primaryIconRail": "VISIBLE",
+      "secondarySidebar": "VISIBLE",
+      "sidebarCollapsed": "VISIBLE (286px dual sidebar)",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "HIDDEN",
+      "navigationMenuDrawer": "NOT_PRESENT",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 304,
+      "mainWidth": 464,
+      "topSection": "Welcome to HeyGen + 4-step Finish your account setup - 0/4",
+      "videoPromptsLayout": "2-col x 3-row grid (184.5x160 cards)",
+      "referenceScreenshot": "step_332_shot_1_ref_home_768x1024.png"
+    },
+    {
+      "viewport": "820x1180",
+      "route": "/home",
+      "primaryIconRail": "VISIBLE",
+      "secondarySidebar": "VISIBLE",
+      "sidebarCollapsed": "VISIBLE (286px dual sidebar)",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "HIDDEN",
+      "navigationMenuDrawer": "NOT_PRESENT",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 304,
+      "mainWidth": 516,
+      "topSection": "Welcome to HeyGen + 4-step Finish your account setup - 0/4",
+      "videoPromptsLayout": "2-col x 3-row grid (210.5x160 cards)",
+      "referenceScreenshot": "step_332_shot_2_ref_home_820x1180.png"
+    },
+    {
+      "viewport": "1024x1366",
+      "route": "/home",
+      "primaryIconRail": "VISIBLE",
+      "secondarySidebar": "VISIBLE",
+      "sidebarCollapsed": "VISIBLE (286px dual sidebar)",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "HIDDEN",
+      "navigationMenuDrawer": "NOT_PRESENT",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 304,
+      "mainWidth": 720,
+      "topSection": "Welcome to HeyGen + 4-step Finish your account setup - 0/4",
+      "videoPromptsLayout": "3-col x 2-row grid (203x160 cards)",
+      "referenceScreenshot": "step_332_shot_3_ref_home_1024x1366.png"
+    },
+    {
+      "viewport": "1366x768",
+      "route": "/home",
+      "primaryIconRail": "VISIBLE",
+      "secondarySidebar": "VISIBLE",
+      "sidebarCollapsed": "VISIBLE (286px dual sidebar)",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "HIDDEN",
+      "navigationMenuDrawer": "NOT_PRESENT",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 304,
+      "mainWidth": 1062,
+      "topSection": "Welcome to HeyGen + 4-step Finish your account setup - 0/4",
+      "videoPromptsLayout": "3-col x 2-row grid (317x178.31 cards)",
+      "referenceScreenshot": "step_336_shot_1_ref_home_1366x768.png"
+    },
+    {
+      "viewport": "1440x900",
+      "route": "/home",
+      "primaryIconRail": "VISIBLE",
+      "secondarySidebar": "VISIBLE",
+      "sidebarCollapsed": "VISIBLE (286px dual sidebar)",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "HIDDEN",
+      "navigationMenuDrawer": "NOT_PRESENT",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 304,
+      "mainWidth": 1136,
+      "topSection": "Welcome to HeyGen + 4-step Finish your account setup - 0/4",
+      "videoPromptsLayout": "3-col x 2-row grid (341.66x192.17 cards)",
+      "referenceScreenshot": "step_341_shot_1_ref_home_1440x900.png"
+    },
+    {
+      "viewport": "1920x1080",
+      "route": "/home",
+      "primaryIconRail": "VISIBLE",
+      "secondarySidebar": "VISIBLE (WIDENED_224PX)",
+      "sidebarCollapsed": "VISIBLE (334px wide dual sidebar)",
+      "topHeaderBar": "NOT_PRESENT",
+      "floatingToggleNavigationButton": "HIDDEN",
+      "navigationMenuDrawer": "NOT_PRESENT",
+      "bottomNavigationBar": "NOT_PRESENT",
+      "floatingAskOrby": "VISIBLE",
+      "breadcrumbs": "NOT_PRESENT",
+      "tabs": "NOT_PRESENT",
+      "backButton": "NOT_PRESENT",
+      "overflowMenu": "NOT_PRESENT",
+      "mainStartX": 352,
+      "mainWidth": 1568,
+      "topSection": "Welcome to HeyGen + 4-step Finish your account setup - 0/4",
+      "videoPromptsLayout": "3-col x 2-row grid (368x207 cards)",
+      "referenceScreenshot": "step_341_shot_2_ref_home_1920x1080.png"
+    }
+  ],
+  "routeMobileAndTabletMatrix": [
+    {
+      "route": "/home/video-agent",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "VISIBLE (< Back to Apps)",
+        "tabsVisible": "VISIBLE (6 bottom gallery tabs)",
+        "referenceScreenshot": "step_363_shot_1_ref_mob_video_agent_loaded_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "HIDDEN"
+      }
+    },
+    {
+      "route": "/home/photo-to-video",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "HIDDEN",
+        "backButtonVisible": "VISIBLE (< Back to Apps)",
+        "tabsVisible": "VISIBLE (Presenter | Cinematic)",
+        "referenceScreenshot": "step_347_shot_2_ref_mob_photo_to_video_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "HIDDEN"
+      }
+    },
+    {
+      "route": "/home/studio",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "HIDDEN",
+        "backButtonVisible": "VISIBLE (< Back to Apps)",
+        "tabsVisible": "VISIBLE (11 template category tabs)",
+        "referenceScreenshot": "step_347_shot_3_ref_mob_studio_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "VISIBLE (< Back to Apps)"
+      }
+    },
+    {
+      "route": "/home/translate",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "VISIBLE (< Back to Apps)",
+        "tabsVisible": "NOT_PRESENT",
+        "referenceScreenshot": "step_347_shot_4_ref_mob_translate_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "HIDDEN"
+      }
+    },
+    {
+      "route": "/apps",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT",
+        "tabsVisible": "VISIBLE (5 horizontally scrollable category pills)",
+        "referenceScreenshot": "step_347_shot_5_ref_mob_apps_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT"
+      }
+    },
+    {
+      "route": "/avatar/my-avatars?tab=public",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "HIDDEN",
+        "backButtonVisible": "NOT_PRESENT",
+        "tabsVisible": "VISIBLE (My Avatars | Public Avatars + 6 category pills + 2-col Bento grid)",
+        "referenceScreenshot": "step_349_shot_1_ref_mob_avatars_public_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT"
+      }
+    },
+    {
+      "route": "/avatar/voices",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "HIDDEN",
+        "backButtonVisible": "NOT_PRESENT",
+        "tabsVisible": "VISIBLE (Clone/Design/Import compact pills + My voices | HeyGen library)",
+        "referenceScreenshot": "step_349_shot_2_ref_mob_voices_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT"
+      }
+    },
+    {
+      "route": "/brand",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT",
+        "tabsVisible": "NOT_PRESENT",
+        "referenceScreenshot": "step_349_shot_3_ref_mob_brand_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT"
+      }
+    },
+    {
+      "route": "/projects",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "HIDDEN",
+        "backButtonVisible": "NOT_PRESENT",
+        "tabsVisible": "VISIBLE (Search + circular tools row above 6 horizontally scrollable tabs)",
+        "referenceScreenshot": "step_349_shot_4_ref_mob_projects_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT"
+      }
+    },
+    {
+      "route": "/developers/api",
+      "mobile375x812": {
+        "sidebarVisible": "HIDDEN",
+        "floatingToggleButton": "VISIBLE (y=52px below 40px Beta banner)",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE (y=52px below 40px Beta banner)",
+        "backButtonVisible": "NOT_PRESENT",
+        "tabsVisible": "NOT_PRESENT",
+        "referenceScreenshot": "step_349_shot_5_ref_mob_developers_375x812.png"
+      },
+      "tablet768x1024": {
+        "sidebarVisible": "VISIBLE (304px offset)",
+        "floatingToggleButton": "HIDDEN",
+        "bottomNavVisible": "NOT_PRESENT",
+        "floatingAskOrby": "VISIBLE",
+        "backButtonVisible": "NOT_PRESENT"
+      }
+    }
+  ]
+}

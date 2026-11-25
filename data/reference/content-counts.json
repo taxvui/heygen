@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-11-22T17:27:50.437Z",
+  "counts": {
+    "homeAccountSetupSteps": {
+      "observed": 4,
+      "implemented": 4,
+      "boundary": "Exhaustive (Step 1 active, Steps 2-4 locked)"
+    },
+    "homePersonalizeIndustryPills": {
+      "observed": 18,
+      "implemented": 18,
+      "boundary": "Exhaustive"
+    },
+    "homeVideoPromptsCards": {
+      "observed": 6,
+      "implemented": 6,
+      "boundary": "Exhaustive (Cards 1-5 open 760x792 Prompt Modal, Card 6 navigates to /apps/video-podcast-v2)"
+    },
+    "videoAgentInspirationCards": {
+      "observed": 5,
+      "implemented": 5,
+      "boundary": "Exhaustive"
+    },
+    "videoAgentIntrosTemplates": {
+      "observed": 27,
+      "implemented": 27,
+      "boundary": "Exhaustive (scrolled to bottom of Intros drawer)"
+    },
+    "videoAgentCaptionsPresets": {
+      "observed": 75,
+      "implemented": 75,
+      "boundary": "Exhaustive (scrolled to bottom of Captions HyperFrames drawer)"
+    },
+    "videoAgentFormatCards": {
+      "observed": 4,
+      "implemented": 4,
+      "boundary": "Exhaustive (Motion Design, Framing, Stock Medias, Voice Tone)"
+    },
+    "videoAgentBrandModernPresets": {
+      "observed": 3,
+      "implemented": 3,
+      "boundary": "Exhaustive (Clearspace, Opal, Mat + Your brand systems tab)"
+    },
+    "videoAgentBottomGalleryTabs": {
+      "observed": 6,
+      "implemented": 6,
+      "boundary": "Exhaustive (Social Media, Marketing & Ads, Learning & Education, Product & Explainer, Finance & Real Estate, Health & Medical)"
+    },
+    "videoAgentBottomGalleryCards": {
+      "observed": 29,
+      "implemented": 29,
+      "boundary": "Exhaustive across all 5 active category regions (Health & Medical returns 0 cards on reference)"
+    },
+    "aiStudioCategoryTabs": {
+      "observed": 11,
+      "implemented": 11,
+      "boundary": "Exhaustive"
+    },
+    "aiStudioTemplates": {
+      "observed": 45,
+      "implemented": 45,
+      "boundary": "Paginated via See More (9 on Page 1 + 18 on Page 2 + 18 on Page 3 = 45 verified; ongoing See More cursor on reference)"
+    },
+    "singleSceneModeTabs": {
+      "observed": 2,
+      "implemented": 2,
+      "boundary": "Exhaustive (Presenter | Cinematic)"
+    },
+    "publicAvatarsBentoCards": {
+      "observed": 33,
+      "implemented": 33,
+      "boundary": "33 full 3-image Bento cards (99 portraits) + 57 additional scrolled avatar names (90 total observed on infinite scroll)"
+    },
+    "annieProfileLooks": {
+      "observed": 57,
+      "implemented": 57,
+      "boundary": "Exhaustive (57/57 looks of Annie extracted & downloaded)"
+    },
+    "myAvatarsPrivateEmptyStatePosters": {
+      "observed": 4,
+      "implemented": 4,
+      "boundary": "Exhaustive (4 fanned deck poster cards + Create your first avatar)"
+    },
+    "voicesHeyGenLibrary": {
+      "observed": 89,
+      "implemented": 89,
+      "boundary": "Paginated via See More (29 on Page 1 + 30 on Page 2 + 30 on Page 3 = 89 verified; ongoing See More cursor on reference)"
+    },
+    "brandNewCategoryTabs": {
+      "observed": 6,
+      "implemented": 6,
+      "boundary": "Exhaustive"
+    },
+    "brandNewSystemPresets": {
+      "observed": 49,
+      "implemented": 49,
+      "boundary": "Exhaustive across 7 sections (Modern 8, Minimal 4, Bold 9, Elegant 12, Playful 5, Retro 6, Professional 5)"
+    },
+    "appsFeaturedAndCategorizedCards": {
+      "observed": 17,
+      "implemented": 17,
+      "boundary": "Exhaustive (3 featured + 14 categorized across Create 7, Enhance & Edit 4, Interactive 3)"
+    },
+    "appsSubRoutes": {
+      "observed": 8,
+      "implemented": 8,
+      "boundary": "Exhaustive (creative-studio/video, ppt-to-video, avatar-shots, business-card, upscale-video, speech-cleanup, instant-highlights with 25 caption styles, batch-mode)"
+    },
+    "integrationsPartnerCards": {
+      "observed": 20,
+      "implemented": 20,
+      "boundary": "Exhaustive (ChatGPT App through viaSocket)"
+    },
+    "projectsTabsAndPopovers": {
+      "observed": 11,
+      "implemented": 11,
+      "boundary": "Exhaustive (6 tabs + Search + Filter projects popover + View popover + Sort popover + Create a folder modal + /projects/trash)"
+    },
+    "developersSubPages": {
+      "observed": 7,
+      "implemented": 7,
+      "boundary": "Exhaustive (/developers/api wizard, /developers/api?skipped=1 Overview dashboard, /developers/billing, /developers/usage, /developers/models 6 cards, /developers/webhook, /developers/connections 4 cards)"
+    },
+    "authorizedLocalAssets": {
+      "observed": 301,
+      "implemented": 301,
+      "boundary": "100% SHA-256 verified local assets, 0 broken images"
+    }
+  }
+}

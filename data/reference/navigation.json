@@ -1,0 +1,122 @@
+{
+  "primaryRail": [
+    {
+      "label": "Home",
+      "href": "/home"
+    },
+    {
+      "label": "Avatar",
+      "href": "/avatar/my-avatars"
+    },
+    {
+      "label": "Brand",
+      "href": "/brand"
+    },
+    {
+      "label": "Apps",
+      "href": "/apps"
+    },
+    {
+      "label": "Projects",
+      "href": "/projects/assets"
+    },
+    {
+      "label": "Developers",
+      "href": "/developers/api"
+    }
+  ],
+  "secondaryDrawers": {
+    "Create": [
+      {
+        "label": "Home",
+        "href": "/home"
+      },
+      {
+        "label": "Video agent",
+        "href": "/home/video-agent"
+      },
+      {
+        "label": "Scene by scene",
+        "href": "/home/studio"
+      },
+      {
+        "label": "Single scene",
+        "href": "/home/photo-to-video"
+      },
+      {
+        "label": "Translate",
+        "href": "/home/translate"
+      }
+    ],
+    "Manage Avatars": [
+      {
+        "label": "Avatars",
+        "href": "/avatar/my-avatars"
+      },
+      {
+        "label": "Voices",
+        "href": "/avatar/voices"
+      }
+    ],
+    "Brand": [
+      {
+        "label": "Brand Systems",
+        "href": "/brand"
+      },
+      {
+        "label": "Brand Glossary",
+        "href": "/brand/brand_glossary"
+      }
+    ],
+    "Apps": [
+      {
+        "label": "Home",
+        "href": "/apps"
+      },
+      {
+        "label": "Integrations",
+        "href": "/apps/integrations"
+      }
+    ],
+    "Projects": [
+      {
+        "label": "My Projects",
+        "href": "/projects"
+      },
+      {
+        "label": "New Folder",
+        "action": "open-new-folder-modal"
+      },
+      {
+        "label": "Trash",
+        "href": "/projects?folder=trash"
+      }
+    ],
+    "Developers": [
+      {
+        "label": "Overview",
+        "href": "/developers/api"
+      },
+      {
+        "label": "Billing",
+        "href": "/developers/api?tab=billing"
+      },
+      {
+        "label": "Usage",
+        "href": "/developers/api?tab=usage"
+      },
+      {
+        "label": "Models",
+        "href": "/developers/api?tab=models"
+      },
+      {
+        "label": "Webhook",
+        "href": "/developers/api?tab=webhook"
+      },
+      {
+        "label": "Connections",
+        "href": "/developers/api?tab=connections"
+      }
+    ]
+  }
+}

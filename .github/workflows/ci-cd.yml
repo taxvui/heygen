@@ -1,0 +1,31 @@
+name: HeyGen Platform CI/CD
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: TypeScript typecheck
+        run: npm run typecheck
+
+      - name: Run Vitest unit & integration suite
+        run: npm run test
+
+      - name: Build production Next.js bundle
+        run: npm run build

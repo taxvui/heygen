@@ -1,0 +1,26 @@
+[
+  {
+    "category": "css",
+    "localPath": "styles/reference/extracted-css/main-CIqZwH0u.css",
+    "url": "https://app.heygen.com/main-CIqZwH0u.css",
+    "type": "text/css",
+    "description": "Primary HeyGen Design Tokens & Base Stylesheet",
+    "status": "DOWNLOADED",
+    "bytes": 4286,
+    "sha256": "aae6164efcac37064c14eb7bb3a4fa5b3a8fe2ac2b1ed7088023b48992e3dfff",
+    "publicUrl": "styles/reference/extracted-css/main-CIqZwH0u.css",
+    "downloadedAt": "2026-11-22T13:41:38.681Z"
+  },
+  {
+    "category": "css",
+    "localPath": "styles/reference/extracted-css/main-C1zSbYdM.css",
+    "url": "https://app.heygen.com/main-C1zSbYdM.css",
+    "type": "text/css",
+    "description": "Secondary HeyGen Component & Utility Stylesheet",
+    "status": "DOWNLOADED",
+    "bytes": 1229705,
+    "sha256": "74419fb6a63a0d07c8b247b3c989318edf38e836dd0bf7719e94ac60ca6ccf60",
+    "publicUrl": "styles/reference/extracted-css/main-C1zSbYdM.css",
+    "downloadedAt": "2026-11-22T13:41:38.699Z"
+  }
+]

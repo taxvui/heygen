@@ -1,0 +1,4087 @@
+{
+  "extractedAt": "2026-11-22T18:44:21.848Z",
+  "sourceOrigin": "https://app.heygen.com",
+  "totalBundles": 680,
+  "bundles": [
+    {
+      "href": "/vendor-D3Rbaa6m.js",
+      "fullUrl": "https://app.heygen.com/vendor-D3Rbaa6m.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/home_layout-DZ3traDo.js",
+      "fullUrl": "https://app.heygen.com/home_layout-DZ3traDo.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/index-Dnhw6a4m.js",
+      "fullUrl": "https://app.heygen.com/index-Dnhw6a4m.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/home_v2--__SXSRR.js",
+      "fullUrl": "https://app.heygen.com/home_v2--__SXSRR.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/home_v4-DKFYrGp-.js",
+      "fullUrl": "https://app.heygen.com/home_v4-DKFYrGp-.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/home_page-DcxTZhg0.js",
+      "fullUrl": "https://app.heygen.com/home_page-DcxTZhg0.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/main-CQpB1mf8.js",
+      "fullUrl": "https://app.heygen.com/main-CQpB1mf8.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/main.app-WuNxhhYU.js",
+      "fullUrl": "https://app.heygen.com/main.app-WuNxhhYU.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/va-session-helpers-CE9RoTo-.js",
+      "fullUrl": "https://app.heygen.com/va-session-helpers-CE9RoTo-.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/vendor-drawer-DKqEPGVb.js",
+      "fullUrl": "https://app.heygen.com/vendor-drawer-DKqEPGVb.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/vendor-lazy-date-fns-tz-CXxEnu7s.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-date-fns-tz-CXxEnu7s.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_is_first_time_user-Cv-KuhFl.js",
+      "fullUrl": "https://app.heygen.com/use_is_first_time_user-Cv-KuhFl.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/segment-CrG_zir-.js",
+      "fullUrl": "https://app.heygen.com/segment-CrG_zir-.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_apps_back_override-ZIHD3FRt.js",
+      "fullUrl": "https://app.heygen.com/use_apps_back_override-ZIHD3FRt.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/liquid_glass-6L4c-uCq.js",
+      "fullUrl": "https://app.heygen.com/liquid_glass-6L4c-uCq.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/ime-Bu2dtSJi.js",
+      "fullUrl": "https://app.heygen.com/ime-Bu2dtSJi.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/app_language_select-Dx2vv5Ll.js",
+      "fullUrl": "https://app.heygen.com/app_language_select-Dx2vv5Ll.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/navbar_package_exposure-D9LTVys4.js",
+      "fullUrl": "https://app.heygen.com/navbar_package_exposure-D9LTVys4.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_credit_switch_eligibility-oibs6Akp.js",
+      "fullUrl": "https://app.heygen.com/use_credit_switch_eligibility-oibs6Akp.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_resolve_is_free-l5t9OOma.js",
+      "fullUrl": "https://app.heygen.com/use_resolve_is_free-l5t9OOma.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/returning_user_cadence-D7DNXcDN.js",
+      "fullUrl": "https://app.heygen.com/returning_user_cadence-D7DNXcDN.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/reload_app_recents_relay-DDVRq9w4.js",
+      "fullUrl": "https://app.heygen.com/reload_app_recents_relay-DDVRq9w4.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_home_top_banner_slot-DvVcMUIw.js",
+      "fullUrl": "https://app.heygen.com/use_home_top_banner_slot-DvVcMUIw.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_top_right_chrome_clearance-XdKhe0Vp.js",
+      "fullUrl": "https://app.heygen.com/use_top_right_chrome_clearance-XdKhe0Vp.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_full_bleed_home_layout-BFB2z6Fo.js",
+      "fullUrl": "https://app.heygen.com/use_full_bleed_home_layout-BFB2z6Fo.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_top_right_chrome_dock-B1IymynG.js",
+      "fullUrl": "https://app.heygen.com/use_top_right_chrome_dock-B1IymynG.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_user_journey_holdout_exposure-DxV7kZ-i.js",
+      "fullUrl": "https://app.heygen.com/use_user_journey_holdout_exposure-DxV7kZ-i.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_prompt_builder_view-lmd3y5J0.js",
+      "fullUrl": "https://app.heygen.com/use_prompt_builder_view-lmd3y5J0.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_prompt_builder_direct_arm-_5xIUQNe.js",
+      "fullUrl": "https://app.heygen.com/use_prompt_builder_direct_arm-_5xIUQNe.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/video_agent_apps_surface-ydRPXSJh.js",
+      "fullUrl": "https://app.heygen.com/video_agent_apps_surface-ydRPXSJh.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_avatar_hub_photo_first_cohort_non_exposing-WtkbTw9L.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_hub_photo_first_cohort_non_exposing-WtkbTw9L.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/select-Hj24HqLK.js",
+      "fullUrl": "https://app.heygen.com/select-Hj24HqLK.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/badge-B4U_m2Aw.js",
+      "fullUrl": "https://app.heygen.com/badge-B4U_m2Aw.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/label-BgvaA0eb.js",
+      "fullUrl": "https://app.heygen.com/label-BgvaA0eb.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/section_skeleton-9cVtB1ww.js",
+      "fullUrl": "https://app.heygen.com/section_skeleton-9cVtB1ww.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_home_v2_migration_exposure-INmen01T.js",
+      "fullUrl": "https://app.heygen.com/use_home_v2_migration_exposure-INmen01T.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_photo_first_rerun_exposure-CJDippia.js",
+      "fullUrl": "https://app.heygen.com/use_photo_first_rerun_exposure-CJDippia.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/loading_skeleton-u-W0glsl.js",
+      "fullUrl": "https://app.heygen.com/loading_skeleton-u-W0glsl.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_api_card_enabled-HTz06ToG.js",
+      "fullUrl": "https://app.heygen.com/use_api_card_enabled-HTz06ToG.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_avatar_hub_entry_gate-phvVaeO2.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_hub_entry_gate-phvVaeO2.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_avatar_creation_permission-DtVTgTSa.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_creation_permission-DtVTgTSa.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_has_instant_avatar-BpZgka1K.js",
+      "fullUrl": "https://app.heygen.com/use_has_instant_avatar-BpZgka1K.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/onboarding_template_modal-CnJdfzMM.js",
+      "fullUrl": "https://app.heygen.com/onboarding_template_modal-CnJdfzMM.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/template-i8Fu-E7D.js",
+      "fullUrl": "https://app.heygen.com/template-i8Fu-E7D.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_survey_work_type-BdllFBRX.js",
+      "fullUrl": "https://app.heygen.com/use_survey_work_type-BdllFBRX.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/avatar-CdZ8L-vB.js",
+      "fullUrl": "https://app.heygen.com/avatar-CdZ8L-vB.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/home_persona_preference-h7e6Qf0A.js",
+      "fullUrl": "https://app.heygen.com/home_persona_preference-h7e6Qf0A.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/use_user_survey_results-Dk768aeR.js",
+      "fullUrl": "https://app.heygen.com/use_user_survey_results-Dk768aeR.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/index-BlB1EHvR.js",
+      "fullUrl": "https://app.heygen.com/index-BlB1EHvR.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/instant-BpEZp4D9.js",
+      "fullUrl": "https://app.heygen.com/instant-BpEZp4D9.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/instant_avatar_staged_upload-mvqoos3p.js",
+      "fullUrl": "https://app.heygen.com/instant_avatar_staged_upload-mvqoos3p.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/staged_upload-BiM1v6_q.js",
+      "fullUrl": "https://app.heygen.com/staged_upload-BiM1v6_q.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/engine_persistence-llUrsS9s.js",
+      "fullUrl": "https://app.heygen.com/engine_persistence-llUrsS9s.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/avatar-card.constants-Dylx-I_D.js",
+      "fullUrl": "https://app.heygen.com/avatar-card.constants-Dylx-I_D.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/survey-CQ9cQfrJ.js",
+      "fullUrl": "https://app.heygen.com/survey-CQ9cQfrJ.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/voice-engine-DzdNO0WQ.js",
+      "fullUrl": "https://app.heygen.com/voice-engine-DzdNO0WQ.js",
+      "rel": "modulepreload",
+      "as": null
+    },
+    {
+      "href": "/auth_billing_effect-Dvm23BdX.js",
+      "fullUrl": "https://app.heygen.com/auth_billing_effect-Dvm23BdX.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_vip_invite_arm-M-iGorFN.js",
+      "fullUrl": "https://app.heygen.com/use_vip_invite_arm-M-iGorFN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/open_vip_invite_modal-AZnLGMLZ.js",
+      "fullUrl": "https://app.heygen.com/open_vip_invite_modal-AZnLGMLZ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/complete_payment_action-C1szRAl3.js",
+      "fullUrl": "https://app.heygen.com/complete_payment_action-C1szRAl3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/stripe-CxR2ulfO.js",
+      "fullUrl": "https://app.heygen.com/stripe-CxR2ulfO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/payment_refresh_store-D61uYk8F.js",
+      "fullUrl": "https://app.heygen.com/payment_refresh_store-D61uYk8F.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_payment_config-DgipPIcF.js",
+      "fullUrl": "https://app.heygen.com/use_payment_config-DgipPIcF.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/types-Bx6qwKhg.js",
+      "fullUrl": "https://app.heygen.com/types-Bx6qwKhg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/referral_reward_watcher-tUg4at6u.js",
+      "fullUrl": "https://app.heygen.com/referral_reward_watcher-tUg4at6u.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/referee_reward_watch-Y5W7anR0.js",
+      "fullUrl": "https://app.heygen.com/referee_reward_watch-Y5W7anR0.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/referral_summary-DDKUCqNc.js",
+      "fullUrl": "https://app.heygen.com/referral_summary-DDKUCqNc.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pending_space_invite_listener-CAZf1twB.js",
+      "fullUrl": "https://app.heygen.com/pending_space_invite_listener-CAZf1twB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/sidenav_recent_drafts-ClnQgyBe.js",
+      "fullUrl": "https://app.heygen.com/sidenav_recent_drafts-ClnQgyBe.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/generation_progress_ring-BN9nwp1Y.js",
+      "fullUrl": "https://app.heygen.com/generation_progress_ring-BN9nwp1Y.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_video_credits-DBhI2xIN.js",
+      "fullUrl": "https://app.heygen.com/use_video_credits-DBhI2xIN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_project_item_card-C1-kBFAe.js",
+      "fullUrl": "https://app.heygen.com/use_project_item_card-C1-kBFAe.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/processing_mask.helpers-B8_j81TK.js",
+      "fullUrl": "https://app.heygen.com/processing_mask.helpers-B8_j81TK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/const-Bw7NV1yg.js",
+      "fullUrl": "https://app.heygen.com/const-Bw7NV1yg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/utils-s3-IMDGq.js",
+      "fullUrl": "https://app.heygen.com/utils-s3-IMDGq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video-RfoyQBrv.js",
+      "fullUrl": "https://app.heygen.com/video-RfoyQBrv.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/meta-CBR_tiNS.js",
+      "fullUrl": "https://app.heygen.com/meta-CBR_tiNS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video-share-Btt3AmB6.js",
+      "fullUrl": "https://app.heygen.com/video-share-Btt3AmB6.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/utils-CE8SaBjG.js",
+      "fullUrl": "https://app.heygen.com/utils-CE8SaBjG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/instant-highlight-DapyXf49.js",
+      "fullUrl": "https://app.heygen.com/instant-highlight-DapyXf49.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/assets-B8ITBsAX.js",
+      "fullUrl": "https://app.heygen.com/assets-B8ITBsAX.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/audio_mime_type-DZxFSSdO.js",
+      "fullUrl": "https://app.heygen.com/audio_mime_type-DZxFSSdO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/upload-DvBXLhmJ.js",
+      "fullUrl": "https://app.heygen.com/upload-DvBXLhmJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/codecs-BvcsA8Ps.js",
+      "fullUrl": "https://app.heygen.com/codecs-BvcsA8Ps.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/upload-CK_NHKRV.js",
+      "fullUrl": "https://app.heygen.com/upload-CK_NHKRV.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/common-BbzPhtmx.js",
+      "fullUrl": "https://app.heygen.com/common-BbzPhtmx.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/meta-DxWfQHbH.js",
+      "fullUrl": "https://app.heygen.com/meta-DxWfQHbH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/platform-RyTqAIMg.js",
+      "fullUrl": "https://app.heygen.com/platform-RyTqAIMg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/draft_v4-HhV6oC9a.js",
+      "fullUrl": "https://app.heygen.com/draft_v4-HhV6oC9a.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video-agent-ClXbFTkM.js",
+      "fullUrl": "https://app.heygen.com/video-agent-ClXbFTkM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/generative-element-C6nwFq2_.js",
+      "fullUrl": "https://app.heygen.com/generative-element-C6nwFq2_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/search_sort_filter_context-DZJOEZB5.js",
+      "fullUrl": "https://app.heygen.com/search_sort_filter_context-DZJOEZB5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_session_list-TQJylgvJ.js",
+      "fullUrl": "https://app.heygen.com/use_session_list-TQJylgvJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/agent_ux_telemetry-C6ySqtFS.js",
+      "fullUrl": "https://app.heygen.com/agent_ux_telemetry-C6ySqtFS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_project_item_list-x8Z9ewPS.js",
+      "fullUrl": "https://app.heygen.com/use_project_item_list-x8Z9ewPS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_projects_destination-DDe6cftb.js",
+      "fullUrl": "https://app.heygen.com/use_projects_destination-DDe6cftb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/swr-keys-CMMN41hg.js",
+      "fullUrl": "https://app.heygen.com/swr-keys-CMMN41hg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_video_url_state-J1lGPY2a.js",
+      "fullUrl": "https://app.heygen.com/use_video_url_state-J1lGPY2a.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_url_state-DCaHllHL.js",
+      "fullUrl": "https://app.heygen.com/use_url_state-DCaHllHL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/url_params-CUH9Muq3.js",
+      "fullUrl": "https://app.heygen.com/url_params-CUH9Muq3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pharma_import_path-DGl7p2ul.js",
+      "fullUrl": "https://app.heygen.com/pharma_import_path-DGl7p2ul.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/constants-BJ6O2IoG.js",
+      "fullUrl": "https://app.heygen.com/constants-BJ6O2IoG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/item_type_label-DUXKuDzq.js",
+      "fullUrl": "https://app.heygen.com/item_type_label-DUXKuDzq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video_agent_last_revision-DU3R71gT.js",
+      "fullUrl": "https://app.heygen.com/video_agent_last_revision-DU3R71gT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/aroll_workflow_item-Ex0ScEXI.js",
+      "fullUrl": "https://app.heygen.com/aroll_workflow_item-Ex0ScEXI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/app-outputs.helpers-DWl0nfMW.js",
+      "fullUrl": "https://app.heygen.com/app-outputs.helpers-DWl0nfMW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/presenter_video-Bh-muu_I.js",
+      "fullUrl": "https://app.heygen.com/presenter_video-Bh-muu_I.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/project_card_mosaic_cells-CJmkRTpQ.js",
+      "fullUrl": "https://app.heygen.com/project_card_mosaic_cells-CJmkRTpQ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/get_project_item_destination_url-C0djutYs.js",
+      "fullUrl": "https://app.heygen.com/get_project_item_destination_url-C0djutYs.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/session_video_param-D8xBphZr.js",
+      "fullUrl": "https://app.heygen.com/session_video_param-D8xBphZr.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/projects_type_route-BX1nyfQt.js",
+      "fullUrl": "https://app.heygen.com/projects_type_route-BX1nyfQt.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/multi_avatar_item-ltCqmsma.js",
+      "fullUrl": "https://app.heygen.com/multi_avatar_item-ltCqmsma.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/prompt_builder_draft_item-DZza28Gz.js",
+      "fullUrl": "https://app.heygen.com/prompt_builder_draft_item-DZza28Gz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/generated_asset_label-CXQhN6tQ.js",
+      "fullUrl": "https://app.heygen.com/generated_asset_label-CXQhN6tQ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/output_preview_modal.helpers-CP5I_2H9.js",
+      "fullUrl": "https://app.heygen.com/output_preview_modal.helpers-CP5I_2H9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/assets_filter_item-KQROgC52.js",
+      "fullUrl": "https://app.heygen.com/assets_filter_item-KQROgC52.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/project_item_support-DAP75S37.js",
+      "fullUrl": "https://app.heygen.com/project_item_support-DAP75S37.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_project_item_menu_items-Bm7eYzA-.js",
+      "fullUrl": "https://app.heygen.com/use_project_item_menu_items-Bm7eYzA-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/validate-DcJyO9gJ.js",
+      "fullUrl": "https://app.heygen.com/validate-DcJyO9gJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_video_download_modal-DGCiD6yU.js",
+      "fullUrl": "https://app.heygen.com/show_video_download_modal-DGCiD6yU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/download_validation-ARBpxclP.js",
+      "fullUrl": "https://app.heygen.com/download_validation-ARBpxclP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/share-v2-cFPrtE8_.js",
+      "fullUrl": "https://app.heygen.com/share-v2-cFPrtE8_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/post_download_slot-BT5WVYvq.js",
+      "fullUrl": "https://app.heygen.com/post_download_slot-BT5WVYvq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/trustpilot_review_surface-BjrjGnPy.js",
+      "fullUrl": "https://app.heygen.com/trustpilot_review_surface-BjrjGnPy.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/open_trustpilot_review-BrnRYFFN.js",
+      "fullUrl": "https://app.heygen.com/open_trustpilot_review-BrnRYFFN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_project_items_move-DOJlsBd-.js",
+      "fullUrl": "https://app.heygen.com/use_project_items_move-DOJlsBd-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_heygen_project-SON4IuBY.js",
+      "fullUrl": "https://app.heygen.com/use_heygen_project-SON4IuBY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-BxFpIccT.js",
+      "fullUrl": "https://app.heygen.com/index-BxFpIccT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/folder-list-LjUEnhic.js",
+      "fullUrl": "https://app.heygen.com/folder-list-LjUEnhic.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/simple_input-nQ_FTlSv.js",
+      "fullUrl": "https://app.heygen.com/simple_input-nQ_FTlSv.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/ime-C_dEIruK.js",
+      "fullUrl": "https://app.heygen.com/ime-C_dEIruK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/list-BgYD79ix.js",
+      "fullUrl": "https://app.heygen.com/list-BgYD79ix.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/confirm-delete-modal-BYFKmZbL.js",
+      "fullUrl": "https://app.heygen.com/confirm-delete-modal-BYFKmZbL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_nav_folders_list-II1QPGJ1.js",
+      "fullUrl": "https://app.heygen.com/use_nav_folders_list-II1QPGJ1.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_folder_modal_generic-CcXhniqB.js",
+      "fullUrl": "https://app.heygen.com/use_folder_modal_generic-CcXhniqB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-BYK6nHm_.js",
+      "fullUrl": "https://app.heygen.com/index-BYK6nHm_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/privacy_cascade-CPWA2Htx.js",
+      "fullUrl": "https://app.heygen.com/privacy_cascade-CPWA2Htx.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/search_tracking-BlVEooSX.js",
+      "fullUrl": "https://app.heygen.com/search_tracking-BlVEooSX.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/va_assets_move-CDqXNE9v.js",
+      "fullUrl": "https://app.heygen.com/va_assets_move-CDqXNE9v.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/maybe_show_deletion_feedback-D8d_Ij3N.js",
+      "fullUrl": "https://app.heygen.com/maybe_show_deletion_feedback-D8d_Ij3N.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/popup_spacing-Bt6axuQ2.js",
+      "fullUrl": "https://app.heygen.com/popup_spacing-Bt6axuQ2.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/open_feedback_chat-BzUPL3lV.js",
+      "fullUrl": "https://app.heygen.com/open_feedback_chat-BzUPL3lV.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_on_collaborators-DKmBimHp.js",
+      "fullUrl": "https://app.heygen.com/use_on_collaborators-DKmBimHp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/copy-D-cp_qXM.js",
+      "fullUrl": "https://app.heygen.com/copy-D-cp_qXM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_can_share_item-CN5AHwzJ.js",
+      "fullUrl": "https://app.heygen.com/use_can_share_item-CN5AHwzJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/workspace_video_approval_policy-Ci3RVdM8.js",
+      "fullUrl": "https://app.heygen.com/workspace_video_approval_policy-Ci3RVdM8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video_approval_download_gate-Cy-jzY2-.js",
+      "fullUrl": "https://app.heygen.com/video_approval_download_gate-Cy-jzY2-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video_publish_approval_ui-BXdIiHD3.js",
+      "fullUrl": "https://app.heygen.com/video_publish_approval_ui-BXdIiHD3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/project_item_publish_approval_status-BTOQqjTx.js",
+      "fullUrl": "https://app.heygen.com/project_item_publish_approval_status-BTOQqjTx.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/fetch_output_detail-CuBdPSVb.js",
+      "fullUrl": "https://app.heygen.com/fetch_output_detail-CuBdPSVb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/app-outputs-Dpi7TaAM.js",
+      "fullUrl": "https://app.heygen.com/app-outputs-Dpi7TaAM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/gen-media-d2x8CP5P.js",
+      "fullUrl": "https://app.heygen.com/gen-media-d2x8CP5P.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor_restriction-CmG25MA-.js",
+      "fullUrl": "https://app.heygen.com/vendor_restriction-CmG25MA-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/poll_gate-BsVL8MMA.js",
+      "fullUrl": "https://app.heygen.com/poll_gate-BsVL8MMA.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/design-element-BQUr4w9d.js",
+      "fullUrl": "https://app.heygen.com/design-element-BQUr4w9d.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/insufficient_credits_error-BA7JxOu3.js",
+      "fullUrl": "https://app.heygen.com/insufficient_credits_error-BA7JxOu3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/error-code-B_pE0g02.js",
+      "fullUrl": "https://app.heygen.com/error-code-B_pE0g02.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/upscale-video-BYkgXYx9.js",
+      "fullUrl": "https://app.heygen.com/upscale-video-BYkgXYx9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cdn-CEq8_5fP.js",
+      "fullUrl": "https://app.heygen.com/cdn-CEq8_5fP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/project_item_menu_model-BSrNfpxj.js",
+      "fullUrl": "https://app.heygen.com/project_item_menu_model-BSrNfpxj.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video_agent_neo-BQ-BjMrB.js",
+      "fullUrl": "https://app.heygen.com/video_agent_neo-BQ-BjMrB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/get_videos_s_s_r_url-0-3Qb0dB.js",
+      "fullUrl": "https://app.heygen.com/get_videos_s_s_r_url-0-3Qb0dB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/recents_menu_actions-BO693LfN.js",
+      "fullUrl": "https://app.heygen.com/recents_menu_actions-BO693LfN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/infinite_scroll_trigger-C2p6iY38.js",
+      "fullUrl": "https://app.heygen.com/infinite_scroll_trigger-C2p6iY38.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/find_scroll_parent-BPb2YBvD.js",
+      "fullUrl": "https://app.heygen.com/find_scroll_parent-BPb2YBvD.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/popover-menu-D-HyTVZM.js",
+      "fullUrl": "https://app.heygen.com/popover-menu-D-HyTVZM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/search-BOi-CI0g.js",
+      "fullUrl": "https://app.heygen.com/search-BOi-CI0g.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/text-field-ujmODGtB.js",
+      "fullUrl": "https://app.heygen.com/text-field-ujmODGtB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_agent_page-CKoTq96q.js",
+      "fullUrl": "https://app.heygen.com/home_agent_page-CKoTq96q.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_v_a_context-C_3Y19bI.js",
+      "fullUrl": "https://app.heygen.com/use_v_a_context-C_3Y19bI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pathway_product_state-DR2NmC5L.js",
+      "fullUrl": "https://app.heygen.com/pathway_product_state-DR2NmC5L.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_is_compact-zpGBueLW.js",
+      "fullUrl": "https://app.heygen.com/use_is_compact-zpGBueLW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_member_limit-Q2rS8PL9.js",
+      "fullUrl": "https://app.heygen.com/use_member_limit-Q2rS8PL9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_usage_cap_status-wgc8ac5q.js",
+      "fullUrl": "https://app.heygen.com/use_usage_cap_status-wgc8ac5q.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/limit_requests.helpers-wrMg9_iW.js",
+      "fullUrl": "https://app.heygen.com/limit_requests.helpers-wrMg9_iW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/prompt_box_types-CzyKOXbY.js",
+      "fullUrl": "https://app.heygen.com/prompt_box_types-CzyKOXbY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/perf_timings-CKAzCaU8.js",
+      "fullUrl": "https://app.heygen.com/perf_timings-CKAzCaU8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_v_a_home_asset_persistence-gxTFDeD5.js",
+      "fullUrl": "https://app.heygen.com/use_v_a_home_asset_persistence-gxTFDeD5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_brand_policy-DT60echh.js",
+      "fullUrl": "https://app.heygen.com/use_brand_policy-DT60echh.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/onboarding_auto_submitter-BB05v_Cm.js",
+      "fullUrl": "https://app.heygen.com/onboarding_auto_submitter-BB05v_Cm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/agent_composer_pickers-N3I2qMgA.js",
+      "fullUrl": "https://app.heygen.com/agent_composer_pickers-N3I2qMgA.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_chat_prompt-BUSWV9WP.js",
+      "fullUrl": "https://app.heygen.com/use_chat_prompt-BUSWV9WP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/instant-DM5sodGr.js",
+      "fullUrl": "https://app.heygen.com/instant-DM5sodGr.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/get_avatar_info-D_osQxlC.js",
+      "fullUrl": "https://app.heygen.com/get_avatar_info-D_osQxlC.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/enums-DGr_xRjr.js",
+      "fullUrl": "https://app.heygen.com/enums-DGr_xRjr.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_get_avatar-Ts_pOug3.js",
+      "fullUrl": "https://app.heygen.com/use_get_avatar-Ts_pOug3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-C3OmYdqm.js",
+      "fullUrl": "https://app.heygen.com/index-C3OmYdqm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_session_list_sync-BNNSv2yI.js",
+      "fullUrl": "https://app.heygen.com/use_session_list_sync-BNNSv2yI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_is_session_read_only-D-JA44Bf.js",
+      "fullUrl": "https://app.heygen.com/use_is_session_read_only-D-JA44Bf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-ByvmOXAU.js",
+      "fullUrl": "https://app.heygen.com/index-ByvmOXAU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/streaming_audio_manager-8W5cFR0X.js",
+      "fullUrl": "https://app.heygen.com/streaming_audio_manager-8W5cFR0X.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/brand_glossary_policy-1X3H00OS.js",
+      "fullUrl": "https://app.heygen.com/brand_glossary_policy-1X3H00OS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/brand-glossary-Bcc2GuwH.js",
+      "fullUrl": "https://app.heygen.com/brand-glossary-Bcc2GuwH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/brand-kit-Cmz2nC7B.js",
+      "fullUrl": "https://app.heygen.com/brand-kit-Cmz2nC7B.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/glossary-read-context-BjjSJHCG.js",
+      "fullUrl": "https://app.heygen.com/glossary-read-context-BjjSJHCG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_s_a_l_p_flow_activator-DhLjlu2v.js",
+      "fullUrl": "https://app.heygen.com/use_s_a_l_p_flow_activator-DhLjlu2v.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home-BSvWVR7V.js",
+      "fullUrl": "https://app.heygen.com/home-BSvWVR7V.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_skill_card_surface-BM9WlymT.js",
+      "fullUrl": "https://app.heygen.com/home_skill_card_surface-BM9WlymT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/server_skill_form-CR3f32M-.js",
+      "fullUrl": "https://app.heygen.com/server_skill_form-CR3f32M-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/sa_workflow_utils-B0yiRyL4.js",
+      "fullUrl": "https://app.heygen.com/sa_workflow_utils-B0yiRyL4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/visible_looks-BE2UXpgo.js",
+      "fullUrl": "https://app.heygen.com/visible_looks-BE2UXpgo.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/photo_orientation-DWgk2ZJY.js",
+      "fullUrl": "https://app.heygen.com/photo_orientation-DWgk2ZJY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/s_a_workflow_home_v3_frame-BBKczYkW.js",
+      "fullUrl": "https://app.heygen.com/s_a_workflow_home_v3_frame-BBKczYkW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_v_a_asset_input-CqbHsRPN.js",
+      "fullUrl": "https://app.heygen.com/use_v_a_asset_input-CqbHsRPN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/strip_asset_id_prefix-CqhI4x4h.js",
+      "fullUrl": "https://app.heygen.com/strip_asset_id_prefix-CqhI4x4h.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_session_edit_gate-lM2eY_5V.js",
+      "fullUrl": "https://app.heygen.com/use_session_edit_gate-lM2eY_5V.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/agent_prefill-c-_8diV9.js",
+      "fullUrl": "https://app.heygen.com/agent_prefill-c-_8diV9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/upload_multiple_files_to_s3-Dq7laMzG.js",
+      "fullUrl": "https://app.heygen.com/upload_multiple_files_to_s3-Dq7laMzG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/asset_file_upload-CqTe6WoU.js",
+      "fullUrl": "https://app.heygen.com/asset_file_upload-CqTe6WoU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video_thumbnail-BhdiPZvT.js",
+      "fullUrl": "https://app.heygen.com/video_thumbnail-BhdiPZvT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/media_metadata-Ba6QCSEO.js",
+      "fullUrl": "https://app.heygen.com/media_metadata-Ba6QCSEO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/capture-zwy_Zw39.js",
+      "fullUrl": "https://app.heygen.com/capture-zwy_Zw39.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/get_file_upload_details-7CVMyJH8.js",
+      "fullUrl": "https://app.heygen.com/get_file_upload_details-7CVMyJH8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-DF0AV4Bm.js",
+      "fullUrl": "https://app.heygen.com/index-DF0AV4Bm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/image_upload_guard-mWy_Jimy.js",
+      "fullUrl": "https://app.heygen.com/image_upload_guard-mWy_Jimy.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/size-CaSw2vtg.js",
+      "fullUrl": "https://app.heygen.com/size-CaSw2vtg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/format-6MzPhzAI.js",
+      "fullUrl": "https://app.heygen.com/format-6MzPhzAI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_picker_glossary_at_send-WkEWg5KM.js",
+      "fullUrl": "https://app.heygen.com/use_picker_glossary_at_send-WkEWg5KM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_list_brand_glossaries-DmJl2u2n.js",
+      "fullUrl": "https://app.heygen.com/use_list_brand_glossaries-DmJl2u2n.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_glossary_picker_visible-C5S2kBqR.js",
+      "fullUrl": "https://app.heygen.com/use_glossary_picker_visible-C5S2kBqR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/plan_default_glossary-BE5xBma4.js",
+      "fullUrl": "https://app.heygen.com/plan_default_glossary-BE5xBma4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_global_avatar_state-B2QM2kB_.js",
+      "fullUrl": "https://app.heygen.com/use_global_avatar_state-B2QM2kB_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/info-DUeU6xCc.js",
+      "fullUrl": "https://app.heygen.com/info-DUeU6xCc.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_i_v_utils-BrLuOBcM.js",
+      "fullUrl": "https://app.heygen.com/avatar_i_v_utils-BrLuOBcM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/create_video_mint-DRKSDkDL.js",
+      "fullUrl": "https://app.heygen.com/create_video_mint-DRKSDkDL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/aroll-workflow-YeOD-YM9.js",
+      "fullUrl": "https://app.heygen.com/aroll-workflow-YeOD-YM9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-B-r3u1Hd.js",
+      "fullUrl": "https://app.heygen.com/voice-B-r3u1Hd.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/instant_avatar_adapter-CwBsLCmV.js",
+      "fullUrl": "https://app.heygen.com/instant_avatar_adapter-CwBsLCmV.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/idea_to_video_framing-C8p44qWn.js",
+      "fullUrl": "https://app.heygen.com/idea_to_video_framing-C8p44qWn.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/get_avatar_preview_rect-CHGj2Sex.js",
+      "fullUrl": "https://app.heygen.com/get_avatar_preview_rect-CHGj2Sex.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/idea_to_video_avatar_engine-DqfmYkiy.js",
+      "fullUrl": "https://app.heygen.com/idea_to_video_avatar_engine-DqfmYkiy.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_engine-BM4UN_6X.js",
+      "fullUrl": "https://app.heygen.com/avatar_engine-BM4UN_6X.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_engine_state-JY_vVW3z.js",
+      "fullUrl": "https://app.heygen.com/avatar_engine_state-JY_vVW3z.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_v_i_only-Bo_gH6Wm.js",
+      "fullUrl": "https://app.heygen.com/avatar_v_i_only-Bo_gH6Wm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_has_digital_twin-CMILT1sy.js",
+      "fullUrl": "https://app.heygen.com/use_has_digital_twin-CMILT1sy.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_look_cell.helpers-CX_Jjsx-.js",
+      "fullUrl": "https://app.heygen.com/avatar_look_cell.helpers-CX_Jjsx-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/failure_age-B8N9LnoR.js",
+      "fullUrl": "https://app.heygen.com/failure_age-B8N9LnoR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_look_page_tabs_context-BDX0N4XW.js",
+      "fullUrl": "https://app.heygen.com/avatar_look_page_tabs_context-BDX0N4XW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_look_voice_control-x7USmNe4.js",
+      "fullUrl": "https://app.heygen.com/avatar_look_voice_control-x7USmNe4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_group_looks_page.helpers-C0Q7wZga.js",
+      "fullUrl": "https://app.heygen.com/avatar_group_looks_page.helpers-C0Q7wZga.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_avatar_issue-CY8S-_w7.js",
+      "fullUrl": "https://app.heygen.com/home_avatar_issue-CY8S-_w7.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/guest_lp_flow_prefill-byLo6xl4.js",
+      "fullUrl": "https://app.heygen.com/guest_lp_flow_prefill-byLo6xl4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/re_skill_deeplink-BSa5Ft_y.js",
+      "fullUrl": "https://app.heygen.com/re_skill_deeplink-BSa5Ft_y.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/abbreviations-43RK33qY.js",
+      "fullUrl": "https://app.heygen.com/abbreviations-43RK33qY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/caption_style_popover_context-ngG6xYxO.js",
+      "fullUrl": "https://app.heygen.com/caption_style_popover_context-ngG6xYxO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_caption_catalog-CEj1xJLg.js",
+      "fullUrl": "https://app.heygen.com/use_caption_catalog-CEj1xJLg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/caption_presets-frhOsZ4A.js",
+      "fullUrl": "https://app.heygen.com/caption_presets-frhOsZ4A.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/textarea-CEpw-E8b.js",
+      "fullUrl": "https://app.heygen.com/textarea-CEpw-E8b.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/text-hook-C8pdPGCQ.js",
+      "fullUrl": "https://app.heygen.com/text-hook-C8pdPGCQ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_walking_rim-r9viJxki.js",
+      "fullUrl": "https://app.heygen.com/use_walking_rim-r9viJxki.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_prefers_reduced_motion-UzjfSv6z.js",
+      "fullUrl": "https://app.heygen.com/use_prefers_reduced_motion-UzjfSv6z.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/v_a_prompt_box-C5YFlVg8.js",
+      "fullUrl": "https://app.heygen.com/v_a_prompt_box-C5YFlVg8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/resolve_avatar_fit-Bkavt6fk.js",
+      "fullUrl": "https://app.heygen.com/resolve_avatar_fit-Bkavt6fk.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/get_avatar_render_type-CN-Qc6LS.js",
+      "fullUrl": "https://app.heygen.com/get_avatar_render_type-CN-Qc6LS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/kit-0nIVlxPx.js",
+      "fullUrl": "https://app.heygen.com/kit-0nIVlxPx.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/byok-media-url-BByIjLby.js",
+      "fullUrl": "https://app.heygen.com/byok-media-url-BByIjLby.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_list_brand_kits_custom-DQ7ExviO.js",
+      "fullUrl": "https://app.heygen.com/use_list_brand_kits_custom-DQ7ExviO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-Z6-FjY88.js",
+      "fullUrl": "https://app.heygen.com/index-Z6-FjY88.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/knowledge_menu-Cv0SNY-L.js",
+      "fullUrl": "https://app.heygen.com/knowledge_menu-Cv0SNY-L.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/v_a_prompt_box_seedance-BWNw544d.js",
+      "fullUrl": "https://app.heygen.com/v_a_prompt_box_seedance-BWNw544d.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/v_a_asset_ref_preview-Ahz3FVTp.js",
+      "fullUrl": "https://app.heygen.com/v_a_asset_ref_preview-Ahz3FVTp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/track_player_next-ByOvUVTd.js",
+      "fullUrl": "https://app.heygen.com/track_player_next-ByOvUVTd.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video_player-B5BPOyqE.js",
+      "fullUrl": "https://app.heygen.com/video_player-B5BPOyqE.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/progress_bar-z6j-fy8K.js",
+      "fullUrl": "https://app.heygen.com/progress_bar-z6j-fy8K.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/player_store-uk0NiM-c.js",
+      "fullUrl": "https://app.heygen.com/player_store-uk0NiM-c.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/slider-BSiBXiki.js",
+      "fullUrl": "https://app.heygen.com/slider-BSiBXiki.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/volume_control-CZKED4-N.js",
+      "fullUrl": "https://app.heygen.com/volume_control-CZKED4-N.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/caption_layer-6nCEzn7c.js",
+      "fullUrl": "https://app.heygen.com/caption_layer-6nCEzn7c.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-lazy-media-C43WJM_3.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-media-C43WJM_3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/is_rtl_language-BlTX_fKG.js",
+      "fullUrl": "https://app.heygen.com/is_rtl_language-BlTX_fKG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cjk_chunking-CB5k_QfI.js",
+      "fullUrl": "https://app.heygen.com/cjk_chunking-CB5k_QfI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_feedback_prompt_context-DYt0M04n.js",
+      "fullUrl": "https://app.heygen.com/use_feedback_prompt_context-DYt0M04n.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/feedback_prompt_context-D-e6QpjN.js",
+      "fullUrl": "https://app.heygen.com/feedback_prompt_context-D-e6QpjN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_get_brand_kit-CG-wP4ML.js",
+      "fullUrl": "https://app.heygen.com/use_get_brand_kit-CG-wP4ML.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/brand_mark_tile-Ddd10pnL.js",
+      "fullUrl": "https://app.heygen.com/brand_mark_tile-Ddd10pnL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/heygen_frame_showcase-BJwTsA8E.js",
+      "fullUrl": "https://app.heygen.com/heygen_frame_showcase-BJwTsA8E.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_public_fonts-D_JtF70_.js",
+      "fullUrl": "https://app.heygen.com/use_public_fonts-D_JtF70_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/font_loading-CrlFS0Ou.js",
+      "fullUrl": "https://app.heygen.com/font_loading-CrlFS0Ou.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-DsY0uibe.js",
+      "fullUrl": "https://app.heygen.com/index-DsY0uibe.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/font_resource_state-DLoPUg2d.js",
+      "fullUrl": "https://app.heygen.com/font_resource_state-DLoPUg2d.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/brand_kit_logo-Cpo-BkNq.js",
+      "fullUrl": "https://app.heygen.com/brand_kit_logo-Cpo-BkNq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/speech-DjBGi4Pf.js",
+      "fullUrl": "https://app.heygen.com/speech-DjBGi4Pf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-language-SOZP2r23.js",
+      "fullUrl": "https://app.heygen.com/voice-language-SOZP2r23.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-hZeZMsLQ.js",
+      "fullUrl": "https://app.heygen.com/voice-hZeZMsLQ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-C04GZJO2.js",
+      "fullUrl": "https://app.heygen.com/voice-C04GZJO2.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/eleven_labs_v3_legacy-my2NjBVi.js",
+      "fullUrl": "https://app.heygen.com/eleven_labs_v3_legacy-my2NjBVi.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_expressive_style_registry-BXZYfG03.js",
+      "fullUrl": "https://app.heygen.com/voice_expressive_style_registry-BXZYfG03.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/eleven_labs_engine-CbTLzbto.js",
+      "fullUrl": "https://app.heygen.com/eleven_labs_engine-CbTLzbto.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/eleven_labs-constants-BUqXc41z.js",
+      "fullUrl": "https://app.heygen.com/eleven_labs-constants-BUqXc41z.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-default-engine-DDFykBFT.js",
+      "fullUrl": "https://app.heygen.com/voice-default-engine-DDFykBFT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_by_id-C5DkcLoc.js",
+      "fullUrl": "https://app.heygen.com/voice_by_id-C5DkcLoc.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_cache-BIZ-hWI9.js",
+      "fullUrl": "https://app.heygen.com/voice_cache-BIZ-hWI9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-ONyRypxZ.js",
+      "fullUrl": "https://app.heygen.com/voice-ONyRypxZ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/engine-accent-config-DNUbq6L3.js",
+      "fullUrl": "https://app.heygen.com/engine-accent-config-DNUbq6L3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_resolution-U49F1DPw.js",
+      "fullUrl": "https://app.heygen.com/voice_resolution-U49F1DPw.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_voice_preview-CGoiXTgr.js",
+      "fullUrl": "https://app.heygen.com/use_voice_preview-CGoiXTgr.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/single-player-B7Y2gixU.js",
+      "fullUrl": "https://app.heygen.com/single-player-B7Y2gixU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_preview_player-Bh71tyUg.js",
+      "fullUrl": "https://app.heygen.com/voice_preview_player-Bh71tyUg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_audio_preview-DpRZ-i48.js",
+      "fullUrl": "https://app.heygen.com/use_audio_preview-DpRZ-i48.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/knowledge-icons-C9pBESlf.js",
+      "fullUrl": "https://app.heygen.com/knowledge-icons-C9pBESlf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_v_a_captions_preference-COaERKHL.js",
+      "fullUrl": "https://app.heygen.com/use_v_a_captions_preference-COaERKHL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_fetch_error_toast-BnG3KjrN.js",
+      "fullUrl": "https://app.heygen.com/voice_fetch_error_toast-BnG3KjrN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_look_cache-DE22fQej.js",
+      "fullUrl": "https://app.heygen.com/avatar_look_cache-DE22fQej.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cursor_settings-BNdLC6ir.js",
+      "fullUrl": "https://app.heygen.com/cursor_settings-BNdLC6ir.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_a_i_vendor_access_policy-CV2jVo-3.js",
+      "fullUrl": "https://app.heygen.com/use_a_i_vendor_access_policy-CV2jVo-3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-BzilmigO.js",
+      "fullUrl": "https://app.heygen.com/index-BzilmigO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_pro_gate_avatar5_seedance-ZtI6gDgY.js",
+      "fullUrl": "https://app.heygen.com/use_pro_gate_avatar5_seedance-ZtI6gDgY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video_minutes_trans-DGIiPkhh.js",
+      "fullUrl": "https://app.heygen.com/video_minutes_trans-DGIiPkhh.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/hey_gen_video_minutes-CSCHCk6j.js",
+      "fullUrl": "https://app.heygen.com/hey_gen_video_minutes-CSCHCk6j.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-motion-tm1mlLXA.js",
+      "fullUrl": "https://app.heygen.com/vendor-motion-tm1mlLXA.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_active_plan_picks-C_EN4dvD.js",
+      "fullUrl": "https://app.heygen.com/use_active_plan_picks-C_EN4dvD.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/prefill_field_focus-C_vcWgqL.js",
+      "fullUrl": "https://app.heygen.com/prefill_field_focus-C_vcWgqL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/toggle-CXYG6TKK.js",
+      "fullUrl": "https://app.heygen.com/toggle-CXYG6TKK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_v_a_prompt_selection-DFb3BOJo.js",
+      "fullUrl": "https://app.heygen.com/use_v_a_prompt_selection-DFb3BOJo.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pathway_store-4z58fEK4.js",
+      "fullUrl": "https://app.heygen.com/pathway_store-4z58fEK4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cursor_run_controls-CLpNjqhs.js",
+      "fullUrl": "https://app.heygen.com/cursor_run_controls-CLpNjqhs.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pathway_types-CGViySUR.js",
+      "fullUrl": "https://app.heygen.com/pathway_types-CGViySUR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pending_hop-AGd_Sszw.js",
+      "fullUrl": "https://app.heygen.com/pending_hop-AGd_Sszw.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_v_a_super_agent_orby_settings-SPoPrM03.js",
+      "fullUrl": "https://app.heygen.com/use_v_a_super_agent_orby_settings-SPoPrM03.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_group_look_list_infinite-DPlYsvDM.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_group_look_list_infinite-DPlYsvDM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_skip_focus_refetch-B81EEyqA.js",
+      "fullUrl": "https://app.heygen.com/use_skip_focus_refetch-B81EEyqA.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/deletion_tracker-cESmConJ.js",
+      "fullUrl": "https://app.heygen.com/deletion_tracker-cESmConJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/constants-_IPHmb9I.js",
+      "fullUrl": "https://app.heygen.com/constants-_IPHmb9I.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_prompt_bar_types-CXMN7WKg.js",
+      "fullUrl": "https://app.heygen.com/avatar_prompt_bar_types-CXMN7WKg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/request_feedback-CkIyO9kq.js",
+      "fullUrl": "https://app.heygen.com/request_feedback-CkIyO9kq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_voice_clone_quality_feedback-BJfCyPo9.js",
+      "fullUrl": "https://app.heygen.com/use_voice_clone_quality_feedback-BJfCyPo9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/retirement_review_context-eN_DvRbe.js",
+      "fullUrl": "https://app.heygen.com/retirement_review_context-eN_DvRbe.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/info-C7dmVsWf.js",
+      "fullUrl": "https://app.heygen.com/info-C7dmVsWf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_group_private_list_infinite-foLJHHNT.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_group_private_list_infinite-foLJHHNT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/prompt_prefill_sink-C3I-X_V0.js",
+      "fullUrl": "https://app.heygen.com/prompt_prefill_sink-C3I-X_V0.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cost_label-WoUuzAAi.js",
+      "fullUrl": "https://app.heygen.com/cost_label-WoUuzAAi.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/image-CPN-XVCn.js",
+      "fullUrl": "https://app.heygen.com/image-CPN-XVCn.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_supported_languages_and_locales-BAiaA7Sr.js",
+      "fullUrl": "https://app.heygen.com/use_supported_languages_and_locales-BAiaA7Sr.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/video-translate-sc7n3jfv.js",
+      "fullUrl": "https://app.heygen.com/video-translate-sc7n3jfv.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/proofread-redo-CHbdxzly.js",
+      "fullUrl": "https://app.heygen.com/proofread-redo-CHbdxzly.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/name-BdrvAcm7.js",
+      "fullUrl": "https://app.heygen.com/name-BdrvAcm7.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/store-Dw9be0O1.js",
+      "fullUrl": "https://app.heygen.com/store-Dw9be0O1.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/max-retries-error-Ba0SsyiB.js",
+      "fullUrl": "https://app.heygen.com/max-retries-error-Ba0SsyiB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/engine_model_capabilities-C-yCCtPH.js",
+      "fullUrl": "https://app.heygen.com/engine_model_capabilities-C-yCCtPH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/engine_model_field-47zDesrZ.js",
+      "fullUrl": "https://app.heygen.com/engine_model_field-47zDesrZ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/language-Dtfj1p1U.js",
+      "fullUrl": "https://app.heygen.com/language-Dtfj1p1U.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/script_voice_compatibility-Ajbj8a49.js",
+      "fullUrl": "https://app.heygen.com/script_voice_compatibility-Ajbj8a49.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/detect_language-BMm-2fxL.js",
+      "fullUrl": "https://app.heygen.com/detect_language-BMm-2fxL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_preview_combo-BLW4Y_AR.js",
+      "fullUrl": "https://app.heygen.com/voice_preview_combo-BLW4Y_AR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_voice_by_i_d-DSaC2Dqh.js",
+      "fullUrl": "https://app.heygen.com/use_voice_by_i_d-DSaC2Dqh.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_voice_preview_player-Bzlaudun.js",
+      "fullUrl": "https://app.heygen.com/use_voice_preview_player-Bzlaudun.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/audio-DLEusaC-.js",
+      "fullUrl": "https://app.heygen.com/audio-DLEusaC-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/tts-preview-context-V_8Llb-M.js",
+      "fullUrl": "https://app.heygen.com/tts-preview-context-V_8Llb-M.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-defaults-CTGy8g0E.js",
+      "fullUrl": "https://app.heygen.com/voice-defaults-CTGy8g0E.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/ensure_voice_languages_supported-v69sPVI5.js",
+      "fullUrl": "https://app.heygen.com/ensure_voice_languages_supported-v69sPVI5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/resolve_script_language_warning-Bhsg5dgG.js",
+      "fullUrl": "https://app.heygen.com/resolve_script_language_warning-Bhsg5dgG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_issue_telemetry-Bpz8VI8h.js",
+      "fullUrl": "https://app.heygen.com/voice_issue_telemetry-Bpz8VI8h.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_improve_voice_modal-C1T9gu0s.js",
+      "fullUrl": "https://app.heygen.com/show_improve_voice_modal-C1T9gu0s.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/feedback_context-C9wn1Hmg.js",
+      "fullUrl": "https://app.heygen.com/feedback_context-C9wn1Hmg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/utils-DH7MMlYJ.js",
+      "fullUrl": "https://app.heygen.com/utils-DH7MMlYJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-types-DrUfPr_c.js",
+      "fullUrl": "https://app.heygen.com/voice-types-DrUfPr_c.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_edit_voice_naming-CdsXl1vi.js",
+      "fullUrl": "https://app.heygen.com/use_edit_voice_naming-CdsXl1vi.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_improve_voice_modal_ref-Gk6nbGM1.js",
+      "fullUrl": "https://app.heygen.com/show_improve_voice_modal_ref-Gk6nbGM1.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/mobile_full_screen_drawer-CfnZ2F_5.js",
+      "fullUrl": "https://app.heygen.com/mobile_full_screen_drawer-CfnZ2F_5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-legality-Db3EUokS.js",
+      "fullUrl": "https://app.heygen.com/voice-legality-Db3EUokS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/v_a_prompt_box_glossary-mDu9XoA1.js",
+      "fullUrl": "https://app.heygen.com/v_a_prompt_box_glossary-mDu9XoA1.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_brand_glossary_access-DZXSasrB.js",
+      "fullUrl": "https://app.heygen.com/use_brand_glossary_access-DZXSasrB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/search-dropdown-B3uN5ezm.js",
+      "fullUrl": "https://app.heygen.com/search-dropdown-B3uN5ezm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-rc-L55Ze0rq.js",
+      "fullUrl": "https://app.heygen.com/vendor-rc-L55Ze0rq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-vVhGI7Z4.js",
+      "fullUrl": "https://app.heygen.com/index-vVhGI7Z4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/simple_uploader-0x1dmKJq.js",
+      "fullUrl": "https://app.heygen.com/simple_uploader-0x1dmKJq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-nvFnrwEH.js",
+      "fullUrl": "https://app.heygen.com/index-nvFnrwEH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/loading_prism_v2-DvRTPbCL.js",
+      "fullUrl": "https://app.heygen.com/loading_prism_v2-DvRTPbCL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-BhRXFiVo.js",
+      "fullUrl": "https://app.heygen.com/index-BhRXFiVo.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/constants-dAPCema7.js",
+      "fullUrl": "https://app.heygen.com/constants-dAPCema7.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_recurring_credit_pack_checkout-CZTX8LFK.js",
+      "fullUrl": "https://app.heygen.com/use_recurring_credit_pack_checkout-CZTX8LFK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/hooks-BlIO9wHJ.js",
+      "fullUrl": "https://app.heygen.com/hooks-BlIO9wHJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/upsell_redesign_shell-C_EO_vgD.js",
+      "fullUrl": "https://app.heygen.com/upsell_redesign_shell-C_EO_vgD.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/index-B2XC5kci.js",
+      "fullUrl": "https://app.heygen.com/index-B2XC5kci.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_paywall_state-BIT4lnn-.js",
+      "fullUrl": "https://app.heygen.com/use_paywall_state-BIT4lnn-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_pro_packaging_v3_arm-BO_ny-Gh.js",
+      "fullUrl": "https://app.heygen.com/use_pro_packaging_v3_arm-BO_ny-Gh.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_payment-BnCAh7Uh.js",
+      "fullUrl": "https://app.heygen.com/use_payment-BnCAh7Uh.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/billing_error-CgD4gCj1.js",
+      "fullUrl": "https://app.heygen.com/billing_error-CgD4gCj1.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_add_on_update_feature-CeuRudv3.js",
+      "fullUrl": "https://app.heygen.com/use_add_on_update_feature-CeuRudv3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_rewardful-B4IO4B21.js",
+      "fullUrl": "https://app.heygen.com/use_rewardful-B4IO4B21.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_checkout-B8J0IHpY.js",
+      "fullUrl": "https://app.heygen.com/use_checkout-B8J0IHpY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/stripe_checkout-BiBV4UNH.js",
+      "fullUrl": "https://app.heygen.com/stripe_checkout-BiBV4UNH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_reset_on_bfcache_restore-gU_7xVMT.js",
+      "fullUrl": "https://app.heygen.com/use_reset_on_bfcache_restore-gU_7xVMT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_payment_status-C8ZqyS00.js",
+      "fullUrl": "https://app.heygen.com/use_payment_status-C8ZqyS00.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/blurred_loading_orb-rH0Y-g4h.js",
+      "fullUrl": "https://app.heygen.com/blurred_loading_orb-rH0Y-g4h.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/buy_add_on_button-Cxw4iGMF.js",
+      "fullUrl": "https://app.heygen.com/buy_add_on_button-Cxw4iGMF.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_add_ons-Bd-MkYGg.js",
+      "fullUrl": "https://app.heygen.com/use_add_ons-Bd-MkYGg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/const-CjSiZt6O.js",
+      "fullUrl": "https://app.heygen.com/const-CjSiZt6O.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_api_usage-CPmKRI9p.js",
+      "fullUrl": "https://app.heygen.com/use_api_usage-CPmKRI9p.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_identity_verification_modal-CCjJg6a3.js",
+      "fullUrl": "https://app.heygen.com/show_identity_verification_modal-CCjJg6a3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_cta_usage_gate-EMT9VazH.js",
+      "fullUrl": "https://app.heygen.com/use_cta_usage_gate-EMT9VazH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_guest_restore_emphasis-DjEEX4Wn.js",
+      "fullUrl": "https://app.heygen.com/use_guest_restore_emphasis-DjEEX4Wn.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/tabs-ObVy183M.js",
+      "fullUrl": "https://app.heygen.com/tabs-ObVy183M.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_s_a_home_pod_survey_order-BA5c1Jl9.js",
+      "fullUrl": "https://app.heygen.com/use_s_a_home_pod_survey_order-BA5c1Jl9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_home_skill_deeplink-C_Ax_v29.js",
+      "fullUrl": "https://app.heygen.com/use_home_skill_deeplink-C_Ax_v29.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/contextual_trigger_registry-D_qIaZzM.js",
+      "fullUrl": "https://app.heygen.com/contextual_trigger_registry-D_qIaZzM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/live_contextual_entity-CbW2X_oh.js",
+      "fullUrl": "https://app.heygen.com/live_contextual_entity-CbW2X_oh.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/contextual_entity_state-ByxHd5Tz.js",
+      "fullUrl": "https://app.heygen.com/contextual_entity_state-ByxHd5Tz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/a_i_script_writer_popover-D0DwcBUu.js",
+      "fullUrl": "https://app.heygen.com/a_i_script_writer_popover-D0DwcBUu.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_guided_keyboard_inset-DtxFphD9.js",
+      "fullUrl": "https://app.heygen.com/use_guided_keyboard_inset-DtxFphD9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_a_i_script_writer-drc8yQsV.js",
+      "fullUrl": "https://app.heygen.com/use_a_i_script_writer-drc8yQsV.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/draft-Bu0ClVZT.js",
+      "fullUrl": "https://app.heygen.com/draft-Bu0ClVZT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_get_workflow_result-saCHYUdw.js",
+      "fullUrl": "https://app.heygen.com/use_get_workflow_result-saCHYUdw.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_report_failure_shown-WFvc-HXm.js",
+      "fullUrl": "https://app.heygen.com/use_report_failure_shown-WFvc-HXm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/gpt_writer-C3Mm2tBa.js",
+      "fullUrl": "https://app.heygen.com/gpt_writer-C3Mm2tBa.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/markdown_text-DD0BwxYm.js",
+      "fullUrl": "https://app.heygen.com/markdown_text-DD0BwxYm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/markdown_preload-ZHupaNUc.js",
+      "fullUrl": "https://app.heygen.com/markdown_preload-ZHupaNUc.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/onboarding_prompt_handoff-D79mDnFS.js",
+      "fullUrl": "https://app.heygen.com/onboarding_prompt_handoff-D79mDnFS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_nav_status_feature-BUKQGIcw.js",
+      "fullUrl": "https://app.heygen.com/avatar_nav_status_feature-BUKQGIcw.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_types-Bb2vTB58.js",
+      "fullUrl": "https://app.heygen.com/avatar_types-Bb2vTB58.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_private_group_and_looks_list-CGZMiLaC.js",
+      "fullUrl": "https://app.heygen.com/use_private_group_and_looks_list-CGZMiLaC.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_creation_preview_state-p32rk7Tb.js",
+      "fullUrl": "https://app.heygen.com/avatar_creation_preview_state-p32rk7Tb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_smooth_progress-Bq0GuoxJ.js",
+      "fullUrl": "https://app.heygen.com/use_smooth_progress-Bq0GuoxJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_creation_preview_status_key-DIb595g0.js",
+      "fullUrl": "https://app.heygen.com/avatar_creation_preview_status_key-DIb595g0.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/meet_auto_open_controller-Dqiyyqgn.js",
+      "fullUrl": "https://app.heygen.com/meet_auto_open_controller-Dqiyyqgn.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/rotating_border--JkP8bPt.js",
+      "fullUrl": "https://app.heygen.com/rotating_border--JkP8bPt.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/types-iKzhw3Br.js",
+      "fullUrl": "https://app.heygen.com/types-iKzhw3Br.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_creation_navigation-DABm6HjK.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_creation_navigation-DABm6HjK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/try_open_look_studio-Bcb2ukWB.js",
+      "fullUrl": "https://app.heygen.com/try_open_look_studio-Bcb2ukWB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/look_studio_diagnostics-B9_gnhQg.js",
+      "fullUrl": "https://app.heygen.com/look_studio_diagnostics-B9_gnhQg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_hub_photo_creation_error-CInljdI0.js",
+      "fullUrl": "https://app.heygen.com/avatar_hub_photo_creation_error-CInljdI0.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/submission.service-Bt5uD6Tc.js",
+      "fullUrl": "https://app.heygen.com/submission.service-Bt5uD6Tc.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_source-HA4YtQE_.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_source-HA4YtQE_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/guard_voice_clone_create-BYsZ-60V.js",
+      "fullUrl": "https://app.heygen.com/guard_voice_clone_create-BYsZ-60V.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_limit-CCVit5Bz.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_limit-CCVit5Bz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_digital_twin-BIs8jBhb.js",
+      "fullUrl": "https://app.heygen.com/home_digital_twin-BIs8jBhb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_avatar_cache_keys-WTNaB-oI.js",
+      "fullUrl": "https://app.heygen.com/home_avatar_cache_keys-WTNaB-oI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_group-DSCsW7gK.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_group-DSCsW7gK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_group_poll_intervals-Cp01LSf-.js",
+      "fullUrl": "https://app.heygen.com/avatar_group_poll_intervals-Cp01LSf-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_add_looks_modal-BW4t9pT9.js",
+      "fullUrl": "https://app.heygen.com/use_add_looks_modal-BW4t9pT9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_detail_look_upload-BC6fucch.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_detail_look_upload-BC6fucch.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/reusable_consent_video-DcJGm1aD.js",
+      "fullUrl": "https://app.heygen.com/reusable_consent_video-DcJGm1aD.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/construct_media_metadata-DCPqANJu.js",
+      "fullUrl": "https://app.heygen.com/construct_media_metadata-DCPqANJu.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/create_photo_avatar_const-NK5hU0Os.js",
+      "fullUrl": "https://app.heygen.com/create_photo_avatar_const-NK5hU0Os.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/defaults-Drgz_1ob.js",
+      "fullUrl": "https://app.heygen.com/defaults-Drgz_1ob.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/format-Bmi5tBob.js",
+      "fullUrl": "https://app.heygen.com/format-Bmi5tBob.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/assert-HMi8oRpY.js",
+      "fullUrl": "https://app.heygen.com/assert-HMi8oRpY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-file-type-0c_uxZSz.js",
+      "fullUrl": "https://app.heygen.com/vendor-file-type-0c_uxZSz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-lazy-file-type-ClyutzAa.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-file-type-ClyutzAa.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_delete_upload_item-DQKPkZcp.js",
+      "fullUrl": "https://app.heygen.com/use_delete_upload_item-DQKPkZcp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/temp_photo_uploader-D_0ddOZx.js",
+      "fullUrl": "https://app.heygen.com/temp_photo_uploader-D_0ddOZx.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/recording_submit-PisYWnfT.js",
+      "fullUrl": "https://app.heygen.com/recording_submit-PisYWnfT.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/md5-DxwbpII-.js",
+      "fullUrl": "https://app.heygen.com/md5-DxwbpII-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/capture_video-BuxkKyf7.js",
+      "fullUrl": "https://app.heygen.com/capture_video-BuxkKyf7.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_details_status_cache-BaTskIJL.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_details_status_cache-BaTskIJL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_home_mission_pod_data-CszqVXcJ.js",
+      "fullUrl": "https://app.heygen.com/use_home_mission_pod_data-CszqVXcJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_dev_overrides-DsCU4P2d.js",
+      "fullUrl": "https://app.heygen.com/home_dev_overrides-DsCU4P2d.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_voice_clone_list-CvJK26BG.js",
+      "fullUrl": "https://app.heygen.com/use_voice_clone_list-CvJK26BG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/language_code_map-B90CIa_8.js",
+      "fullUrl": "https://app.heygen.com/language_code_map-B90CIa_8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_list_cache-BIU-NM6j.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_list_cache-BIU-NM6j.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/attach_voice_to_group-BozxKWm2.js",
+      "fullUrl": "https://app.heygen.com/attach_voice_to_group-BozxKWm2.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_make_video_modal-BRIhF5z9.js",
+      "fullUrl": "https://app.heygen.com/show_make_video_modal-BRIhF5z9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_home_selected_avatar_state-D_mgBM_m.js",
+      "fullUrl": "https://app.heygen.com/use_home_selected_avatar_state-D_mgBM_m.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_home_avatar_context-CURQyM_r.js",
+      "fullUrl": "https://app.heygen.com/use_home_avatar_context-CURQyM_r.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_video_prompts_section_with_flow-CmUqHOsd.js",
+      "fullUrl": "https://app.heygen.com/home_video_prompts_section_with_flow-CmUqHOsd.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_video_prompts_section-DnMhTeR_.js",
+      "fullUrl": "https://app.heygen.com/home_video_prompts_section-DnMhTeR_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_skill_card_surface_cache-D_s7Eq60.js",
+      "fullUrl": "https://app.heygen.com/home_skill_card_surface_cache-D_s7Eq60.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_personalize_modal-CeHFpgig.js",
+      "fullUrl": "https://app.heygen.com/show_personalize_modal-CeHFpgig.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/enterprise_monthly_release_notes_modal-DwQs5o8f.js",
+      "fullUrl": "https://app.heygen.com/enterprise_monthly_release_notes_modal-DwQs5o8f.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/enterprise_contract_expiration_modal-CFyifhCo.js",
+      "fullUrl": "https://app.heygen.com/enterprise_contract_expiration_modal-CFyifhCo.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_contract_expiration-Bz6h5Unf.js",
+      "fullUrl": "https://app.heygen.com/use_contract_expiration-Bz6h5Unf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/trustpilot_enrollment_modal-DwYdcEjv.js",
+      "fullUrl": "https://app.heygen.com/trustpilot_enrollment_modal-DwYdcEjv.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_trustpilot_review_modal-CeMA75RQ.js",
+      "fullUrl": "https://app.heygen.com/show_trustpilot_review_modal-CeMA75RQ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/memory-monitor-Bxd_e0BO.js",
+      "fullUrl": "https://app.heygen.com/memory-monitor-Bxd_e0BO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/dom-monitor-D6WhSXDN.js",
+      "fullUrl": "https://app.heygen.com/dom-monitor-D6WhSXDN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/start_pacific_video_listener-CqsEIuHk.js",
+      "fullUrl": "https://app.heygen.com/start_pacific_video_listener-CqsEIuHk.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/app_sync_subscription_client-qagqoh4A.js",
+      "fullUrl": "https://app.heygen.com/app_sync_subscription_client-qagqoh4A.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-aws-Dc8FPXUm.js",
+      "fullUrl": "https://app.heygen.com/vendor-aws-Dc8FPXUm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-lazy-aws-er4vHOjm.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-aws-er4vHOjm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-lazy-livekit-aws-C8JGEQ1e.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-livekit-aws-C8JGEQ1e.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/orby_nav_button_inner-C4kXTq_Q.js",
+      "fullUrl": "https://app.heygen.com/orby_nav_button_inner-C4kXTq_Q.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_orby_pill_shift_store-ficvb6Q4.js",
+      "fullUrl": "https://app.heygen.com/use_orby_pill_shift_store-ficvb6Q4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_atlas_translation-BIETnLTy.js",
+      "fullUrl": "https://app.heygen.com/use_atlas_translation-BIETnLTy.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/companion_identity_icon-nOSqoJjZ.js",
+      "fullUrl": "https://app.heygen.com/companion_identity_icon-nOSqoJjZ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_companion_identity-CVgakb4t.js",
+      "fullUrl": "https://app.heygen.com/use_companion_identity-CVgakb4t.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/live_orby-BU8jkpy2.js",
+      "fullUrl": "https://app.heygen.com/live_orby-BU8jkpy2.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/notification_badge-CHjAP9DM.js",
+      "fullUrl": "https://app.heygen.com/notification_badge-CHjAP9DM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/orby_activity_ready_copy-DxJLN81e.js",
+      "fullUrl": "https://app.heygen.com/orby_activity_ready_copy-DxJLN81e.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/persona_onboarding_nudge_store-DzjoDPRv.js",
+      "fullUrl": "https://app.heygen.com/persona_onboarding_nudge_store-DzjoDPRv.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/orby_activity_store-B6vVwWMy.js",
+      "fullUrl": "https://app.heygen.com/orby_activity_store-B6vVwWMy.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_orby_updates_badge_count-BIPEd1JP.js",
+      "fullUrl": "https://app.heygen.com/use_orby_updates_badge_count-BIPEd1JP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/support_inbox_store-kK7dnOVN.js",
+      "fullUrl": "https://app.heygen.com/support_inbox_store-kK7dnOVN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_shell_drivers-C9U8W_ws.js",
+      "fullUrl": "https://app.heygen.com/atlas_shell_drivers-C9U8W_ws.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/route_readiness-CRWJX7Lw.js",
+      "fullUrl": "https://app.heygen.com/route_readiness-CRWJX7Lw.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_app_access_decision-D03CUa-8.js",
+      "fullUrl": "https://app.heygen.com/avatar_app_access_decision-D03CUa-8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/recording_core-k4cOOxPr.js",
+      "fullUrl": "https://app.heygen.com/recording_core-k4cOOxPr.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_embed_host_context-6tB9AjJK.js",
+      "fullUrl": "https://app.heygen.com/atlas_embed_host_context-6tB9AjJK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/page_surface-B2aQNUiS.js",
+      "fullUrl": "https://app.heygen.com/page_surface-B2aQNUiS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_api-ClO3nxSn.js",
+      "fullUrl": "https://app.heygen.com/atlas_api-ClO3nxSn.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_studio_openers-BO82Kw38.js",
+      "fullUrl": "https://app.heygen.com/atlas_studio_openers-BO82Kw38.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/studio_atlas_ids-BKcZY94i.js",
+      "fullUrl": "https://app.heygen.com/studio_atlas_ids-BKcZY94i.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/hub_state-eSr8dPji.js",
+      "fullUrl": "https://app.heygen.com/hub_state-eSr8dPji.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/profile_draft-1l2XfT5s.js",
+      "fullUrl": "https://app.heygen.com/profile_draft-1l2XfT5s.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_available_apps-CCcR3_VI.js",
+      "fullUrl": "https://app.heygen.com/use_available_apps-CCcR3_VI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/story_tour_layer-yXuDJa3O.js",
+      "fullUrl": "https://app.heygen.com/story_tour_layer-yXuDJa3O.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/open_pop_ups-Bl6MXASM.js",
+      "fullUrl": "https://app.heygen.com/open_pop_ups-Bl6MXASM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/guided_orby_card-D4mPdcxP.js",
+      "fullUrl": "https://app.heygen.com/guided_orby_card-D4mPdcxP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/orby_activity_job_route-BTu9hs0G.js",
+      "fullUrl": "https://app.heygen.com/orby_activity_job_route-BTu9hs0G.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_is_showing_support_chat-D6kPZEsa.js",
+      "fullUrl": "https://app.heygen.com/use_is_showing_support_chat-D6kPZEsa.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/publish_review_preload-C9a-hWAP.js",
+      "fullUrl": "https://app.heygen.com/publish_review_preload-C9a-hWAP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/publish_review_loader-BAURAmq-.js",
+      "fullUrl": "https://app.heygen.com/publish_review_loader-BAURAmq-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/publish_page_source-CzksB7ad.js",
+      "fullUrl": "https://app.heygen.com/publish_page_source-CzksB7ad.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_calendar_publish-CkUSA8qi.js",
+      "fullUrl": "https://app.heygen.com/use_calendar_publish-CkUSA8qi.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_you_tube_publish_connection-ezO7i2xj.js",
+      "fullUrl": "https://app.heygen.com/use_you_tube_publish_connection-ezO7i2xj.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/framed_post_window-CYhbBD9h.js",
+      "fullUrl": "https://app.heygen.com/framed_post_window-CYhbBD9h.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/start_notification_listener-B1HOB5ya.js",
+      "fullUrl": "https://app.heygen.com/start_notification_listener-B1HOB5ya.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/start_avatar_listener-dJHAyA5m.js",
+      "fullUrl": "https://app.heygen.com/start_avatar_listener-dJHAyA5m.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_jobs-C7KVWUJh.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_jobs-C7KVWUJh.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_decisions-g28IUzKf.js",
+      "fullUrl": "https://app.heygen.com/voice_decisions-g28IUzKf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_deep_link-D8MFs-GJ.js",
+      "fullUrl": "https://app.heygen.com/voice_deep_link-D8MFs-GJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_failure-SZTXhZ9w.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_failure-SZTXhZ9w.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_runtime-CN6-r2R3.js",
+      "fullUrl": "https://app.heygen.com/atlas_runtime-CN6-r2R3.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/presenter_prefill_storage-BLlD9DIW.js",
+      "fullUrl": "https://app.heygen.com/presenter_prefill_storage-BLlD9DIW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_page_loading-D-bFBDtN.js",
+      "fullUrl": "https://app.heygen.com/atlas_page_loading-D-bFBDtN.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_aroll_state-DZ8hg-NG.js",
+      "fullUrl": "https://app.heygen.com/atlas_aroll_state-DZ8hg-NG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_avatar_shots_state-CyKjLVby.js",
+      "fullUrl": "https://app.heygen.com/atlas_avatar_shots_state-CyKjLVby.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_menu_registry-BD_9pOHR.js",
+      "fullUrl": "https://app.heygen.com/atlas_menu_registry-BD_9pOHR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_editor_state-BQtQo8SL.js",
+      "fullUrl": "https://app.heygen.com/atlas_editor_state-BQtQo8SL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_video_agent_board-OcmglceR.js",
+      "fullUrl": "https://app.heygen.com/atlas_video_agent_board-OcmglceR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/personalization-hXt_7gPJ.js",
+      "fullUrl": "https://app.heygen.com/personalization-hXt_7gPJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/orby_embed_actions-Bfs4gVNx.js",
+      "fullUrl": "https://app.heygen.com/orby_embed_actions-Bfs4gVNx.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/feedback_lifecycle_bridge-BtNih5ID.js",
+      "fullUrl": "https://app.heygen.com/feedback_lifecycle_bridge-BtNih5ID.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_feedback_tags-C5ssOwiu.js",
+      "fullUrl": "https://app.heygen.com/use_feedback_tags-C5ssOwiu.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/feedback_tag-NNLfJRKW.js",
+      "fullUrl": "https://app.heygen.com/feedback_tag-NNLfJRKW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_quality_feedback_types-CuQyJB1c.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_quality_feedback_types-CuQyJB1c.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_quality_payload-DK0GcADS.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_quality_payload-DK0GcADS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/feedback_api-B_m_RT2b.js",
+      "fullUrl": "https://app.heygen.com/feedback_api-B_m_RT2b.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voices_search_prefill-ceC2FNP8.js",
+      "fullUrl": "https://app.heygen.com/voices_search_prefill-ceC2FNP8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/look_studio_prompt_prefill-GWMCXyJE.js",
+      "fullUrl": "https://app.heygen.com/look_studio_prompt_prefill-GWMCXyJE.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/projects_search_prefill-zsU7gOtP.js",
+      "fullUrl": "https://app.heygen.com/projects_search_prefill-zsU7gOtP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/design_look_prompt_prefill-BD6cxNAJ.js",
+      "fullUrl": "https://app.heygen.com/design_look_prompt_prefill-BD6cxNAJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_shots_prompt_prefill-DXOZx6-e.js",
+      "fullUrl": "https://app.heygen.com/avatar_shots_prompt_prefill-DXOZx6-e.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/synthetic_click-BhPuQj0Q.js",
+      "fullUrl": "https://app.heygen.com/synthetic_click-BhPuQj0Q.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_trustpilot_ask_after_orby-BcWYI0tm.js",
+      "fullUrl": "https://app.heygen.com/show_trustpilot_ask_after_orby-BcWYI0tm.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/atlas_help_api-DT19mmPb.js",
+      "fullUrl": "https://app.heygen.com/atlas_help_api-DT19mmPb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-markdown-DyqfUoqv.js",
+      "fullUrl": "https://app.heygen.com/vendor-markdown-DyqfUoqv.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-lazy-editor-markdown-syntax-BaJN9MlJ.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-editor-markdown-syntax-BaJN9MlJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-html-parse-jOm7EZRq.js",
+      "fullUrl": "https://app.heygen.com/vendor-html-parse-jOm7EZRq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_orby_voice_input-Dulp8EjW.js",
+      "fullUrl": "https://app.heygen.com/use_orby_voice_input-Dulp8EjW.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/chip-CxptclT4.js",
+      "fullUrl": "https://app.heygen.com/chip-CxptclT4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/curriculum-MiiM-Ni6.js",
+      "fullUrl": "https://app.heygen.com/curriculum-MiiM-Ni6.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_academy_navigation-8-RW4y00.js",
+      "fullUrl": "https://app.heygen.com/use_academy_navigation-8-RW4y00.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_companion_greeting-az0mOKGl.js",
+      "fullUrl": "https://app.heygen.com/use_companion_greeting-az0mOKGl.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/changelog-content-CO79nSOL.js",
+      "fullUrl": "https://app.heygen.com/changelog-content-CO79nSOL.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/path-C5QPWrFK.js",
+      "fullUrl": "https://app.heygen.com/path-C5QPWrFK.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_review_updated_modal-qmTdQckz.js",
+      "fullUrl": "https://app.heygen.com/show_review_updated_modal-qmTdQckz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_send_email_invite-qx2wVQcX.js",
+      "fullUrl": "https://app.heygen.com/use_send_email_invite-qx2wVQcX.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_member_credit_list-CeAxul6O.js",
+      "fullUrl": "https://app.heygen.com/use_member_credit_list-CeAxul6O.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_tabs-BJqDsQkz.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_tabs-BJqDsQkz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/look_deep_link-Bo-iFcE5.js",
+      "fullUrl": "https://app.heygen.com/look_deep_link-Bo-iFcE5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/orby_activity_destinations-CgTbOch5.js",
+      "fullUrl": "https://app.heygen.com/orby_activity_destinations-CgTbOch5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/mascot-BT56zxxR.js",
+      "fullUrl": "https://app.heygen.com/mascot-BT56zxxR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/search-BzvZcDAf.js",
+      "fullUrl": "https://app.heygen.com/search-BzvZcDAf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-lazy-sanitize-DowdsyMd.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-sanitize-DowdsyMd.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_v_a_avatar_selection_modal-C4MfWHBE.js",
+      "fullUrl": "https://app.heygen.com/show_v_a_avatar_selection_modal-C4MfWHBE.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_selection_modal_gate-DDC2tGTt.js",
+      "fullUrl": "https://app.heygen.com/avatar_selection_modal_gate-DDC2tGTt.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/looks_grid-D-ngIo4_.js",
+      "fullUrl": "https://app.heygen.com/looks_grid-D-ngIo4_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/generating_skeleton-ClmmofnI.js",
+      "fullUrl": "https://app.heygen.com/generating_skeleton-ClmmofnI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/generating_progress_overlay-C6b6VCy1.js",
+      "fullUrl": "https://app.heygen.com/generating_progress_overlay-C6b6VCy1.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/photo_avatar_look_mask-BjIzL7dU.js",
+      "fullUrl": "https://app.heygen.com/photo_avatar_look_mask-BjIzL7dU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_lite_check-FjCdOM6X.js",
+      "fullUrl": "https://app.heygen.com/use_lite_check-FjCdOM6X.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/event-igjx1WkU.js",
+      "fullUrl": "https://app.heygen.com/event-igjx1WkU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/feedback_detail_content-LWC8d1wI.js",
+      "fullUrl": "https://app.heygen.com/feedback_detail_content-LWC8d1wI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_prefers_reduced_motion-DASFVxro.js",
+      "fullUrl": "https://app.heygen.com/use_prefers_reduced_motion-DASFVxro.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_user_check-BCDAD31k.js",
+      "fullUrl": "https://app.heygen.com/use_user_check-BCDAD31k.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_auth-BQDIEG7Z.js",
+      "fullUrl": "https://app.heygen.com/use_auth-BQDIEG7Z.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_preview_modal-CChvwpbI.js",
+      "fullUrl": "https://app.heygen.com/avatar_preview_modal-CChvwpbI.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/route_create_video-BkAMcpUg.js",
+      "fullUrl": "https://app.heygen.com/route_create_video-BkAMcpUg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/const-BszCuAnu.js",
+      "fullUrl": "https://app.heygen.com/const-BszCuAnu.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/character-CM63scdG.js",
+      "fullUrl": "https://app.heygen.com/character-CM63scdG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_group_voices-BXLGtOcO.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_group_voices-BXLGtOcO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_avatar_add_voice_chooser_modal-B985uz80.js",
+      "fullUrl": "https://app.heygen.com/show_avatar_add_voice_chooser_modal-B985uz80.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_clone_modal-DqyB_1EH.js",
+      "fullUrl": "https://app.heygen.com/voice_clone_modal-DqyB_1EH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/request_voice_clone_quality_feedback-C30owMBU.js",
+      "fullUrl": "https://app.heygen.com/request_voice_clone_quality_feedback-C30owMBU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/audio_playback_bar-BNYO_bzZ.js",
+      "fullUrl": "https://app.heygen.com/audio_playback_bar-BNYO_bzZ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/audio_playback_bar.helpers-BN703J5H.js",
+      "fullUrl": "https://app.heygen.com/audio_playback_bar.helpers-BN703J5H.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_third_party_paywall-pQKOUT3M.js",
+      "fullUrl": "https://app.heygen.com/voice_third_party_paywall-pQKOUT3M.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/url-Cdupvo6j.js",
+      "fullUrl": "https://app.heygen.com/url-Cdupvo6j.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/camera_volume-BPZ2BDqH.js",
+      "fullUrl": "https://app.heygen.com/camera_volume-BPZ2BDqH.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/audio_level-CHNMD6Kj.js",
+      "fullUrl": "https://app.heygen.com/audio_level-CHNMD6Kj.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_hub_creation_presentation-BJAbvKWu.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_hub_creation_presentation-BJAbvKWu.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/close-DgWw_VOS.js",
+      "fullUrl": "https://app.heygen.com/close-DgWw_VOS.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-audio-rec-CX3eg9Jd.js",
+      "fullUrl": "https://app.heygen.com/vendor-audio-rec-CX3eg9Jd.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vendor-lazy-audio-rec-q9C3TYEF.js",
+      "fullUrl": "https://app.heygen.com/vendor-lazy-audio-rec-q9C3TYEF.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-clone-BeVLdNuV.js",
+      "fullUrl": "https://app.heygen.com/voice-clone-BeVLdNuV.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_hub_embedded_styles-Cw0A5Tkb.js",
+      "fullUrl": "https://app.heygen.com/avatar_hub_embedded_styles-Cw0A5Tkb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/qr-image-D0i6qwcb.js",
+      "fullUrl": "https://app.heygen.com/qr-image-D0i6qwcb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/text-with-copy-CRKuEezg.js",
+      "fullUrl": "https://app.heygen.com/text-with-copy-CRKuEezg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/utils-BPBeM4Vb.js",
+      "fullUrl": "https://app.heygen.com/utils-BPBeM4Vb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/instant-CTJx-udF.js",
+      "fullUrl": "https://app.heygen.com/instant-CTJx-udF.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_engine_param_registry-csn-dS_Z.js",
+      "fullUrl": "https://app.heygen.com/use_engine_param_registry-csn-dS_Z.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/speech-CCIalqMe.js",
+      "fullUrl": "https://app.heygen.com/speech-CCIalqMe.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pvc_engine_switch-BkML8SBp.js",
+      "fullUrl": "https://app.heygen.com/pvc_engine_switch-BkML8SBp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-engine-resolution-CJ-ef76r.js",
+      "fullUrl": "https://app.heygen.com/voice-engine-resolution-CJ-ef76r.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/engine_label-qqOa-HC6.js",
+      "fullUrl": "https://app.heygen.com/engine_label-qqOa-HC6.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_voice_clone_limit-DgyBhgHU.js",
+      "fullUrl": "https://app.heygen.com/use_voice_clone_limit-DgyBhgHU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pro_voice_diamond-157Jh4Hz.js",
+      "fullUrl": "https://app.heygen.com/pro_voice_diamond-157Jh4Hz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/panda_retirement-DstKhyAR.js",
+      "fullUrl": "https://app.heygen.com/panda_retirement-DstKhyAR.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cartesia-constants-BNwJaqkB.js",
+      "fullUrl": "https://app.heygen.com/cartesia-constants-BNwJaqkB.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_voice_deprecation_warning-D8__3bwP.js",
+      "fullUrl": "https://app.heygen.com/use_voice_deprecation_warning-D8__3bwP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/fish-constants-GSdn9fLX.js",
+      "fullUrl": "https://app.heygen.com/fish-constants-GSdn9fLX.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/waveform_player-CiveRpHb.js",
+      "fullUrl": "https://app.heygen.com/waveform_player-CiveRpHb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_t_t_s_select_modal-DVCq-03M.js",
+      "fullUrl": "https://app.heygen.com/show_t_t_s_select_modal-DVCq-03M.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/view_header-C6yaq1i0.js",
+      "fullUrl": "https://app.heygen.com/view_header-C6yaq1i0.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice-card.constants-Bmgtz-an.js",
+      "fullUrl": "https://app.heygen.com/voice-card.constants-Bmgtz-an.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/add_on_management_modal-CqH-RUau.js",
+      "fullUrl": "https://app.heygen.com/add_on_management_modal-CqH-RUau.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/add_on_checkout_page-BIEXNAex.js",
+      "fullUrl": "https://app.heygen.com/add_on_checkout_page-BIEXNAex.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/switch_plan_summary_card-bKJz5UY9.js",
+      "fullUrl": "https://app.heygen.com/switch_plan_summary_card-bKJz5UY9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/seat_selector-Cmuhdihp.js",
+      "fullUrl": "https://app.heygen.com/seat_selector-Cmuhdihp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_add_on_checkout_page-BU6UGp73.js",
+      "fullUrl": "https://app.heygen.com/show_add_on_checkout_page-BU6UGp73.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/upsell_switch_content-UWsWhXTP.js",
+      "fullUrl": "https://app.heygen.com/upsell_switch_content-UWsWhXTP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pay-result-DcNbRy48.js",
+      "fullUrl": "https://app.heygen.com/pay-result-DcNbRy48.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_seat_info-D21vLj5r.js",
+      "fullUrl": "https://app.heygen.com/use_seat_info-D21vLj5r.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/success_rebrand-Bo66Pv1X.js",
+      "fullUrl": "https://app.heygen.com/success_rebrand-Bo66Pv1X.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/tts-constants-Dpt03_WG.js",
+      "fullUrl": "https://app.heygen.com/tts-constants-Dpt03_WG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_enable_default_voice_prompt-CaWWURXJ.js",
+      "fullUrl": "https://app.heygen.com/use_enable_default_voice_prompt-CaWWURXJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/ai_look_permission-K18qB7gv.js",
+      "fullUrl": "https://app.heygen.com/ai_look_permission-K18qB7gv.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/text-to-image-BSNltrsq.js",
+      "fullUrl": "https://app.heygen.com/text-to-image-BSNltrsq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_workflow_persistence-CsXR1D5z.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_workflow_persistence-CsXR1D5z.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/image-generate-CYXB08G5.js",
+      "fullUrl": "https://app.heygen.com/image-generate-CYXB08G5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/remix_template_generation-K2kAj9n_.js",
+      "fullUrl": "https://app.heygen.com/remix_template_generation-K2kAj9n_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/t2i-BgIOQrD6.js",
+      "fullUrl": "https://app.heygen.com/t2i-BgIOQrD6.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_image_n_vendor_gate-BYSbruWq.js",
+      "fullUrl": "https://app.heygen.com/use_image_n_vendor_gate-BYSbruWq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/reference_image_types-pF1k4AVc.js",
+      "fullUrl": "https://app.heygen.com/reference_image_types-pF1k4AVc.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_reference_image_type_error-WM4EmJF1.js",
+      "fullUrl": "https://app.heygen.com/use_reference_image_type_error-WM4EmJF1.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/suggest_motion_before_video-DFRe9JiU.js",
+      "fullUrl": "https://app.heygen.com/suggest_motion_before_video-DFRe9JiU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/lazy-BszPQMRJ.js",
+      "fullUrl": "https://app.heygen.com/lazy-BszPQMRJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/home_v4_verification-Cdco-fYz.js",
+      "fullUrl": "https://app.heygen.com/home_v4_verification-Cdco-fYz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_details_page.helpers-BQHVD-d4.js",
+      "fullUrl": "https://app.heygen.com/avatar_details_page.helpers-BQHVD-d4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/feedback_prompt_context_provider-Bhy1165B.js",
+      "fullUrl": "https://app.heygen.com/feedback_prompt_context_provider-Bhy1165B.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_card_badge-D2GaxTIp.js",
+      "fullUrl": "https://app.heygen.com/avatar_card_badge-D2GaxTIp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_card_v2-tD-uEJCw.js",
+      "fullUrl": "https://app.heygen.com/avatar_card_v2-tD-uEJCw.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_show_verification_or_paywall-49FOVS7B.js",
+      "fullUrl": "https://app.heygen.com/use_show_verification_or_paywall-49FOVS7B.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/import_footage_modal-ByGBsiR-.js",
+      "fullUrl": "https://app.heygen.com/import_footage_modal-ByGBsiR-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/get_avatar_name-B6lkU0y0.js",
+      "fullUrl": "https://app.heygen.com/get_avatar_name-B6lkU0y0.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/account_display_name-CwMDoAE4.js",
+      "fullUrl": "https://app.heygen.com/account_display_name-CwMDoAE4.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/emotion-library-BZu9coFt.js",
+      "fullUrl": "https://app.heygen.com/emotion-library-BZu9coFt.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/vertical-masonry-BAVwzpl-.js",
+      "fullUrl": "https://app.heygen.com/vertical-masonry-BAVwzpl-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/utils-cmcZf7XU.js",
+      "fullUrl": "https://app.heygen.com/utils-cmcZf7XU.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/hide_private_video_looks-CVpWPlWQ.js",
+      "fullUrl": "https://app.heygen.com/hide_private_video_looks-CVpWPlWQ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_can_share_non_video_resource-D_ck8o_-.js",
+      "fullUrl": "https://app.heygen.com/use_can_share_non_video_resource-D_ck8o_-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_throttle_size-B7xLhElj.js",
+      "fullUrl": "https://app.heygen.com/use_throttle_size-B7xLhElj.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_new_look_modal-gXHy_hGt.js",
+      "fullUrl": "https://app.heygen.com/show_new_look_modal-gXHy_hGt.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show_avatar_detail_design_look_modal-BGU3R51_.js",
+      "fullUrl": "https://app.heygen.com/show_avatar_detail_design_look_modal-BGU3R51_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/grid-eGldWVrp.js",
+      "fullUrl": "https://app.heygen.com/grid-eGldWVrp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/simple-qZle860i.js",
+      "fullUrl": "https://app.heygen.com/simple-qZle860i.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_scroll_memory-DBVtKbT_.js",
+      "fullUrl": "https://app.heygen.com/use_scroll_memory-DBVtKbT_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/create_first_private_avatar_view-CcAiArEF.js",
+      "fullUrl": "https://app.heygen.com/create_first_private_avatar_view-CcAiArEF.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_click_create_avatar_group-DDfMqc6R.js",
+      "fullUrl": "https://app.heygen.com/use_click_create_avatar_group-DDfMqc6R.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_hub_subject_param-B0waiFGJ.js",
+      "fullUrl": "https://app.heygen.com/avatar_hub_subject_param-B0waiFGJ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar-creation-images-CJua7G8u.js",
+      "fullUrl": "https://app.heygen.com/avatar-creation-images-CJua7G8u.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_click_create_photo_avatar-vgH7Ogat.js",
+      "fullUrl": "https://app.heygen.com/use_click_create_photo_avatar-vgH7Ogat.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/create_photo_avatar_by_upload_modal-Cq-tciR8.js",
+      "fullUrl": "https://app.heygen.com/create_photo_avatar_by_upload_modal-Cq-tciR8.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/voice_selection_modal-DMC_W4y_.js",
+      "fullUrl": "https://app.heygen.com/voice_selection_modal-DMC_W4y_.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/t_t_s_view_embed-DN_qbZzb.js",
+      "fullUrl": "https://app.heygen.com/t_t_s_view_embed-DN_qbZzb.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/pick_photo_file-oWYNCeWY.js",
+      "fullUrl": "https://app.heygen.com/pick_photo_file-oWYNCeWY.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/validate_file_for_upload-BFIYI6_N.js",
+      "fullUrl": "https://app.heygen.com/validate_file_for_upload-BFIYI6_N.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/create_photo_avatar_by_generate_modal-C5CRgxkZ.js",
+      "fullUrl": "https://app.heygen.com/create_photo_avatar_by_generate_modal-C5CRgxkZ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_quota-ZkKNhGKt.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_quota-ZkKNhGKt.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_avatar_group_actions-D4GHbAPG.js",
+      "fullUrl": "https://app.heygen.com/use_avatar_group_actions-D4GHbAPG.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/share_group_to_space-Z80L0wG-.js",
+      "fullUrl": "https://app.heygen.com/share_group_to_space-Z80L0wG-.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/rename_modal-DYNFlMcZ.js",
+      "fullUrl": "https://app.heygen.com/rename_modal-DYNFlMcZ.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_create_avatar_actions-Bo6DTlAy.js",
+      "fullUrl": "https://app.heygen.com/use_create_avatar_actions-Bo6DTlAy.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_lite_photo_avatar_upload-BnjcFbBx.js",
+      "fullUrl": "https://app.heygen.com/use_lite_photo_avatar_upload-BnjcFbBx.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/base_look_upload_card-3VdWAShs.js",
+      "fullUrl": "https://app.heygen.com/base_look_upload_card-3VdWAShs.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_create_card_v2-TjYDRwbg.js",
+      "fullUrl": "https://app.heygen.com/avatar_create_card_v2-TjYDRwbg.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/avatar_create_look_card-Bk7kcNr7.js",
+      "fullUrl": "https://app.heygen.com/avatar_create_look_card-Bk7kcNr7.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/folder_breadcrumb_title-Bvfwjcsp.js",
+      "fullUrl": "https://app.heygen.com/folder_breadcrumb_title-Bvfwjcsp.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_orby_panel_close-B2-NyxIO.js",
+      "fullUrl": "https://app.heygen.com/use_orby_panel_close-B2-NyxIO.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/use_open_persona_onboarding_modal-DO0_ddex.js",
+      "fullUrl": "https://app.heygen.com/use_open_persona_onboarding_modal-DO0_ddex.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/persona_onboarding_avatars-BT53BmfF.js",
+      "fullUrl": "https://app.heygen.com/persona_onboarding_avatars-BT53BmfF.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/theme_transition_slot-DYMqc2o5.js",
+      "fullUrl": "https://app.heygen.com/theme_transition_slot-DYMqc2o5.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/paywall_focus_tier-_uogldEq.js",
+      "fullUrl": "https://app.heygen.com/paywall_focus_tier-_uogldEq.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/show-TYBE8DHf.js",
+      "fullUrl": "https://app.heygen.com/show-TYBE8DHf.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/types-D1PzGjcz.js",
+      "fullUrl": "https://app.heygen.com/types-D1PzGjcz.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/credit_rollover_card--63IY-l6.js",
+      "fullUrl": "https://app.heygen.com/credit_rollover_card--63IY-l6.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cursor_handle-CqqW7FGM.js",
+      "fullUrl": "https://app.heygen.com/cursor_handle-CqqW7FGM.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/cursor_motion-B5L3Ft08.js",
+      "fullUrl": "https://app.heygen.com/cursor_motion-B5L3Ft08.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/professional_voice_clone_upsell_audio_compare-CQWtg8p9.js",
+      "fullUrl": "https://app.heygen.com/professional_voice_clone_upsell_audio_compare-CQWtg8p9.js",
+      "rel": "modulepreload",
+      "as": "script"
+    },
+    {
+      "href": "/media-C4jD5dUP.js",
+      "fullUrl": "https://app.heygen.com/media-C4jD5dUP.js",
+      "rel": "modulepreload",
+      "as": "script"
+    }
+  ]
+}

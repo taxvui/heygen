@@ -1,0 +1,155 @@
+[
+  {
+    "id": "route-home",
+    "path": "/home",
+    "title": "HeyGen - Home",
+    "scrollBehavior": "Single-screen layout (no vertical overflow beyond 917px viewport)",
+    "pagination": "None (fixed 4-step account setup + 3x2 Video Prompts grid)",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-home-video-agent",
+    "path": "/home/video-agent",
+    "title": "HeyGen - Home (Video Agent)",
+    "scrollBehavior": "Scrollable main container: Top 2-column composer + Bottom 6-tab Template Gallery (29 cards across 5 category regions)",
+    "pagination": "None (all 29 cards rendered across 5 sections in For You tabpanel)",
+    "lazyLoading": "Scroll-triggered drawer items in Intros (27 video hooks) and Captions (75 HyperFrames styles)",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-home-studio",
+    "path": "/home/studio",
+    "title": "HeyGen - Home (Welcome to AI Studio)",
+    "scrollBehavior": "Scrollable main container: Get started (New video landscape/portrait) + Use a template (11 category tabs, 9 initial cards expanding via See More to 19+ cards)",
+    "pagination": "See More button expands template grid from 9 cards to 19+ cards",
+    "lazyLoading": "Dual-resolution template thumbnails (tr:h-600 and tr:h-1200)",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-home-photo-to-video",
+    "path": "/home/photo-to-video",
+    "title": "HeyGen - Home (Single scene)",
+    "scrollBehavior": "Top composer card (Presenter | Cinematic tabs) + Bottom Recent Creations section (All Projects link + empty state)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-home-translate",
+    "path": "/home/translate",
+    "title": "HeyGen - Home (Translate)",
+    "scrollBehavior": "Centered single-screen card (Translate your videos in 175+ languages)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-avatar-my-avatars",
+    "path": "/avatar/my-avatars",
+    "title": "HeyGen - Avatar (My Avatars & Public Avatars)",
+    "scrollBehavior": "My Avatars tab: centered 4-card fan empty state. Public Avatars tab (?tab=public): scrollable 2-column Bento grid with 33+ public avatars (3 lookpack images each) + Grid/List toggle + 6 category pills",
+    "pagination": "Incremental scroll loads 33+ public avatar Bento cards",
+    "lazyLoading": "IntersectionObserver lazy image loading on Bento cards",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-avatar-detail",
+    "path": "/avatar/my-avatars/[id]",
+    "title": "HeyGen - Public Avatar Looks Profile (Annie - 57 looks)",
+    "scrollBehavior": "Scrollable 4-column grid of avatar looks",
+    "pagination": "None",
+    "lazyLoading": "Look thumbnail lazy loading",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-avatars-create-hub",
+    "path": "/avatars/create/avatar-hub",
+    "title": "HeyGen - AI Spokesperson Video Creator (Avatar Creation Hub)",
+    "scrollBehavior": "Full-screen centered step wizard: Step 1 (Who is this avatar of? Myself vs A new character) -> Step 2a (Myself: Appearance + Motion + Voice = Avatar) & Step 2b (A new character: Appearance + Voice = Avatar)",
+    "pagination": "Multi-step wizard",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-avatar-voices",
+    "path": "/avatar/voices",
+    "title": "HeyGen - Avatar (Voices)",
+    "scrollBehavior": "3 top creation cards + My voices / HeyGen library tabs + filter bar + 29 voice rows + See More pagination button",
+    "pagination": "See More button loads additional voice batches beyond initial 29 voices",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-brand",
+    "path": "/brand",
+    "title": "HeyGen - Brand Kit (Brand Systems)",
+    "scrollBehavior": "Centered empty state (Keep every video on-brand + New Brand System button)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-brand-new",
+    "path": "/brand/new",
+    "title": "HeyGen - Brand Kit (New Brand System)",
+    "scrollBehavior": "Top website URL importer + 6 category tabs (General, Personal Brand, Course & E-Learning, Corporate Training, Creator Channels, Real Estate) + 7 preset sections (Modern, Minimal, Bold, Elegant, Playful, Retro, Professional — 49 preset cards total) + inline preset preview bar",
+    "pagination": "None (all 49 presets grouped in 7 sections)",
+    "lazyLoading": "Preset cards render styled typographic previews",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-apps",
+    "path": "/apps",
+    "title": "HeyGen - Apps (App Library)",
+    "scrollBehavior": "Scrollable main container: Prompt to Video hero + 5 category filter pills (All Apps, Create, Enhance, Edit, Interactive) + 3 featured cards + 3 categorized app sections (14 cards total)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-apps-integrations",
+    "path": "/apps/integrations",
+    "title": "HeyGen - Apps (Integrations)",
+    "scrollBehavior": "Scrollable 3-column grid of 20 partner integration cards (ChatGPT App through viaSocket)",
+    "pagination": "None (all 20 cards in single view)",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-apps-video-podcast",
+    "path": "/apps/video-podcast-v2",
+    "title": "HeyGen - Apps (New Podcast)",
+    "scrollBehavior": "Scrollable dual-speaker podcast studio card (Host & Guest Marieke cards, Swap speakers, Host/Guest Language, Podcast Content, Attach a document, Suggest a topic, Use my own script, Quality 720p/1080p, Video Layout 16:9, Length 1 min, Scene Instructions, Generate Preview)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-apps-video-agent",
+    "path": "/apps/video-agent",
+    "title": "HeyGen - Apps (Video Agent)",
+    "scrollBehavior": "Back to Apps breadcrumb + 2-column Video Agent composer + 3 bottom quick action cards (Photo to Video, Translate Video, Create Avatar)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-projects",
+    "path": "/projects",
+    "title": "HeyGen - Projects",
+    "scrollBehavior": "6 filter tabs (My Projects, Avatar Video, Agent, Translations, Apps, Assets) + Search/Upload/Filter/View/Sort toolbar + project list or observed reference empty/retry state",
+    "pagination": "Cursor-based project items list",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  },
+  {
+    "id": "route-developers-api",
+    "path": "/developers/api",
+    "title": "HeyGen - Developers (Get started with the API)",
+    "scrollBehavior": "Top Playground Beta banner + 11 left sidebar items (Overview, Billing, Usage, Models, Webhook, Connections, API Doc, MCP, CLI, Skills, Changelog) + 3-step API onboarding cards ($15..$500 top-up presets, Generate API key, Set up auto-reload, All set / Skip)",
+    "pagination": "None",
+    "lazyLoading": "None",
+    "collectedAt": "2026-11-22T16:44:43.603Z"
+  }
+]

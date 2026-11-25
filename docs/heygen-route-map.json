@@ -1,0 +1,533 @@
+{
+  "generatedAt": "2026-11-22T14:54:00.000Z",
+  "referenceOrigin": "https://app.heygen.com",
+  "localOrigin": "http://localhost:3000",
+  "totalObservedRoutes": 17,
+  "routes": [
+    {
+      "referencePath": "/home",
+      "localPath": "/home",
+      "pageTitle": "HeyGen - Home",
+      "layout": "286px floating dual-pane sidebar (78px primary icon rail + 208px Create drawer) + main content container (x=304px, max-w-1050px, px-32px, pt-58px) with ambient radial prism aura",
+      "components": [
+        "AppShell Floating Dual-Pane Sidebar",
+        "Welcome to HeyGen Hero Heading (32px/38px TT Norms Pro Bold)",
+        "Finish your account setup - 0/4 Frosted Container (973x248px, 4-column step grid)",
+        "Video Prompts 3x2 Grid (6x 313x176.0625px cards with ABC Solar Display titles and frosted Create Now > pills)",
+        "Personalize Feed Modal Trigger"
+      ],
+      "interactions": [
+        "Step 1 Get Started -> Create Custom Avatar & Likeness Consent Modal",
+        "Step 2 Review your Voice -> /avatar/voices",
+        "Step 3 Create a Look -> Create Avatar Look Generator Modal",
+        "Step 4 Make your first video -> /apps/studio",
+        "Video Prompt Card click -> /home/video-agent?category=...&prompt=...",
+        "Personalize link -> Personalize Video Prompts Modal"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): Top 56px header + 270px slide-out drawer + bottom 5-tab bar; 1-column card stack",
+        "Tablet (768x1024 - 1024x1366): 2-column setup and prompt grids",
+        "Desktop (1280x720 - 2560x1440): 4-column setup grid + 3-column Video Prompts grid"
+      ],
+      "assets": [
+        "/heygen-assets/logos/PRISM_ORB.svg",
+        "/heygen-assets/images/prompt-ads-promo.png",
+        "/heygen-assets/images/prompt-educational-video.jpg",
+        "/heygen-assets/images/prompt-expert-explainer.png",
+        "/heygen-assets/images/prompt-tips-how-to.jpg",
+        "/heygen-assets/images/prompt-news-brief.jpg",
+        "/heygen-assets/images/prompt-video-podcast.jpg"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/home-dashboard-1440x900.png",
+        "tests/visual/home/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/home/video-agent",
+      "localPath": "/home/video-agent",
+      "pageTitle": "HeyGen - Video Agent",
+      "layout": "286px floating dual-pane sidebar + top-right Ask Orby & Upgrade pills + 12-column (5+7) Video Agent composer grid",
+      "components": [
+        "What should your video be about? Heading",
+        "Left Card (5 cols): Add inspiration 2-column 5-card grid (+ Recreate, Intros, Captions, Format live video, Brand)",
+        "Right Card (7 cols): Avatar and References header + 3-Auto rounded-full pill track ([Avatar Auto], [Voice Auto], [Ratio Auto]) + external [+] button + Script textarea + Script Writer, Auto-pilot, and cyan-ringed Generate video CTA"
+      ],
+      "interactions": [
+        "+ Recreate -> Reference Video URL structure modal",
+        "Intros / Captions / Format / Brand -> Inspiration Explorer preset modal",
+        "Script Writer -> AI 2-scene script generator",
+        "Auto-pilot / Scene-by-Scene mode toggle",
+        "Generate video -> POST /api/projects + POST /api/jobs (real FFmpeg MP4 render)"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): Stacked single-column Inspiration card + Composer card",
+        "Tablet (768x1024 - 1024x1366): Stacked 1-column or 12-column split at 1024px",
+        "Desktop (1280x720 - 2560x1440): Side-by-side 5+7 column cards (630px height)"
+      ],
+      "assets": [
+        "/heygen-assets/images/agent-internal-update.jpg",
+        "/heygen-assets/images/video-agent-captions.jpg",
+        "/heygen-assets/videos/prompt-builder-hub.mp4",
+        "/heygen-assets/images/video-agent-brand.jpg"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/home-video-agent-1440x900.png",
+        "tests/visual/home-video-agent/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/home/photo-to-video",
+      "localPath": "/home/photo-to-video",
+      "pageTitle": "HeyGen - Single Scene",
+      "layout": "286px floating dual-pane sidebar + centered 700px AvatarScriptComposerView (arrow-circle submit variant) + 700px Recent Creations section",
+      "components": [
+        "What should your avatar say? Heading",
+        "Presenter | Cinematic Segmented Pill Switcher",
+        "700px Script Composer Card (96x174px dashed avatar slot, VIDEO SCRIPT textarea, upload/record trigger, Avatar V selector, Motion toggle, Voice selector + play button, 9:16/16:9 ratio toggle, 720p/1080p toggle, circular arrow submit)",
+        "Recent Creations Grid / Empty State (empty-looks.svg)"
+      ],
+      "interactions": [
+        "Avatar slot click -> Quick Avatar Picker popover",
+        "upload/record click -> Upload or Record Audio Script modal",
+        "Voice play button -> Web Speech TTS preview",
+        "Circular arrow submit -> POST /api/projects + POST /api/jobs talking_avatar render"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): Fluid composer card with wrapped bottom control pills",
+        "Tablet & Desktop (768x1024 - 2560x1440): Centered 700px composer card"
+      ],
+      "assets": [
+        "/heygen-assets/icons/empty-looks.svg",
+        "/heygen-assets/thumbnails/avatar-annie-main.webp"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/home-single-scene-1440x900.png",
+        "tests/visual/home-single-scene/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/home/translate",
+      "localPath": "/home/translate",
+      "pageTitle": "HeyGen - Video Translation",
+      "layout": "286px floating dual-pane sidebar + centered 808px 2-column translation launcher (394x308px dark media card + 394x308px dashed dropzone) + Recent Translations",
+      "components": [
+        "Translate your videos in 175+ languages Heading",
+        "Left Dark Preview Card (394x308px, video-translate-hero-poster.png + video-translate-demo.mp4)",
+        "Right Dashed Dropzone Card (394x308px, video-upload-illustration.png, Upload & Paste a URL buttons)",
+        "Target Language & Lip-Sync Dubbing Configurator Modal",
+        "Recent Translations Section"
+      ],
+      "interactions": [
+        "Upload button -> File input -> Language & Lip-Sync modal",
+        "Paste a URL button -> URL input -> Language & Lip-Sync modal",
+        "Start Translation -> POST /api/projects + POST /api/jobs video_translation with dubbed MP4 + SRT output"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): 1-column stack of preview card and dropzone",
+        "Tablet & Desktop (768x1024 - 2560x1440): 2-column 394x308px paired cards"
+      ],
+      "assets": [
+        "/heygen-assets/images/video-translate-hero-poster.png",
+        "/heygen-assets/videos/video-translate-demo.mp4",
+        "/heygen-assets/icons/video-upload-illustration.png"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/home-translate-1440x900.png",
+        "tests/visual/home-translate/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/avatar/my-avatars",
+      "localPath": "/avatar/my-avatars",
+      "pageTitle": "HeyGen - Avatars (My Avatars)",
+      "layout": "286px floating dual-pane sidebar (Manage Avatars drawer) + top My Avatars | Public Avatars cyan underline tabs + top-right + New Avatar, Ask Orby & Upgrade pills + 700px AvatarScriptComposerView (Generate pill variant)",
+      "components": [
+        "My Avatars | Public Avatars Underline Tabs",
+        "+ New Avatar Charcoal Pill Button",
+        "700px Avatar Script Composer with Generate Pill Button",
+        "Recent Creations Section"
+      ],
+      "interactions": [
+        "Tab switch to Public Avatars -> /avatar/my-avatars?tab=public",
+        "+ New Avatar -> Create Custom Avatar & Likeness Consent Modal",
+        "Generate button -> Real FFmpeg talking avatar MP4 generation"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): Wrapped header tabs + fluid composer card",
+        "Tablet & Desktop (768x1024 - 2560x1440): Centered 700px composer below top tab bar"
+      ],
+      "assets": [
+        "/heygen-assets/icons/empty-looks.svg"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/avatar-my-avatars-1440x900.png",
+        "tests/visual/avatar-my-avatars/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/avatar/my-avatars?tab=public",
+      "localPath": "/avatar/my-avatars?tab=public",
+      "pageTitle": "HeyGen - Public Avatars",
+      "layout": "286px floating dual-pane sidebar + top My Avatars | Public Avatars tabs + Search/Filters/Grid-List toolbar + 6 category chips + 2-column 352px multi-look Bento grid (8+4 column split)",
+      "components": [
+        "Search Input + Filters Gender Popover + Grid/List Segmented Toggle",
+        "Category Chips (All, Professional, Lifestyle, UGC, Community, Favorites)",
+        "2-Column Multi-Look Bento Cards (352px height, 8-col main portrait + 4-col 2 stacked outfit thumbnails, NEW badge, favorite heart button, inline hover video preview)",
+        "Avatar Detail & Video Preview Modal"
+      ],
+      "interactions": [
+        "Hover Bento card -> Inline muted <video> preview playback",
+        "Click Bento card -> Avatar Detail & Multi-Look Video Preview modal",
+        "Click Heart icon -> PATCH /api/avatars favorite toggle",
+        "Category chips & Search -> Real-time filtering"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): 1-column Bento cards",
+        "Tablet & Desktop (768x1024 - 2560x1440): 2-column Bento grid (gap-x-20px, gap-y-34px)"
+      ],
+      "assets": [
+        "/heygen-assets/thumbnails/avatar-annie-main.webp",
+        "/heygen-assets/thumbnails/avatar-annie-look1.webp",
+        "/heygen-assets/thumbnails/avatar-annie-look2.webp",
+        "/heygen-assets/thumbnails/avatar-marieke-main.webp",
+        "/heygen-assets/thumbnails/avatar-marieke-look1.webp",
+        "/heygen-assets/thumbnails/avatar-marieke-look2.webp",
+        "/heygen-assets/thumbnails/avatar-sawyer-main.png",
+        "/heygen-assets/thumbnails/avatar-sawyer-chair.webp",
+        "/heygen-assets/thumbnails/avatar-sawyer-brick.webp",
+        "/heygen-assets/thumbnails/avatar-cora-main.webp",
+        "/heygen-assets/thumbnails/avatar-cora-look1.webp",
+        "/heygen-assets/thumbnails/avatar-cora-look2.webp",
+        "/heygen-assets/videos/avatar-preview-talk.mp4"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/avatar-public-avatars-1440x900.png",
+        "tests/visual/avatar-public-avatars/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/avatar/public-avatars",
+      "localPath": "/avatar/public-avatars",
+      "pageTitle": "HeyGen - 404 Not Found",
+      "layout": "286px floating dual-pane sidebar + centered 404 error illustration (404-error-cat.png) + Take Me Home CTA",
+      "components": [
+        "404-error-cat.png Illustration",
+        "Sorry, we can't find that page Heading",
+        "Take Me Home Charcoal Pill Button"
+      ],
+      "interactions": [
+        "Take Me Home click -> /home"
+      ],
+      "responsiveStates": [
+        "All viewports (320x568 - 2560x1440): Centered vertical stack"
+      ],
+      "assets": [
+        "/heygen-assets/images/404-error-cat.png"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/avatar-404-1440x900.png",
+        "tests/visual/avatar-404/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/avatar/voices",
+      "localPath": "/avatar/voices",
+      "pageTitle": "HeyGen - Voices",
+      "layout": "286px floating dual-pane sidebar + 3 top 68px voice creation action cards (max-w-820px) + My voices | HeyGen library tabs + Search & 3 filter pills + 68px voice table rows",
+      "components": [
+        "3 Top Action Cards (Create your HeyGen voice, Design a voice, Import from 3rd party)",
+        "My voices | HeyGen library Cyan Underline Tabs",
+        "Search voices Input + All languages (flag-globe.webp) + All genders + 0 Filters Pill Dropdowns",
+        "Voice Table Rows (68px height, Play/Stop button, Name + Subtitle tags, Public green badge, Country flag, More settings button)"
+      ],
+      "interactions": [
+        "Top 3 action cards -> Create/Clone/Import Voice Modal with Voice Consent recording",
+        "Row Play button -> Web Speech TTS sample playback",
+        "Language & Gender dropdowns -> Real-time table filtering",
+        "Row '...' button -> Voice speed & favorite settings drawer"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): 1-column action cards + wrapped filter pills + scrollable voice rows",
+        "Tablet & Desktop (768x1024 - 2560x1440): 3-column action cards + 820px voice table"
+      ],
+      "assets": [
+        "/heygen-assets/icons/flag-globe.webp",
+        "/heygen-assets/icons/flag-us.png",
+        "/heygen-assets/icons/flag-gb.png",
+        "/heygen-assets/icons/flag-au.png",
+        "/heygen-assets/icons/flag-ie.png"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/avatar-voices-1440x900.png",
+        "tests/visual/avatar-voices/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/brand",
+      "localPath": "/brand",
+      "pageTitle": "HeyGen - Brand Systems",
+      "layout": "286px floating dual-pane sidebar (Brand drawer with 'No brand systems yet') + Brand Systems header + 540px radial dotted canvas with floating Brand Kit collage and + New Brand System CTA",
+      "components": [
+        "Brand Systems Heading & Subtitle",
+        "Radial Dotted Canvas (18x18px dot grid)",
+        "Floating Collage (Eric yellow collaboration tag, purple Apply brand kit card, pink & sage Fiora preview cards)",
+        "+ New Brand System CTA & Interactive Brand Kit Configurator"
+      ],
+      "interactions": [
+        "+ New Brand System -> Opens Brand Color Swatches & Primary Brand Font configurator (PATCH /api/workspace)"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): Scaled collage (scale-[0.56]) inside overflow-hidden dotted canvas",
+        "Tablet & Desktop (768x1024 - 2560x1440): Full 540x270px collage inside dotted canvas"
+      ],
+      "assets": [
+        "/heygen-assets/thumbnails/avatar-sawyer-main.png",
+        "/heygen-assets/thumbnails/avatar-annie-main.webp",
+        "/heygen-assets/logos/PRISM_ORB.svg"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/brand-systems-1440x900.png",
+        "tests/visual/brand-systems/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/brand/glossary",
+      "localPath": "/brand/glossary",
+      "pageTitle": "HeyGen - Brand Glossary",
+      "layout": "286px floating dual-pane sidebar + Brand Glossary header + pronunciation term table & Add Term form",
+      "components": [
+        "Brand Glossary Header & Search",
+        "Add Pronunciation Term Form (Term, Language, Phonetic Pronunciation)",
+        "Glossary Terms Table with Delete action"
+      ],
+      "interactions": [
+        "Add Term -> PATCH /api/workspace persists glossary entry",
+        "Delete Term -> PATCH /api/workspace removes entry"
+      ],
+      "responsiveStates": [
+        "Mobile to Desktop (320x568 - 2560x1440): Responsive form grid and table"
+      ],
+      "assets": [],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/implementation/impl-brand-glossary-1440x900.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/apps",
+      "localPath": "/apps",
+      "pageTitle": "HeyGen - App Library",
+      "layout": "286px floating dual-pane sidebar (Apps drawer without RECENTS) + top-right Upgrade pill (no Ask Orby) + 948x212px Prompt to Video lavender-blue hero banner + 5 segmented category tabs + 3-column App cards",
+      "components": [
+        "App Library Heading",
+        "Prompt to Video Hero Banner (948x212px, Try Video Agent -> CTA, apps-v2-video-agent-banner.jpg)",
+        "Centered Segmented Category Pill Tabs (All Apps, Create, Enhance, Edit, Interactive)",
+        "3-Column App Cards (Translate Videos, PPT/PDF to Video, Creative Studio with ABC Solar Display titles)"
+      ],
+      "interactions": [
+        "Try Video Agent -> /home/video-agent",
+        "Category tabs -> Filters app catalog",
+        "App cards -> Navigates to /home/translate, /apps/studio, /home/video-agent, /home/photo-to-video, /avatar/voices"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): Stacked hero banner + wrapped category pills + 1-column app cards",
+        "Tablet (768x1024 - 1024x1366): 2-column app cards",
+        "Desktop (1280x720 - 2560x1440): 3-column app cards"
+      ],
+      "assets": [
+        "/heygen-assets/images/apps-v2-video-agent-banner.jpg",
+        "/heygen-assets/images/apps-v2-video-translate.jpg",
+        "/heygen-assets/images/apps-v2-pdf-ppt.jpg",
+        "/heygen-assets/images/apps-v2-ai-video-generator.jpg"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/apps-library-1440x900.png",
+        "tests/visual/apps-library/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/apps/integrations",
+      "localPath": "/apps/integrations",
+      "pageTitle": "HeyGen - Integrations",
+      "layout": "286px floating dual-pane sidebar (Apps drawer with RECENTS) + Integrations header (pt-48px, pl-52px) + 4-column partner integration grid (16 cards)",
+      "components": [
+        "Integrations Heading & Subtitle",
+        "16 Partner Cards (182px height, 44x44px brand tile, NEW green badge, external arrow circle, title & 3-line description)",
+        "Integration Connection & Webhook Configurator Modal"
+      ],
+      "interactions": [
+        "Click partner card -> Connect / Disconnect integration & Send Test Webhook Event"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): 1-column cards",
+        "Tablet (768x1024 - 1024x1366): 2-column cards",
+        "Desktop (1280x720 - 2560x1440): 4-column cards"
+      ],
+      "assets": [],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/apps-integrations-1440x900.png",
+        "tests/visual/apps-integrations/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/apps/studio",
+      "localPath": "/apps/studio",
+      "pageTitle": "HeyGen - AI Studio",
+      "layout": "Landing mode: 286px floating dual-pane sidebar + < Back to Apps breadcrumb + centered Welcome to AI Studio + 288x200px dashed New video card + 970px Use a template block. Editor mode (?editor=1): Full-screen 4-zone AI Studio Editor",
+      "components": [
+        "Landing: < Back to Apps, Get started dashed 288x200px New video card (16:9 / 9:16 toggle), Use a template 9-tab 3-column grid",
+        "Editor (?editor=1): Top header bar (Undo/Redo/Copy/Paste, 16:9 & 9:16 switcher, History drawer, Export Video), Left 8-tab Asset & Scene Drawer (322px), Center Draggable Stage Canvas, Right 5-tab Properties Inspector (310px), Bottom Multi-Track Timeline (195px)"
+      ],
+      "interactions": [
+        "New video card or Template card click -> Opens 4-zone AI Studio Editor",
+        "Add/reorder/delete scenes, drag/resize canvas layers, edit narration script & voice, scrub timeline",
+        "Export Video -> Real local ffmpeg-static MP4 + SRT subtitle render"
+      ],
+      "responsiveStates": [
+        "Mobile & Tablet (<1024px): Top segmented pane switcher (Assets | Canvas | Inspector) in Editor",
+        "Desktop (1024px - 2560x1440): Full 3-column workspace + bottom timeline"
+      ],
+      "assets": [
+        "/heygen-assets/thumbnails/template-focus-intro.jpg",
+        "/heygen-assets/thumbnails/template-sales-report.jpg",
+        "/heygen-assets/thumbnails/avatar-kurt-look2.webp"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/apps-ai-studio-1440x900.png",
+        "tests/visual/apps-ai-studio/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/projects",
+      "localPath": "/projects",
+      "pageTitle": "HeyGen - Projects",
+      "layout": "286px floating dual-pane sidebar (Projects drawer: My Projects, New Folder, bottom Trash) + Projects heading + 6 underline tabs + 4 circular utility buttons (Search, Filter, List/Grid, Sort)",
+      "components": [
+        "Projects Heading",
+        "6 Filter Tabs (My Projects, Avatar Video, Agent, Translations, Apps, Assets)",
+        "4 Circular Utility Icon Buttons (36x36px: Search, Filter, List/Grid, Sort)",
+        "Project Cards Grid / List (Rename, Duplicate, Version History, Trash, Open Studio) & Assets Management View"
+      ],
+      "interactions": [
+        "Tab switching (My Projects .. Assets)",
+        "Search, status filter, grid/list toggle, sort order toggle",
+        "Project rename, duplicate, version history inspection, trash/delete, and Open in AI Studio",
+        "Assets tab -> Multipart file upload + signed delivery URL copy"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): Wrapped filter tabs + 1-column project cards",
+        "Tablet (768x1024 - 1024x1366): 2-column project cards",
+        "Desktop (1280x720 - 2560x1440): 3-column project cards"
+      ],
+      "assets": [
+        "/heygen-assets/thumbnails/template-focus-intro.jpg",
+        "/heygen-assets/thumbnails/template-sales-report.jpg",
+        "/heygen-assets/images/prompt-ads-promo.png"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/projects-1440x900.png",
+        "tests/visual/projects/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/developers/api",
+      "localPath": "/developers/api",
+      "pageTitle": "HeyGen - Developers & API",
+      "layout": "Full-viewport fixed top 40px Beta announcement banner + 286px floating dual-pane sidebar (Developers drawer: Overview, Billing, Usage, Models, Webhook, Connections + external links) + Get started with the API 3-step wizard",
+      "components": [
+        "Top 40px Announcement Banner (Try HeyGen Platform and API Playground Beta)",
+        "Step 1 Card: Add funds to your balance ($0 input, $15/$30/$50/$100/$250/$500 preset pills, Add funds button)",
+        "Step 2 Card: Generate your first API key",
+        "Step 3 Card: Set up auto-reload (Optional badge, Turn on toggle)",
+        "Bottom All set & Skip Pill Buttons"
+      ],
+      "interactions": [
+        "Preset amount pills + Add funds -> POST /api/billing top_up_credits",
+        "Generate API key -> Generates hg_live_... key with copy action",
+        "Turn on -> POST /api/billing toggle_auto_reload",
+        "Secondary sidebar sub-routes (/developers/billing, /developers/usage, /developers/models, /developers/webhook, /developers/connections)"
+      ],
+      "responsiveStates": [
+        "Mobile (320x568 - 430x932): 1-column stacked Step 1 card",
+        "Tablet & Desktop (768x1024 - 2560x1440): 12-column Step 1 card + numbered step circles"
+      ],
+      "assets": [],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/developers-api-1440x900.png",
+        "tests/visual/developers-api/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/home?nav=Account",
+      "localPath": "/home?nav=Account",
+      "pageTitle": "HeyGen - Workspace & Profile Settings Modal",
+      "layout": "Centered 1098x812px 2-pane Settings dialog over backdrop blur (215px left navigation rail + right scrollable settings form pane)",
+      "components": [
+        "Profile Settings Rail (Account, Preferences, Personalization, Shared avatars)",
+        "Workspace Settings Rail (General, Plan & Billing, Usage & History, Security, Connections)",
+        "Account Form (Profile Picture +, Choose from avatars, Upload photo, First/Last Name, Change email, Create password, 2FA toggle, Connect Google, Delete Account, Log out)"
+      ],
+      "interactions": [
+        "All 9 settings tabs switch content panes dynamically",
+        "Profile edits & 2FA toggle persist via POST /api/auth",
+        "Workspace rename & team member invites persist via PATCH/POST /api/workspace"
+      ],
+      "responsiveStates": [
+        "Mobile to Desktop (320x568 - 2560x1440): Responsive modal container (max-w-1098px, max-h-90vh)"
+      ],
+      "assets": [],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/settings-modal-1440x900.png",
+        "tests/visual/settings-modal/reference.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    },
+    {
+      "referencePath": "/admin (Independent Protected Operations Console)",
+      "localPath": "/admin",
+      "pageTitle": "HeyGen Super Admin — Platform Operations Console",
+      "layout": "Independent route group with 265px dark operations sidebar (#16171a) + 1220px 10-module management console (zero visual leakage into user-facing HeyGen UI per Rule 17 & Phase 9)",
+      "components": [
+        "1. Overview & BullMQ Queue Telemetry",
+        "2. User Management",
+        "3. Avatar Management & Likeness Consent Verification",
+        "4. Voice Management & Speaker Consent Verification",
+        "5. Template Management",
+        "6. AI Model & Provider Management",
+        "7. Video Generation & FFmpeg Render Job Queue",
+        "8. Billing, Subscriptions & Credit Ledger",
+        "9. System Settings & Feature Flags",
+        "10. Security & Immutable Audit Logs"
+      ],
+      "interactions": [
+        "Full CRUD and operational actions across all 10 modules via /api/admin"
+      ],
+      "responsiveStates": [
+        "Mobile (<768px): Stacked top navigation + scrollable content",
+        "Tablet & Desktop (768px - 2560x1440): 265px left sidebar + fluid data tables"
+      ],
+      "assets": [
+        "/heygen-assets/logos/PRISM_ORB.svg"
+      ],
+      "referenceScreenshots": [
+        "docs/reference/screenshots/implementation/impl-super-admin-1440x900.png"
+      ],
+      "implementationStatus": "VERIFIED"
+    }
+  ]
+}

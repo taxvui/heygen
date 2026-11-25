@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:08,000
+Welcome to HeyGen AI Studio. Type or paste your script here.
+
+2
+00:00:08,000 --> 00:00:16,000
+Type narration script for this scene...
